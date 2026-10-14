@@ -1,0 +1,566 @@
+repo,Application,score_web,score_batch,score_ai,score_database,Autoscaler,ConfigMap,CRD,DaemonSet,Deployment,EndpointSlice,Ingress,LimitRange,Namespace,NetworkPolicy,PV,PVC,Pod,ReplicaSet,Secret,Service,StatefulSet,Node Affinity,Pod Anti-Affinity,Taints and tolerations
+1Panel-dev/KubePi,Web Application,11,4,0,1,1,1,1,1,6,0,1,0,0,0,0,1,1,0,1,6,1,0,0,0
+2-alchemists/krossboard-data-processor,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+512team/dhorse,Web Application,5,0,0,3,0,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+5G-ERA/middleware,Database Applications,0,0,1,14,0,1,0,0,9,0,0,0,0,0,3,0,1,0,0,9,1,0,0,0
+6uild/grafain,Database Applications,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,0,1,0
+AnubisLMS/Anubis,Database Applications,9,5,0,10,4,0,7,2,18,0,0,0,0,4,0,1,0,0,0,8,0,1,0,7
+Aptomi/k8s-app-engine,Database Applications,3,1,0,4,0,2,0,0,5,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0
+AthenZ/authorization-proxy,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Azure/kubectl-aks,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Azure/orkestra,Batch Application,0,2,0,0,0,1,6,0,4,0,0,0,1,0,0,0,0,0,0,4,0,0,0,3
+Blueshoe/pytest-kubernetes,Web Application,7,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+BojanZelic/cloudflare-zero-trust-operator,Web Application,1,0,0,0,0,0,8,0,3,0,0,0,1,1,0,0,0,0,1,3,0,1,0,0
+CARV-ICS-FORTH/frisbee,Database Applications,10,0,8,24,0,15,8,0,2,1,2,0,0,0,0,23,0,0,0,5,0,3,3,3
+Clivern/Beetle,Database Applications,2,1,0,4,0,1,0,0,2,0,2,0,0,0,0,0,0,0,0,2,0,0,0,0
+CloudNativeSDWAN/cnwan-operator,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+CloudNativeSDWAN/egress-watcher,Database Applications,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+CoThings-App/cothings,Database Applications,3,0,0,9,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,2,1,0,0,0
+ContainerSolutions/helm-monitor,Web Application,2,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,3
+CrunchyData/crunchy-containers,Database Applications,1,1,0,7,0,2,0,1,3,0,0,0,0,0,1,1,3,0,3,7,1,0,0,0
+CrystalNET-org/helm-romm,Web Application,4,0,0,2,0,1,0,0,1,0,1,0,0,0,1,2,1,0,1,1,0,0,0,3
+D10S0VSkY-OSS/Stack-Lifecycle-Deployment,Database Applications,3,0,0,21,0,0,0,0,15,0,0,0,2,0,0,0,0,0,2,7,0,0,0,0
+Edgio/vflow,Batch Application,0,3,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+ElementTech/kube-reqsizer,Unknown,0,0,0,0,0,1,0,0,4,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0
+F5Networks/f5-ci-docs,Web Application,5,0,0,0,0,10,0,0,18,0,13,0,0,0,0,0,0,0,1,6,0,0,0,0
+FederatedAI/KubeFATE,Batch Application,30,35,2,20,2,25,0,0,22,0,10,0,2,0,0,2,2,0,1,34,8,0,0,130
+FireBlinkLTD/fbl-plugins-k8s-helm,Web Application,2,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,2,0,0,2,0,0,0,6
+Flagro/PhriniFluentBackend,Web Application,3,0,0,3,0,3,0,0,3,0,1,0,0,0,2,2,0,0,3,3,0,0,0,0
+FredericHeem/starhackit,Database Applications,2,0,0,13,0,2,0,0,3,0,0,0,0,0,1,1,0,0,0,3,0,0,0,0
+GalleyBytes/terraform-operator,Unknown,0,0,0,0,0,0,26,0,33,0,0,0,26,0,0,0,0,0,0,13,0,0,0,0
+Getdeck/beiboot,Web Application,2,0,0,1,0,2,0,0,2,0,0,0,2,0,0,0,0,0,0,2,1,0,0,0
+Getdeck/getdeck,Web Application,10,0,0,0,1,0,0,0,6,0,5,0,6,0,0,0,0,0,0,5,0,0,0,3
+GoogleCloudPlatform/elcarro-oracle-operator,Web Application,1,0,0,1,0,0,41,0,6,0,0,0,3,0,0,0,0,0,0,6,0,2,2,2
+GoogleCloudPlatform/gke-poc-toolkit,AI Application,3,0,10,2,2,2,0,0,12,0,1,0,4,0,0,0,0,0,0,11,0,0,0,0
+GoogleContainerTools/container-debug-support,Web Application,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,11,0,0,0,0
+Huawei/eSDK_K8S_Plugin,Web Application,2,0,0,0,0,0,7,2,3,0,0,0,0,0,1,6,2,0,0,3,0,0,0,8
+IBM/cloud-operators,Unknown,0,0,0,0,0,0,10,0,3,0,0,0,1,0,0,0,0,0,0,45,0,0,0,0
+IBM/core-dump-handler,Web Application,1,0,0,0,0,0,0,1,0,0,0,0,0,0,3,3,1,0,2,0,0,1,0,7
+IBM/cp4waiops-gitops,Batch Application,0,2,0,0,0,5,15,0,16,0,0,0,3,0,0,0,0,0,1,0,0,0,2,0
+IBM/kar,Batch Application,7,12,0,4,0,8,0,2,10,0,0,1,1,0,0,4,20,0,2,14,4,13,0,4
+Icinga/helm-charts,Database Applications,2,0,0,6,0,16,0,0,12,0,4,0,0,0,0,0,1,0,0,4,27,0,0,12
+InfraBox/infrabox,Database Applications,5,2,0,11,0,1,2,0,9,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0
+InfuseAI/primehub,AI Application,3,4,17,4,0,24,14,2,16,0,8,0,0,9,1,2,0,0,18,19,7,10,4,89
+JahstreetOrg/spark-on-kubernetes-helm,Batch Application,4,5,3,1,0,3,0,0,2,0,2,0,0,0,1,3,0,0,5,4,1,4,0,10
+Jaydee94/kubeseal-webgui,Web Application,5,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,2,0,0,0,4
+K-Phoen/dark,Web Application,4,2,1,1,0,0,14,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+KAMONOHASHI/kamonohashi,AI Application,1,2,3,0,0,9,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,1,0,0
+Keyfactor/ejbca-cert-manager-issuer,Unknown,0,0,0,0,0,0,6,0,4,0,0,0,1,0,0,0,0,0,0,3,0,1,0,3
+KindlingProject/kindling,Web Application,3,1,0,1,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+Knappek/mongodbatlas-operator,Database Applications,1,0,0,6,0,0,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LangStream/langstream,Database Applications,5,0,3,18,0,0,2,0,0,0,0,0,3,0,0,0,3,0,0,3,0,0,0,0
+ManagedKube/kubernetes-ops,Database Applications,8,5,0,10,35,53,206,7,128,12,2,0,6,0,0,0,3,0,2,91,0,20,22,217
+Mario-F/cert-manager-selfservice,Web Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Metarget/metarget,Web Application,51,9,2,35,0,6,30,6,147,0,0,0,1,2,0,0,16,0,0,124,0,2,2,9
+Mirantis/k8s-AppController,Database Applications,0,2,0,12,0,1,0,1,1,0,0,0,0,0,0,0,32,2,1,5,1,0,0,0
+Mirantis/k8s-netchecker-server,Web Application,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0
+Monadical-SAS/Morpheus,Database Applications,6,0,7,13,0,0,0,2,10,0,1,0,0,0,2,3,4,0,0,6,0,18,0,0
+NVIDIA/container-canary,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NexClipper/exporterhub.io,Database Applications,5,0,0,13,3,31,1,4,32,1,12,0,0,4,0,8,0,0,11,35,4,0,0,102
+OT-CONTAINER-KIT/logging-operator,Web Application,2,1,0,0,0,3,17,0,3,0,0,0,1,0,0,0,0,0,2,2,0,9,6,9
+OT-CONTAINER-KIT/mongodb-operator,Database Applications,2,1,0,41,0,1,8,0,3,0,0,0,0,0,0,0,0,0,0,2,0,3,2,3
+OpenFunction/OpenFunction,Batch Application,3,8,0,0,0,1,28,0,6,0,0,0,1,0,0,0,0,0,1,4,0,4,4,4
+OrleansContrib/Orleans.Clustering.Kubernetes,Unknown,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PayU/redis-operator,Web Application,15,0,0,15,0,3,4,0,3,0,0,0,0,0,0,0,0,0,0,3,0,2,2,2
+PostHog/charts-clickhouse,Database Applications,4,4,0,14,8,12,3,2,39,0,1,0,1,0,0,1,0,0,8,13,0,0,0,47
+PrivateBin/helm-chart,Web Application,2,0,0,1,0,1,0,0,2,0,1,0,0,0,0,0,1,0,0,1,1,0,0,5
+Qihoo360/wayne,Database Applications,2,0,0,5,0,2,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+QingCloudAppcenter/QKE,AI Application,4,0,6,0,0,1,0,0,3,0,0,0,0,0,0,1,0,0,0,2,0,0,0,2
+Quentin-M/etcd-cloud-operator,Database Applications,0,0,0,3,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,0,3
+ReSearchITEng/kubeadm-playbook,Web Application,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0,0,2
+RoadieHQ/kubewise,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+SAP/InfraBox,Database Applications,10,2,0,15,0,6,8,1,19,0,3,0,2,3,0,0,0,0,17,9,0,0,0,0
+SDA-SE/cluster-image-scanner,Database Applications,2,2,0,4,0,10,0,0,3,0,0,0,5,0,0,4,0,0,9,1,0,1,0,1
+SUGAM-ARORA/UniCollab,AI Application,4,0,5,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+SeldonIO/tempo,AI Application,1,1,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0
+Skyscanner/applicationset-progressive-sync,Unknown,0,0,0,0,0,2,8,0,4,0,0,0,1,0,0,0,0,0,4,2,0,0,0,3
+Skyscanner/kms-issuer,Unknown,0,0,0,0,0,0,9,0,5,0,0,0,1,0,0,0,0,0,0,3,0,0,0,3
+Soluto/kamus,Web Application,8,0,0,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0
+StackStorm/stackstorm-k8s,Batch Application,2,3,0,2,0,10,0,0,14,0,1,0,0,0,0,0,1,0,7,5,0,0,16,70
+StarlingUAS/ProjectStarling,Unknown,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+SystemCraftsman/strimzi-kafka-cli,Unknown,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TIBCOSoftware/js-docker,Database Applications,4,4,0,10,6,6,0,3,10,0,3,0,0,0,0,2,0,0,10,6,0,0,0,7
+Tauffer-Consulting/domino,Batch Application,7,35,1,21,0,0,0,0,3,0,2,0,0,0,0,0,1,0,1,3,0,0,0,0
+Trendyol/kink,Web Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TsuyoshiUshio/KubernetesTask,Web Application,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+UKHomeOffice/kd,Web Application,6,0,0,1,0,10,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+UffizziCloud/uffizzi,Web Application,134,0,0,64,0,3,0,0,2,0,1,0,0,0,0,0,1,0,1,2,0,0,0,0
+WoSai/elastic-env-operator,Unknown,0,0,0,0,0,0,9,0,3,0,0,0,1,0,0,0,0,0,0,4,0,3,0,0
+WoozyMasta/kube-dump,Batch Application,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0
+XiaoMi/naftis,Database Applications,4,1,1,11,0,4,0,0,3,0,0,0,1,0,0,1,1,0,2,3,0,0,0,0
+accuknox/discovery-engine,Web Application,7,1,0,7,0,3,8,0,14,1,0,0,5,1,0,0,0,1,0,13,1,1,0,3
+acrlabs/simkube,Unknown,0,0,0,0,0,1,4,0,2,0,0,0,1,0,0,0,3,0,0,1,0,0,0,0
+adyanth/cloudflare-operator,Web Application,16,0,0,0,0,1,17,0,9,0,1,0,3,2,0,0,0,0,5,14,0,2,0,4
+agoda-com/samsahai,Web Application,2,0,0,0,0,1,22,0,1,0,1,0,0,0,0,0,0,0,2,2,0,0,0,3
+agola-io/agola,Database Applications,0,0,0,2,0,2,0,0,6,0,0,0,0,0,0,1,0,0,0,6,0,0,0,0
+ahmetb/kubectx,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+airflow-helm/charts,Database Applications,3,3,0,4,1,1,0,0,10,0,4,0,0,0,0,2,0,0,15,4,2,0,0,124
+alauda/captain,Unknown,0,0,0,0,0,1,20,0,8,0,0,0,1,0,0,0,0,0,0,9,0,0,0,0
+alauda/kubeflow-chart,AI Application,3,2,4,1,2,43,48,0,41,0,3,0,9,0,0,3,0,0,15,41,3,11,14,12
+alcideio/rbac-tool,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+alexei-led/pumba,Unknown,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+alibaba/SREWorks,Database Applications,23,9,5,25,17,237,103,66,174,0,56,0,57,47,0,40,8,0,110,256,77,227,111,761
+alibaba/hybridnet,Batch Application,0,1,0,0,0,1,16,1,3,0,0,0,0,1,0,0,0,0,0,2,0,0,1,4
+alibaba/kt-connect,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+alibaba/kubeskoop,Web Application,5,1,0,1,0,15,17,8,12,0,0,0,6,3,0,0,0,0,0,11,0,3,0,15
+alibaba/open-local,Web Application,17,2,1,6,0,1,7,1,3,0,0,0,0,0,0,1,1,0,0,10,8,2,2,12
+alibaba/virtual-environment,Web Application,2,0,0,1,0,0,1,0,3,0,0,0,1,0,0,0,0,0,1,2,1,0,0,0
+amikos-tech/chromadb-chart,Web Application,3,2,2,2,0,4,0,0,0,0,1,0,0,0,0,0,0,0,2,1,1,0,0,3
+angelnu/helm-charts,Web Application,2,0,0,1,0,1,1,0,0,1,1,0,0,0,1,0,1,0,1,1,0,1,0,1
+apache/incubator-kie-kogito-serverless-operator,Database Applications,1,0,0,26,0,14,22,0,20,0,0,0,5,0,0,11,0,0,0,19,0,9,9,9
+apcj-f5/nap-devsecops-demo,Database Applications,8,2,0,18,4,42,0,0,46,0,5,0,4,0,0,2,1,0,8,53,7,0,3,10
+apigeeks-com/a6s-k8s-keycloak-manager,Web Application,7,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+appuio/control-api,Unknown,0,0,0,0,0,0,7,0,2,0,0,0,1,1,0,0,0,0,0,5,0,0,0,0
+aquasecurity/kubectl-who-can,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aquasecurity/postee,Web Application,4,0,0,2,0,4,0,0,4,0,1,0,0,0,4,1,1,0,2,9,5,0,0,5
+argoproj-labs/argocd-vault-plugin,Batch Application,2,4,0,2,0,3,0,0,11,0,1,0,0,0,0,0,0,0,32,6,0,0,0,0
+arlonproj/arlon,Web Application,6,0,0,1,0,5,49,2,13,0,0,0,2,2,0,0,1,0,5,6,0,0,0,6
+arttor/helmify,Web Application,6,4,0,1,0,10,4,2,5,0,3,0,1,0,0,5,0,0,10,12,3,2,0,19
+ascoderu/lokole,Web Application,9,0,0,2,2,0,0,0,6,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0
+asobti/kube-monkey,Unknown,0,0,0,0,0,4,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+astefanutti/kubebox,Web Application,2,0,0,1,0,0,0,1,1,0,1,0,2,0,0,0,0,0,0,3,0,0,0,1
+atlassian/escalator,Unknown,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+aylei/kubectl-debug,Unknown,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+backtick-se/cowait,Batch Application,1,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bakdata/citus-k8s-membership-manager,Database Applications,2,0,0,3,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0
+banzaicloud/banzai-charts,Database Applications,4,7,0,14,3,22,27,3,48,0,24,0,1,1,0,3,1,0,26,48,3,4,4,114
+banzaicloud/banzai-cli,Batch Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+banzaicloud/istio-operator,Web Application,1,0,0,0,7,17,59,2,32,3,0,0,11,0,0,0,0,0,2,42,0,32,18,48
+banzaicloud/pipeline,Database Applications,3,0,0,11,0,1,0,0,3,0,1,0,0,0,0,0,0,0,3,1,0,0,0,0
+banzaicloud/pke,Web Application,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bcgov/OCWA,Database Applications,10,0,0,19,0,3,0,0,9,0,7,0,0,0,0,3,0,0,7,13,0,0,0,31
+beacon-biosignals/K8sClusterManagers.jl,Batch Application,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+belitre/kctx-manager,Web Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+beluga-cloud/charts,Web Application,5,0,0,1,0,2,0,0,15,0,14,0,0,11,6,20,20,0,6,19,4,18,1,45
+benc-uk/rayscale,Web Application,4,1,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,4,0,0,0,0
+benc-uk/smilr,Database Applications,6,0,0,15,0,0,0,0,12,0,6,0,0,0,0,0,2,0,2,15,3,3,0,3
+bentoml/Yatai,Web Application,3,0,2,1,1,0,3,0,8,0,1,0,0,0,0,0,4,0,3,1,0,0,0,12
+bergerx/kubectl-status,Web Application,21,4,0,9,0,0,1,0,14,4,3,0,0,0,0,6,26,10,0,7,9,0,0,16
+binary-braids/kubernetes-homelab,Database Applications,0,0,0,1,0,4,10,0,4,0,0,0,9,3,0,9,0,0,5,22,9,0,0,0
+bitauth/chaingraph,Database Applications,2,0,0,7,0,2,0,0,3,0,0,0,0,0,6,1,0,0,1,8,5,0,0,0
+bitovi/bitops,Web Application,3,0,0,0,2,1,0,0,4,0,2,0,0,0,0,0,2,0,0,2,0,0,0,6
+bitpoke/mysql-operator,Database Applications,4,0,0,16,0,1,20,0,3,0,1,0,1,0,0,0,0,0,6,6,1,4,4,5
+bitpoke/wordpress-operator,Web Application,10,0,0,3,0,0,4,0,1,0,0,0,1,0,0,0,0,0,2,2,2,2,2,5
+blackducksoftware/opssight-connector,AI Application,1,1,2,2,0,3,0,0,9,0,0,0,0,0,0,0,2,0,3,17,0,0,0,1
+bloomberg/goldpinger,Web Application,2,0,0,1,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,3
+bluek8s/kubedirector,AI Application,0,0,1,1,0,0,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0
+bman46/CTFd-Helm,Web Application,2,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,1,0,1,1,0,0,0,3
+brigadecore/brigade,Web Application,7,1,0,2,0,3,0,2,3,0,1,0,0,0,0,0,0,0,8,5,3,0,2,18
+brightbox/brightbox-cloud-controller-manager,Web Application,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+bryopsida/wireguard-chart,Batch Application,0,2,0,0,1,3,0,1,2,0,0,0,0,0,0,1,0,0,1,3,0,0,1,4
+cafkafk/rime,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,0,0,1,0
+caicloud/cyclone,Database Applications,2,1,1,3,0,4,7,0,5,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0
+camerahub/camerahub,Batch Application,3,4,0,2,0,1,0,0,2,0,1,0,0,0,0,3,1,0,1,2,0,0,0,6
+camilb/prometheus-kubernetes,Web Application,8,0,0,0,0,13,0,1,5,0,1,0,0,0,0,1,0,0,2,11,0,0,0,1
+caoyingjunz/csi-driver-localstorage,Web Application,12,2,0,1,0,0,3,6,5,0,0,0,0,0,0,1,2,0,9,9,1,5,0,7
+capactio/capact,Database Applications,4,2,0,55,7,5,6,0,16,0,2,0,0,0,0,0,2,0,7,13,0,0,0,21
+carina-io/carina,Web Application,27,2,0,4,1,7,14,3,18,0,0,0,3,0,0,6,1,0,1,13,5,5,2,11
+carvel-dev/kwt,Database Applications,0,0,1,4,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+cby-chen/Kubernetes,Web Application,32,2,0,5,0,18,71,4,52,0,3,0,5,4,0,0,0,0,1,31,1,0,11,12
+cc4i/mahjong0,Database Applications,2,3,0,15,1,37,74,2,83,0,0,0,4,0,1,2,0,0,13,71,0,25,19,24
+cdk-team/CDK,Web Application,4,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+chartmuseum/helm-push,Web Application,3,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,3
+checkly/checkly-operator,Web Application,2,0,0,0,0,0,15,0,2,0,1,0,1,2,0,0,0,0,0,2,0,0,0,0
+chriskinsman/tilloo,Web Application,4,0,0,2,0,3,0,2,6,0,2,0,3,0,0,0,0,0,0,6,0,0,0,2
+citrusframework/yaks,Web Application,3,0,0,3,0,0,61,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+clickvisual/clickvisual,Database Applications,9,4,0,23,0,4,0,0,4,0,1,0,0,0,0,0,1,0,0,4,0,0,0,3
+cloudflare/helm-charts,Unknown,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,1,4
+cloudposse/charts,Batch Application,3,4,0,1,4,43,53,7,64,0,22,0,0,0,0,10,0,0,20,73,2,12,0,39
+cloudposse-archives/helmfiles,Web Application,5,4,0,4,0,1,0,3,2,0,8,0,0,0,0,0,0,0,3,2,0,0,10,27
+cloudposse-archives/prometheus-to-cloudwatch,Web Application,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+cmattoon/aws-ssm,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0
+cnieg/helm-charts,Web Application,2,2,0,2,3,1,0,0,11,0,7,0,0,0,0,5,6,0,0,10,0,0,0,18
+codecentric/habitcentric,Database Applications,3,13,0,18,0,0,0,0,6,0,28,0,8,0,0,0,0,0,2,5,0,0,0,0
+colearendt/helm,Web Application,4,0,0,2,3,5,0,0,7,0,4,0,1,0,0,1,2,0,4,4,0,0,0,13
+compumike/hairpin-proxy,Unknown,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+con2/emrichen,Web Application,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+config-syncer/config-syncer,Web Application,3,0,1,2,0,3,0,0,0,1,0,0,0,0,0,0,1001,1,1,0,0,0,0,1
+contiv/install,Database Applications,0,0,0,10,0,1,0,5,0,0,0,0,0,0,0,0,0,3,0,2,0,0,0,6
+contiv/vpp,Web Application,28,1,0,10,0,49,29,17,38,0,0,0,2,10,0,0,39,1,3,24,5,4,0,25
+corneliusweig/rakkess,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cosmo-workspace/cosmo,Database Applications,1,0,0,3,0,1,18,0,12,2,0,0,1,0,0,0,0,20,22,12,0,0,0,5
+couler-proj/couler,AI Application,1,1,2,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+covalenthq/orbital,Web Application,1,0,0,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+crossplane-contrib/provider-ansible,Unknown,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+crossplane-contrib/provider-kafka,Unknown,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cruise-automation/isopod,Database Applications,1,1,1,2,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+csweichel/werft,Web Application,3,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,3
+cubefs/cubefs-helm,Web Application,6,0,0,1,0,4,0,4,10,0,1,0,0,0,0,2,0,0,0,7,3,0,1,33
+cvmfs-contrib/cvmfs-csi,Batch Application,0,2,0,0,0,2,0,1,2,0,0,0,1,2,4,6,4,0,0,0,0,0,0,6
+cyberark/conjur-oss-helm-chart,Database Applications,0,2,0,3,0,4,0,0,1,0,0,0,0,0,0,1,1,0,7,4,2,0,0,3
+cyberark/secretless-broker,Database Applications,3,2,0,15,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0
+cyberark/secrets-provider-for-k8s,Web Application,4,2,0,0,0,15,0,0,31,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0
+dajudge/kindcontainer,Unknown,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+danielfoehrKn/kubeswitch,Database Applications,5,2,1,11,0,0,0,0,0,1,0,0,0,0,0,0,1001,1,0,0,0,0,0,1
+danroux/sk8l-api,Web Application,11,4,0,0,0,4,0,0,2,0,0,0,2,4,0,0,0,0,0,2,0,0,0,5
+dataplane-app/dataplane,Database Applications,6,2,1,57,0,2,0,0,6,0,2,0,0,0,0,2,0,0,0,8,6,0,0,0
+debianmaster/openshift-examples,Database Applications,19,11,1,33,0,13,0,1,8,0,0,1,0,0,1,11,4,0,5,45,4,0,1,0
+deis/builder,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0
+deis/monitor,Database Applications,0,0,0,5,0,0,0,1,2,0,0,0,0,0,0,2,0,0,1,3,0,0,0,0
+deis/postgres,Database Applications,1,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+deis/router,Web Application,5,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0
+deis/workflow-e2e,Web Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+deis/workflow-manager,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+dekorateio/dekorate,Web Application,5,2,1,3,0,7,1,0,5,0,1,0,0,0,0,0,0,0,4,2,0,0,0,0
+deliverybot/helm,Web Application,4,4,0,1,0,0,0,0,6,0,3,0,0,0,0,0,0,0,3,3,0,0,0,5
+deployKF/deployKF,AI Application,2,3,23,8,0,52,48,0,90,0,0,0,16,0,0,9,0,0,28,48,6,9,9,29
+dergeberl/kubeteach,Web Application,1,0,0,0,0,0,3,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+determined-ai/determined,AI Application,9,5,22,5,0,3,0,1,4,0,0,0,0,0,0,2,2,0,1,6,0,0,0,0
+devicehive/devicehive-docker,Database Applications,9,12,0,16,0,2,0,0,11,0,2,0,0,0,0,0,0,0,2,8,0,0,0,3
+devopsprodigy/kubegraf,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+devopstales/trivy-operator,Database Applications,2,0,0,15,0,3,27,0,14,0,0,0,2,0,0,5,1,0,0,36,0,0,0,3
+devspace-cloud/devspace-cloud,Web Application,3,0,0,3,0,0,0,0,4,0,2,0,0,0,0,0,0,0,1,6,1,1,0,0
+dhall-lang/dhall-kubernetes,Web Application,7,1,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1
+digitalocean/clusterlint,Web Application,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1001,1,0,0,0,0,0,1
+digitalocean/csi-digitalocean,Web Application,76,1,0,10,0,0,119,48,21,0,0,0,0,0,1,9,4,0,0,34,84,0,0,0
+digitalocean/do-operator,Database Applications,1,2,0,3,0,13,66,0,17,1,0,0,14,0,0,0,1001,1,13,32,0,0,0,1
+digitopvn/diginext,Database Applications,4,0,0,14,0,0,0,1,6,0,3,0,4,0,0,0,0,0,0,6,0,0,0,0
+dntosas/astrolavos,Web Application,4,1,0,1,1,2,0,1,2,0,1,0,0,0,0,0,0,0,0,1,0,4,2,4
+drogue-iot/drogue-cloud,Database Applications,3,6,0,21,0,17,0,0,28,0,8,0,0,0,0,3,3,0,18,39,1,0,0,0
+ekristen/alertmanager-controller,Unknown,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2,3
+ekristen/dockit,Database Applications,2,0,0,4,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,2,3
+eldadru/ksniff,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+elemental-lf/benji,Database Applications,0,2,0,7,0,0,0,1,2,0,0,0,0,1,0,0,0,0,2,1,0,0,0,14
+emberstack/docker-sftp,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3
+equinix/terraform-equinix-metal-anthos-on-baremetal,Unknown,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ertis-research/kafka-ml,Batch Application,4,20,5,1,0,2,0,0,9,0,0,0,1,0,0,0,0,0,0,6,0,0,0,0
+estafette/estafette-ci-api,Database Applications,3,0,0,4,0,0,0,0,0,0,6,0,0,0,0,0,0,0,3,0,0,3,0,3
+estafette/estafette-gke-node-pool-shifter,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3
+estafette/estafette-gke-preemptible-killer,Unknown,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3
+estahn/charts,Web Application,2,2,0,0,2,1,0,0,4,0,1,0,0,0,0,0,2,0,0,2,0,0,0,13
+ettec/open-trading-platform,Web Application,4,3,0,3,0,3,0,0,11,0,1,0,0,0,0,0,1,0,0,26,7,0,0,4
+everoute/everoute,Web Application,2,1,0,1,0,3,33,4,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,7
+evryfs/github-actions-runner-operator,Unknown,0,0,0,0,0,0,5,0,3,0,0,0,1,0,0,0,0,0,0,4,0,1,2,1
+evryfs/helm-charts,Web Application,4,0,0,3,1,2,1,1,6,0,3,0,0,0,0,1,0,0,2,5,1,1,2,21
+faasm/faasm,Database Applications,1,2,0,35,0,0,0,0,3,0,0,0,1,0,0,0,7,0,0,10,0,10,3,0
+fasibio/GraphqlDockerProxy,Web Application,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+feiyu563/PrometheusAlert,Web Application,2,0,0,2,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,2,0,0,0,3
+finleap-connect/monoskope,Web Application,6,4,0,2,5,4,0,0,10,0,0,0,0,0,0,0,0,0,5,5,0,0,5,15
+finleap-connect/vaultoperator,Web Application,1,1,0,0,0,1,8,0,5,0,0,0,1,0,0,0,0,0,0,5,0,0,0,2
+flant/loghouse,Web Application,7,2,0,6,0,5,0,1,2,1,3,0,0,0,0,1,0,0,2,4,1,0,0,4
+fluidos-project/node,Web Application,20,2,0,2,0,2,11,1,7,0,0,0,0,0,0,0,0,0,2,8,0,0,4,17
+fluxcd/flagger,Web Application,2,0,0,1,7,5,9,1,30,0,0,0,7,0,0,0,1,0,1,7,0,0,1,12
+fluxninja/aperture,Web Application,5,4,1,4,0,3,14,0,24,0,1,0,1,0,0,0,0,0,2,14,0,14,13,37
+fmjstudios/helm,Web Application,6,3,1,4,1,11,2,0,9,0,10,0,0,0,0,7,1,0,37,11,10,2,2,41
+furiko-io/furiko,Web Application,6,2,0,1,0,1,6,0,2,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0
+fydrah/loginapp,Web Application,6,0,0,0,0,2,0,0,3,0,1,0,0,0,0,0,1,0,2,3,0,0,0,3
+gaia-pipeline/gaia,Web Application,6,1,0,1,0,2,0,1,2,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0
+gavinbunney/terraform-provider-kubectl,Unknown,0,0,0,0,0,1,10,0,1,0,0,0,1,0,0,0,0,0,0,1,0,3,3,3
+gdcc/dataverse-kubernetes,Database Applications,5,2,3,19,0,6,0,0,18,0,2,0,1,0,0,19,0,0,6,7,0,0,0,0
+getporter/kubernetes-plugins,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+getporter/operator,Database Applications,0,0,0,2,0,1,23,0,3,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0
+getseabird/seabird,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gmelillo/helm-charts,Database Applications,2,2,0,3,2,3,0,0,17,0,4,0,0,0,1,3,3,0,5,14,0,1,0,39
+gmelillo/registry,Batch Application,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+go-chassis/go-chassis,Database Applications,1,0,0,6,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+goatlas-io/atlas,Web Application,2,0,0,0,0,3,0,0,4,0,1,0,0,0,0,0,0,0,1,6,0,0,7,13
+gobackup/gobackup-operator,Database Applications,0,0,0,22,0,0,8,0,17,0,0,0,2,0,0,0,0,0,3,14,0,0,0,3
+gocardless/theatre,Database Applications,0,0,0,1,0,1,12,0,3,0,0,0,5,0,0,0,3,0,1,6,8,13,13,13
+gocrane/crane,Web Application,3,1,0,1,0,4,26,1,18,0,0,0,2,0,2,0,7,0,1,7,4,0,0,2
+google/k8s-digester,Batch Application,1,2,0,0,0,0,0,0,2,0,0,0,1,0,0,0,2,0,1,1,0,0,0,0
+google/shifter,Web Application,12,0,0,1,0,12,0,0,7,0,0,0,0,0,0,4,0,0,1,14,2,0,0,0
+googleforgames/global-multiplayer-demo,Web Application,2,0,0,1,0,3,0,0,5,0,0,0,4,0,0,0,0,0,0,5,0,0,0,0
+grafana/xk6-environment,Web Application,4,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0
+gudaoxuri/dew,Web Application,4,0,0,3,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0
+gyselroth/kube-icinga,Database Applications,0,1,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+habitat-sh/habitat-operator,Database Applications,0,0,0,29,0,0,4,0,6,0,0,0,3,0,0,0,0,0,5,4,0,0,0,0
+hadron-project/hadron,Database Applications,0,0,0,2,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3
+halkyonio/tap,Web Application,3,0,0,2,0,2,0,0,2,0,1,0,2,0,0,0,0,0,4,2,0,0,2,2
+hasura/gitkube,Web Application,3,1,2,3,0,1,2,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+hendrikmaus/helm-templexer,Web Application,4,0,0,0,1,0,0,0,3,0,1,0,0,0,0,0,1,0,0,2,0,0,0,3
+hivelocity/cluster-api-provider-hivelocity,Database Applications,5,2,1,11,0,7,28,1,9,1,0,0,3,0,0,0,1001,1,5,10,0,1,2,4
+holos-run/holos,Web Application,1,0,1,0,0,6,11,0,20,0,0,0,42,0,0,0,0,0,4,45,0,0,0,35
+hpe-storage/truenas-csp,Web Application,9,2,0,1,0,0,1,1,16,0,0,0,1,0,0,1,0,0,15,15,3,0,0,5
+huangyingting/bingo-microservices,Database Applications,5,0,0,10,0,0,0,0,5,0,2,0,0,0,0,0,0,0,1,5,0,0,0,0
+hyperledger-bevel/bevel,Web Application,8,3,0,5,0,70,19,1,7,0,9,0,3,0,0,5,96,0,46,37,25,0,0,5
+hyperspike/gitea-operator,Database Applications,1,0,0,3,0,2,16,1,3,0,0,0,4,0,0,0,0,0,2,4,0,0,0,0
+hypertrace/hypertrace,Database Applications,1,2,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hyscale/hyscale,Web Application,7,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0
+inclavare-containers/inclavare-containers,Database Applications,2,1,1,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+indeedeng/harbor-container-webhook,Web Application,1,0,0,0,0,1,0,0,4,0,0,0,1,0,0,0,0,0,0,4,0,0,0,3
+instaclustr/cassandra-operator,Database Applications,0,0,0,14,0,6,9,0,3,0,0,0,0,0,0,0,0,0,1,0,0,3,3,7
+instrumenta/kubeval,Web Application,38,2,0,16,1,1,0,1,4,0,0,1,1,0,2,0,0,0,0,15,0,0,0,1
+intelops/kubviz,Database Applications,2,0,0,6,2,14,0,0,4,0,4,0,0,0,0,1,0,0,0,4,0,0,0,8
+interledger/helm-charts,Unknown,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0
+isac322/homelab,Web Application,2,2,0,1,2,3,1,4,7,0,6,0,2,0,0,6,4,0,10,10,2,2,1,25
+itdesign/kubernetes-workshop,Web Application,9,0,0,5,0,0,0,0,12,0,0,0,0,0,0,0,2,0,0,12,2,0,0,0
+iter8-tools/iter8,Web Application,1,0,0,1,0,4,0,0,1,0,0,0,0,0,0,2,0,0,0,2,2,0,0,0
+jakoberpf/charts,Web Application,3,0,0,2,5,4,0,0,15,0,10,0,0,0,2,4,4,0,3,15,2,1,1,26
+janekbaraniewski/kubeserial,Unknown,0,0,0,0,0,5,4,1,4,0,0,0,0,0,0,0,0,0,0,4,0,1,0,3
+janlauber/one-click,Web Application,4,0,0,1,0,1,0,0,1,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0
+jaysonsantos/kustomize-sops-rs,Web Application,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+jenkinsci/google-kubernetes-engine-plugin,Web Application,8,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+jessestuart/tiller-multiarch,Web Application,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jina-ai/serve,AI Application,4,2,5,3,0,4,0,0,11,0,0,0,1,0,0,0,0,0,0,8,1,0,0,0
+jinnovation/kele.el,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jkcfg/jk,Web Application,1,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+jmickey/telegraf-sidecar-operator,Web Application,1,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,3,3,0,0,0,3
+joyrex2001/kubedock,Web Application,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0
+jtblin/kube2iam,Web Application,2,0,0,0,0,1,0,6,1,0,0,0,0,0,0,0,0,0,1,2,0,0,0,4
+jumppad-labs/jumppad,Unknown,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0
+justwatchcom/sql_exporter,Database Applications,1,1,0,9,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+k8s-proxmox/cluster-api-provider-proxmox,Web Application,1,0,0,0,0,5,11,1,3,0,0,0,1,0,0,0,0,0,1,2,0,1,0,1
+k8snetworkplumbingwg/multus-dynamic-networks-controller,Web Application,1,0,1,1,0,2,0,2,0,1,0,0,0,0,0,0,1004,1,0,0,0,0,0,3
+k8spin/grafana-multi-tenant-operator,Batch Application,0,2,0,0,0,0,8,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+k8spin/k8spin-operator,Web Application,2,0,0,0,0,0,12,0,7,0,0,0,2,0,0,0,0,0,0,4,0,12,12,12
+k8tz/k8tz,Web Application,61,2,0,2,0,0,0,0,5,0,0,0,3,0,0,0,23,0,1,1,8,0,0,7
+kadalu/kadalu,Web Application,1,0,0,0,0,0,5,1,7,0,0,0,5,0,1,22,23,0,0,0,0,0,0,5
+kaidotdev/kube-trivy-exporter,Database Applications,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,1,0
+kalgurn/kubeconfig-manager,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kdash-rs/kdash,Web Application,22,5,0,1,0,6,0,6,10,0,3,0,4,5,3,8,14,15,2,6,2,8,1,28
+keel-hq/keel,Web Application,4,0,0,1,0,0,0,0,2,0,1,0,2,0,0,1,0,0,2,2,0,0,0,3
+keikoproj/active-monitor,Unknown,0,0,0,0,0,1,14,0,7,0,0,0,2,0,0,0,1,0,0,7,0,0,0,0
+keikoproj/addon-manager,Unknown,0,0,0,0,0,2,12,0,6,0,0,0,1,0,0,0,0,0,0,7,0,0,0,0
+keikoproj/iam-manager,Database Applications,0,0,0,6,0,4,14,0,11,0,0,0,4,0,0,0,0,0,0,11,0,3,3,3
+keikoproj/lifecycle-manager,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+kitagry/berglas-secret-controller,Unknown,0,0,0,0,0,0,5,0,3,0,0,0,1,1,0,0,0,0,1,4,0,0,0,0
+kmdkuk/MCing,Unknown,0,0,0,0,0,2,7,0,6,0,0,0,1,0,0,0,0,0,0,6,0,1,1,1
+knix-microfunctions/knix,AI Application,2,2,3,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,1,7,3,0,1,15
+kobsio/kobs,Web Application,3,0,0,2,0,6,8,0,6,0,2,0,0,2,0,0,0,0,0,6,0,0,0,9
+koki/short,Database Applications,15,4,0,109,1,2,1,6,15,0,2,2,0,0,23,5,69,11,0,23,4,16,15,31
+komodorio/komoplane,Web Application,4,0,0,0,1,0,0,0,2,0,1,0,4,0,0,0,2,0,0,1,0,0,0,3
+kontena/k8s-client,Web Application,2,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,4,0,0,0,0
+kontena/mortar,Web Application,3,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0
+kontena/pharos-cluster,Web Application,2,2,0,1,0,4,21,3,3,0,0,0,0,1,0,0,0,0,0,3,1,0,0,7
+konveyor/move2kube,Web Application,33,0,1,15,0,0,0,0,24,0,0,0,4,2,0,0,0,0,0,1,0,0,0,29
+konveyor/move2kube-demos,Web Application,12,1,0,9,0,0,0,0,39,0,9,0,0,0,0,0,0,0,29,44,0,0,0,0
+konveyor/move2kube-ui,Web Application,4,0,0,4,0,0,2,0,5,0,1,0,1,0,0,1,0,0,2,6,1,1,0,0
+kotalco/kotal,Database Applications,0,0,0,2,0,0,41,0,3,0,0,0,1,0,0,0,1,0,44,7,0,0,0,0
+krisnova/naml,Web Application,29,2,1,9,0,17,22,7,26,0,4,0,5,1,0,3,0,0,11,30,1,0,3,10
+krkn-chaos/cerberus,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+krustlet/krustlet,Unknown,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,7,0,0,0,0,0,0,7
+kube-js/kube-ts-react-client,Web Application,5,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,3
+kube-js/kube-ts-server,Web Application,5,0,0,2,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,3
+kube-reporting/metering-operator,Database Applications,1,1,1,3,0,15,42,0,4,0,0,0,0,0,1,2,1,0,48,16,6,0,28,70
+kubeagi/arcadia,AI Application,8,4,29,13,0,16,80,2,19,0,13,0,2,4,0,5,1,0,21,25,4,25,18,61
+kubealex/k8s-mediaserver-operator,Web Application,3,0,0,0,0,14,2,0,12,0,8,0,2,0,0,9,0,0,0,24,0,2,0,0
+kubecost/disk-autoscaler,Database Applications,1,2,0,3,0,1,0,0,8,0,0,0,0,0,1,10,0,0,1,2,0,0,0,0
+kubecube-io/KubeCube,Database Applications,4,2,2,5,0,2,23,0,6,2,0,0,3,0,0,0,1001,1,3,9,0,0,0,1
+kubedl-io/kubedl,AI Application,5,0,15,1,1,3,56,0,10,0,1,0,3,0,0,0,2,0,0,8,0,22,22,25
+kubemod/kubemod,Web Application,9,4,0,0,0,0,6,0,8,0,0,0,3,0,0,0,0,0,0,8,0,0,0,0
+kubereboot/charts,Unknown,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,4
+kubeshop/botkube,Web Application,4,0,0,0,0,4,0,0,9,0,1,0,0,0,0,0,0,0,4,8,0,0,0,5
+kubeshop/kusk-gateway,Web Application,15,0,0,0,0,1,16,1,32,0,0,0,6,0,0,0,0,0,3,34,0,2,2,3
+kubeshop/kusk-gen,Unknown,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+kubeshop/monokle,Web Application,1,0,1,0,0,3,51,0,14,0,0,0,0,1,2,0,0,0,2,8,0,42,43,44
+kubeshop/monokle-core,Web Application,2,0,0,0,0,0,4,0,9,0,0,0,0,0,0,0,2,6,0,1,0,1,1,2
+kubesphere/kubeeye,Web Application,1,0,0,0,0,3,18,0,4,0,0,0,1,0,0,2,0,0,0,5,0,0,0,0
+kubesphere/kubesphere,Database Applications,14,4,1,16,0,11,39,0,8,2,1,0,0,2,0,2,2004,2,14,8,1,5,5,28
+kubesphere/s2ioperator,Database Applications,0,0,0,1,0,1,6,0,3,0,0,0,0,0,0,0,0,0,4,8,9,0,0,0
+kubestone/kubestone,Database Applications,1,0,0,3,0,1,41,0,6,0,0,0,2,0,0,0,0,0,0,5,1,16,20,16
+kudobuilder/kudo,Web Application,52,2,0,1,0,23,30,0,52,0,0,0,4,0,3,3,5,0,3,21,7,21,21,21
+kumina/k8s-redirectory,Web Application,5,0,0,3,0,4,0,0,4,0,2,0,0,0,1,3,0,0,0,4,0,0,0,0
+kvaps/kube-fencing,Unknown,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,6
+kz8s/tack,Database Applications,0,0,0,3,0,0,0,1,7,0,0,0,0,0,0,0,1,0,0,5,2,0,0,9
+labring/laf,Web Application,5,2,1,5,7,44,10,3,15,5,9,0,0,10,0,2,4,0,12,27,5,4,31,66
+lethek/k8s-gitops,Web Application,2,2,0,0,0,5,4,0,4,0,1,0,8,2,0,0,0,0,19,0,0,0,0,0
+liggitt/audit2rbac,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+linktimecloud/kubernetes-data-platform,Batch Application,12,27,2,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+litmuschaos/chaos-exporter,Unknown,0,0,0,0,0,2,0,0,3,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+litmuschaos/chaos-operator,Unknown,0,0,0,0,0,0,9,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,9
+litmuschaos/litmus-helm,Web Application,3,2,0,1,6,4,17,0,16,0,1,0,0,0,0,0,0,0,9,7,0,0,0,42
+lockc-project/lockc,Web Application,12,0,0,0,0,0,0,0,10,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+loft-sh/component-chart,Web Application,9,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,0,2
+luxas/kubernetes-on-arm,Database Applications,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0
+lwolf/kube-cleanup-operator,Web Application,1,0,1,1,0,0,0,0,2,1,0,0,0,0,0,0,1001,1,0,1,0,0,0,4
+lwolf/stolon-chart,Batch Application,0,2,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,2,1,0,0,12
+m88i/nexus-operator,Unknown,0,0,0,0,0,0,7,0,4,0,0,0,2,0,1,0,0,0,1,6,0,0,0,0
+m9sweeper/m9sweeper,Web Application,68,5,1,5,0,8,0,0,4,0,10,0,2,0,0,0,39,0,8,11,1,0,0,49
+maddevsio/aws-eks-base,Web Application,6,4,0,3,0,0,0,0,3,0,3,0,0,0,0,2,0,0,0,3,0,0,0,0
+madhuakula/kubernetes-goat,Web Application,5,3,0,0,0,0,0,1,10,0,1,0,2,0,0,0,1,0,3,11,0,1,0,4
+maistra/istio-workspace,Batch Application,0,1,0,0,0,0,3,0,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+manusa/yakc,Web Application,3,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+manusa/yakd,Web Application,2,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0
+marcoshuck/todo,Database Applications,2,0,0,6,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+mateimicu/kdiscover,Database Applications,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+matrixorigin/matrixone-operator,Database Applications,0,3,0,12,0,1,42,2,4,0,0,0,1,0,0,0,0,0,3,4,3,3,1,23
+mattfenwick/cyclonus,Web Application,2,2,0,0,0,1,15,1,1,0,0,0,0,15,0,0,0,0,0,0,0,0,0,2
+maxisam/mgob,Database Applications,2,0,0,11,0,3,0,1,0,0,1,0,1,0,0,0,0,0,1,4,4,0,0,1
+mc256/starlight,Database Applications,3,0,0,6,0,0,0,1,2,0,1,0,0,0,0,2,0,0,0,2,0,0,0,6
+mdsanima-lab/k3s-kube-demo,Web Application,4,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0
+megaease/easemesh,Database Applications,1,0,0,3,0,0,6,0,5,0,0,0,1,0,0,0,0,0,0,2,0,2,2,2
+merbridge/merbridge,Web Application,1,1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+metarank/metarank,Database Applications,3,4,0,6,1,1,0,0,2,0,1,0,0,0,0,0,1,0,0,1,0,0,0,3
+mhausenblas/kubed-sh,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+midokura/helm-charts-community,Database Applications,2,0,0,3,1,8,0,0,9,0,9,0,0,0,0,3,6,0,5,15,7,0,0,39
+milesmcc/shynet,Database Applications,6,0,0,11,0,0,0,0,2,0,1,0,0,0,0,0,0,0,1,2,1,0,0,0
+mintel/dex-k8s-authenticator,Web Application,3,0,0,0,0,2,0,0,2,0,2,0,0,0,0,0,0,0,3,2,0,0,0,6
+miscord-dev/tetrapod,Web Application,1,1,0,0,0,0,19,1,5,0,0,0,1,0,0,0,0,0,0,4,0,2,0,1
+mittwald/kubernetes-secret-generator,Batch Application,0,1,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+morphy2k/k8s-mongo-sidecar,Database Applications,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+mruoss/kompost,Database Applications,2,0,0,4,0,0,10,0,4,0,0,0,2,0,0,0,0,0,0,4,0,0,0,3
+mshade/kronic,Web Application,5,2,0,0,0,0,0,0,3,0,2,0,1,0,0,0,1,0,1,2,0,0,0,3
+mtougeron/k8s-pvc-tagger,Web Application,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3
+nakamasato/memcached-operator,Unknown,0,0,0,0,0,0,4,0,2,0,0,0,1,1,0,0,0,0,0,3,0,0,0,0
+nashtech-garage/yas,Database Applications,7,4,1,11,5,17,0,0,17,0,7,0,0,0,2,3,3,0,12,14,1,2,0,15
+natrontech/kubelab,Web Application,4,0,0,2,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0
+nats-io/nats-streaming-operator,Unknown,0,0,0,0,0,0,4,0,3,0,0,0,0,0,1,1,0,0,0,0,0,0,2,3
+nebuly-ai/nos,Web Application,7,0,1,0,0,8,10,8,16,0,0,0,7,0,0,0,1,0,0,12,0,1,0,21
+neoskop/mgnl-on-k8s,Database Applications,2,0,0,7,0,5,0,0,1,0,5,0,0,0,0,0,0,0,10,5,3,0,2,21
+neoskop/papergirl,Web Application,3,2,0,1,0,5,0,0,1,0,2,0,0,0,0,0,0,0,1,3,2,0,3,5
+nginxinc/kic-reference-architectures,Web Application,45,2,0,9,0,13,8,1,23,0,3,0,1,0,0,0,0,0,2,36,4,3,3,5
+nicholaswilde/helm-charts,Database Applications,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+nobbs/kubectl-mapr-ticket,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nokia/danm,Batch Application,0,3,0,0,0,1,6,3,9,0,0,0,3,0,0,0,1,0,0,5,0,0,0,2
+nolar/kopf,Web Application,2,0,0,1,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nutanix-cloud-native/cosi-driver-nutanix,Unknown,0,0,0,0,0,3,5,0,4,0,0,0,1,0,0,0,1,0,2,0,0,0,0,0
+nutanix-cloud-native/ndb-operator,Database Applications,0,0,0,12,0,1,10,0,5,0,0,0,1,0,0,0,8,0,16,8,0,0,0,3
+nuvo/cain,Batch Application,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+nuvo/skbn,Batch Application,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+oam-dev/cluster-gateway,Unknown,0,0,0,0,0,0,5,0,2,0,0,0,1,0,0,0,0,0,4,1,0,0,0,0
+odigos-io/opentelemetry-go-instrumentation,Web Application,1,0,0,0,0,0,0,0,8,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0
+ofek/csi-gcs,Web Application,2,0,0,0,0,0,1,2,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,1
+ondat/discoblocks,Web Application,4,0,0,0,0,1,5,2,9,0,0,0,1,0,5,4,4,0,0,7,0,0,0,0
+ondat/trousseau,Web Application,6,0,0,0,0,8,0,10,0,0,0,0,0,0,0,0,2,0,9,1,0,6,0,6
+oneinfra/oneinfra,Web Application,1,1,1,1,0,0,17,0,5,0,0,0,3,0,0,0,0,0,0,9,0,0,0,0
+onmetal/matryoshka,Database Applications,0,0,0,2,0,0,14,0,4,0,0,0,1,0,0,0,0,0,5,5,0,3,3,3
+open-source-labs/Chronos,Database Applications,3,0,0,17,0,2,0,0,7,0,0,0,0,0,0,2,0,0,0,7,0,0,0,0
+openclarity/apiclarity,Web Application,3,2,0,3,0,2,0,1,1,0,0,0,0,0,0,1,0,0,1,2,0,0,0,0
+openebs/velero-plugin,Database Applications,1,2,0,6,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+openebs-archive/cstor-operators,Web Application,23,2,0,9,0,19,50,10,20,0,0,0,6,0,2,11,6,0,5,15,4,0,0,41
+openebs-archive/dynamic-nfs-provisioner,Batch Application,1,2,0,0,0,0,1,0,4,0,0,0,4,0,1,4,2,0,0,0,0,2,0,4
+openebs-archive/jiva-operator,Database Applications,7,2,0,9,0,14,10,7,10,0,0,0,6,0,1,11,3,0,5,7,4,24,24,41
+openebs-archive/node-disk-manager,Web Application,20,0,0,0,0,4,6,7,6,0,0,0,2,0,0,0,0,0,0,6,0,0,0,16
+openelb/openelb,Web Application,10,3,0,0,0,1,11,4,5,0,0,0,2,0,0,0,1,0,3,7,0,0,2,9
+openyurtio/raven,Batch Application,0,1,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,4
+operator-framework/kubectl-operator,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ops-center/searchlight,Web Application,11,3,1,9,0,0,5,0,3,1,0,0,1,0,0,1,5,0,13,5,1,0,0,7
+oracle/oracle-database-operator,Database Applications,1,1,0,4,0,2,91,0,4,0,0,0,2,1,2,3,0,0,5,12,2,0,0,0
+orchest/orchest,Web Application,13,6,3,4,2,7,7,2,11,0,4,0,0,0,0,1,0,0,2,8,0,1,0,42
+ouzi-dev/credstash-operator,Web Application,1,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+ouzi-dev/prow-helm-chart,Web Application,5,2,0,0,0,5,2,0,14,0,2,0,0,0,0,1,0,0,2,9,0,3,3,67
+oxheadalpha/tezos-k8s,Web Application,4,4,0,1,0,18,0,1,5,0,7,0,0,0,0,5,0,0,13,24,15,0,0,11
+padogrid/padogrid,Database Applications,1,1,0,5,3,16,0,0,16,0,0,0,2,0,9,25,2,0,2,44,17,0,0,0
+paritytech/helm-charts,Web Application,9,3,0,3,4,6,0,0,15,0,8,0,5,0,0,10,1,0,11,16,5,4,2,35
+paunin/PostDock,Database Applications,0,0,0,32,0,3,0,0,3,0,0,0,2,0,10,10,0,0,3,10,8,0,0,0
+petuum/adaptdl,AI Application,2,0,3,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,1,3,0,0,0,5
+pfnet-research/git-ghost,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+phenixblue/imageswap-webhook,Web Application,9,0,0,0,3,6,0,0,11,0,0,0,2,0,0,0,6,0,0,2,0,0,0,0
+philpep/imago,Batch Application,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pieterlange/kube-backup,Batch Application,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pieterlange/kube-openvpn,Unknown,0,0,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+pixiu-io/kubez-ansible,Web Application,7,2,0,3,0,0,0,1,5,0,2,0,0,0,0,2,3,0,0,4,1,0,0,3
+polarstreams/polar,Database Applications,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,4
+postfinance/kuota-calc,Database Applications,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+powerfulseal/powerfulseal,Web Application,2,0,0,0,0,1,1,0,2,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0
+practo/k8s-worker-pod-autoscaler,Web Application,4,1,1,2,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+premiscale/pass-operator,Web Application,1,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0
+projectsyn/lieutenant-api,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+projectsyn/steward,Unknown,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+prometheus-msteams/prometheus-msteams,Web Application,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,3
+q-m/scrapyd-k8s,Web Application,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+radondb/radondb-mysql-kubernetes,Database Applications,0,0,0,24,0,2,12,0,5,0,0,0,1,0,2,2,0,0,6,10,0,9,13,33
+rajatjindal/krew-release-bot,Batch Application,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+raptor-ml/raptor,Batch Application,1,3,0,3,0,0,8,0,9,0,0,0,1,0,0,0,0,0,1,5,0,0,0,0
+reactive-tech/kubegres,Database Applications,1,2,0,17,0,10,4,0,3,0,0,0,3,1,0,3,0,0,3,7,2,2,2,2
+reanahub/reana,Database Applications,2,2,2,10,0,5,0,0,8,0,1,0,1,2,2,2,0,0,14,11,1,0,0,0
+redhat-developer/vscode-knative,Web Application,2,0,0,0,0,2,1,0,4,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0
+redradrat/aws-iam-operator,Unknown,0,0,0,0,0,0,20,0,3,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+rekcurd/dashboard,Web Application,4,0,1,2,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+relferreira/kubedev,Web Application,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+replicatedhq/outdated,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+roboll/helmfile,Web Application,3,0,0,2,0,13,0,0,4,0,2,0,0,0,0,0,0,0,8,4,1,0,0,0
+robscott/kube-capacity,Web Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rootless-containers/usernetes,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rootsongjc/kubernetes-vagrant-centos-cluster,Web Application,8,2,0,5,5,14,48,3,34,0,5,0,4,0,0,2,1,0,2,34,2,11,0,4
+ruckstack/ruckstack,Web Application,7,0,0,1,0,2,0,2,2,0,0,0,1,0,0,0,0,0,4,2,0,0,0,2
+run-x/opta,Web Application,11,3,0,5,1,2,0,0,2,0,3,0,4,0,0,0,1,0,5,3,2,0,6,14
+s3gw-tech/s3gw,Web Application,7,0,1,1,0,3,0,0,6,0,15,0,4,0,0,3,0,0,12,9,0,0,0,0
+saarasio/enroute,Database Applications,5,0,0,9,1,0,12,0,10,0,0,0,1,0,0,0,4,0,0,515,0,0,2,4
+saschagrunert/kubernix,Unknown,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1
+scholzj/terraform-aws-kubernetes,Web Application,4,0,0,0,0,4,21,2,10,0,1,0,2,1,0,0,0,0,3,6,0,11,9,17
+scramjetorg/transform-hub,AI Application,1,1,2,2,0,1,0,0,1,0,0,0,0,5,0,0,0,0,2,4,1,0,0,0
+sealerio/sealer,Web Application,18,1,1,12,3,0,0,0,12,0,4,0,3,0,0,0,0,0,1,4,0,0,0,9
+senthilrch/kube-fledged,Web Application,2,0,0,0,0,0,3,0,5,0,0,0,1,0,0,0,0,0,0,2,0,0,0,5
+shyiko/kubetpl,Web Application,13,0,0,0,0,6,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+siakhooi/shed,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+sighupio/furyctl,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,229
+sighupio/permission-manager,Web Application,5,2,0,0,1,0,2,0,3,0,1,0,0,0,0,0,1,0,2,2,0,0,0,4
+sitewhere/sitewhere-k8s,Database Applications,0,4,0,7,0,1,14,0,1,0,0,0,0,0,1,2,4,0,1,2,0,0,0,0
+skai-x/elastic-jupyter-operator,AI Application,0,0,14,0,0,0,17,0,1,0,0,0,2,0,0,0,0,0,0,4,0,3,3,3
+sl1pm4t/k2tf,Web Application,14,4,3,1,0,1,1,3,3,1,2,0,2,1,0,1,2,0,1,1,1,1,0,2
+slime-io/slime,Web Application,2,0,0,2,0,12,58,0,35,0,0,0,3,0,1,1,1,0,0,30,0,2,2,10
+slok/kubewebhook,Web Application,10,1,0,0,0,0,1,0,6,0,3,0,1,0,0,0,0,0,2,2,0,0,0,0
+sodafoundation/api,Database Applications,2,4,0,8,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0
+sodafoundation/nbp,Web Application,24,1,0,3,0,3,0,2,4,0,0,0,0,0,0,11,11,0,0,8,6,0,0,2
+soerenschneider/vault-pki-cli,Unknown,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+soketi/charts,Web Application,2,0,0,0,2,0,0,0,5,0,2,0,0,0,0,0,2,0,0,13,0,0,0,9
+solarwinds/rkubelog,Database Applications,2,1,1,4,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sonatype-nexus-community/nexus-kubernetes-openshift,Web Application,1,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sorintlab/stolon,Database Applications,0,0,0,9,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+sorry-cypress/charts,Web Application,2,2,0,2,0,0,0,0,3,0,3,0,0,0,0,0,5,0,2,3,0,0,0,12
+sostheim/lbex,Database Applications,1,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sozercan/kubectl-ai,AI Application,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+spacecloud-io/space-cloud,Database Applications,3,1,0,28,4,4,6,0,22,0,0,0,4,0,0,3,0,0,0,18,0,2,2,6
+sparkfabrik/terraform-aws-eks-bootstrap,Batch Application,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+spinframework/spin-plugin-kube,Unknown,0,0,0,0,2,0,0,0,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+splunk/splunk-connect-for-kubernetes,Unknown,0,0,0,0,0,8,0,4,10,0,0,0,3,0,0,0,1,0,6,2,0,0,0,16
+spotahome/redis-operator,Database Applications,1,0,0,17,0,2,3,0,7,0,0,0,4,0,0,0,0,0,3,4,0,8,7,17
+squat/kilo,Web Application,7,3,1,2,0,13,1,19,2,1,0,0,1,0,0,0,1001,1,0,1,0,0,0,19
+srfrnk/jabos,Web Application,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+star-whale/starwhale,Database Applications,10,2,17,19,0,1,0,0,4,0,2,0,0,0,2,3,1,0,0,3,0,2,0,3
+stelligent/config-lint,Web Application,17,0,0,2,0,2,0,0,0,0,0,0,0,2,0,0,9,0,0,0,0,0,0,0
+stenic/helm-charts,Web Application,3,0,0,1,0,1,0,0,2,1,5,0,0,0,0,1,1,0,3,7,1,0,0,9
+stenic/ledger,Database Applications,3,0,0,4,1,0,0,0,3,0,1,0,0,0,0,0,0,0,2,1,0,0,0,5
+store2be/pape-rs,Web Application,2,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+suecodelabs/cnfuzz,Web Application,2,2,0,0,0,2,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,0,0,3
+superedge/superedge,Web Application,8,0,0,4,1,19,6,8,13,0,0,0,0,0,0,0,1,0,6,9,1,5,6,21
+surajincloud/kubectl-eks,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tarantool/tarantool-operator,Unknown,0,0,0,0,0,0,13,0,3,0,0,0,1,0,0,0,0,0,0,2,0,4,4,4
+target/pod-reaper,Unknown,0,0,0,0,0,0,0,0,5,0,0,0,5,0,0,0,1,0,0,0,0,0,0,3
+teamhephy/builder,Unknown,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0
+teamhephy/controller,Web Application,4,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,2,1,0,0,0,0
+teamhephy/router,Web Application,6,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0
+teamhephy/workflow,Database Applications,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+techno-tim/k3s-ansible,Web Application,2,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0
+tencentmusic/cube-studio,Database Applications,7,6,21,29,7,23,70,3,41,0,4,0,0,0,23,15,0,0,13,40,2,36,13,16
+tensorchord/envd-server,Web Application,4,1,0,4,0,2,0,0,2,0,1,0,0,0,1,1,1,0,1,2,0,0,0,5
+thanos-io/kube-thanos,Database Applications,0,0,0,5,0,1,0,0,7,0,0,0,0,0,0,1,0,0,1,22,14,0,17,0
+tkestack/galaxy,Web Application,1,1,0,0,0,4,2,3,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,4
+tkestack/kvass,Database Applications,0,0,0,1,0,2,0,0,3,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0
+tkestack/tapp,Web Application,5,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tkestack/tke,Web Application,12,4,0,6,2,68,33,30,50,0,3,0,1,2,1,11,4,0,10,55,6,34,26,60
+tliron/turandot,Web Application,2,0,1,1,1,0,1,0,4,0,1,0,0,0,0,0,1,0,0,4,0,3,2,8
+tmobile/magtape,Web Application,5,0,0,1,3,21,0,0,17,0,0,0,2,0,0,0,6,0,0,6,1,0,0,0
+traas-stack/chaosmeta,Database Applications,2,2,0,7,0,6,29,2,21,0,0,0,6,0,0,0,0,0,0,20,0,0,0,0
+tsukhu/nxplorerjs-microservice-starter,Web Application,3,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+tuenti/secrets-manager,Unknown,0,0,0,0,0,1,6,0,6,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0
+tumblr/k8s-sidecar-injector,Web Application,24,2,0,2,0,10,0,0,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0
+typeable/octopod,Web Application,4,0,0,2,0,2,0,0,1,0,4,0,0,0,0,0,0,0,2,1,0,0,0,3
+ucloud/redis-cluster-operator,Database Applications,0,2,0,32,0,4,4,0,4,0,0,0,0,0,0,1,0,0,2,1,0,0,0,0
+ucloud/redis-operator,Database Applications,1,0,1,6,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2
+undistro/marvin,Web Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unicef/magasin,Database Applications,4,3,4,5,5,37,21,0,20,0,8,0,0,11,0,2,0,0,23,40,17,26,17,124
+upbound/xgql,Web Application,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3
+upmc-enterprises/elasticsearch-operator,Database Applications,3,1,0,5,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+upmc-enterprises/registry-creds,Database Applications,2,1,0,4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+userbradley/gcs-web-server,Web Application,2,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0
+validator-labs/validator,Batch Application,0,2,0,1,0,1,10,0,5,0,0,0,1,1,0,0,0,0,9,4,0,0,0,0
+vanus-labs/vanus,Web Application,20,0,0,16,0,36,0,0,18,0,0,0,6,0,9,15,0,0,0,28,24,9,0,0
+vanvalenlab/kiosk-console,AI Application,4,0,8,0,3,1,0,1,11,0,1,0,11,0,0,0,2,0,3,2,0,0,0,29
+vapor-ware/kubetest,Web Application,8,0,0,7,0,2,0,1,8,0,2,0,0,1,0,1,0,1,0,5,1,0,0,0
+verdaccio/charts,Web Application,2,0,0,1,0,2,0,0,1,0,1,0,0,0,0,1,0,0,2,1,1,0,0,7
+vietnam-devs/coolstore-microservices,Database Applications,5,2,0,18,0,1,0,0,18,0,2,0,1,0,0,0,0,0,4,18,0,0,0,0
+vmware/kube-fluentd-operator,Web Application,2,0,0,1,0,4,1,2,0,0,0,0,3,0,0,0,7,0,1,4,0,0,0,5
+vmware-tanzu/cartographer,Web Application,1,0,0,0,0,93,23,0,3,0,0,0,1,0,0,0,0,0,40,2,0,0,0,0
+vmware-tanzu/crash-diagnostics,Web Application,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+vmware-tanzu/sonobuoy,Web Application,7,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,2
+vmware-tanzu/vsphere-kubernetes-drivers-operator,Web Application,8,0,0,0,0,7,16,4,12,0,0,0,4,0,0,0,0,0,0,9,0,0,2,10
+vshn/espejo,Unknown,0,0,0,0,0,3,3,0,3,1,0,0,1,1,0,0,0,0,0,4,0,0,0,0
+wasmCloud/wasmcloud-operator,Unknown,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,1,0,0,2,0,0,0,3
+wichert/k8s-sentry,Unknown,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+wso2/kubernetes-apim,Database Applications,2,0,0,5,0,20,0,0,15,0,20,0,0,0,0,14,0,0,8,19,0,0,0,0
+wso2/kubernetes-is,Web Application,3,2,0,3,1,6,0,0,2,0,1,0,0,0,1,1,0,0,1,4,0,0,1,0
+xco-sk/eck-custom-resources,Unknown,0,0,0,0,1,1,59,0,5,0,0,0,1,0,0,0,1,0,2,3,0,0,0,3
+xigxog/kubefox,Database Applications,1,0,0,7,0,5,6,1,4,0,0,0,0,0,0,0,3,0,0,8,1,3,3,3
+xuwenyihust/PawMark,Batch Application,2,14,4,6,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+yahoo/kubectl-flame,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+yannh/kubeconform,Web Application,43,2,0,20,1,1,3,2,4,0,0,1,1,0,2,0,0,0,0,19,0,1,1,2
+yashbhutwala/kubectl-df-pv,Web Application,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ydb-platform/ydb-kubernetes-operator,Batch Application,0,2,0,1,0,0,9,0,1,0,0,0,0,0,0,0,0,0,1,2,0,9,11,17
+yunify/hostnic-cni,Web Application,8,3,1,2,0,3,23,6,3,0,0,0,0,1,0,0,2,0,1,2,0,0,0,4
+zalando-incubator/es-operator,Database Applications,0,0,0,1,0,3,2,1,3,0,0,0,1,0,0,0,0,0,0,5,3,1,1,2
+zalando-incubator/kube-aws-iam-controller,Unknown,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zalando-incubator/kube-metrics-adapter,Web Application,3,0,0,1,1,0,4,0,4,0,2,0,0,0,0,0,0,0,0,3,0,0,0,4
+zntrio/harp,Batch Application,1,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+zoetrope/kubbernecker,Unknown,0,0,0,0,0,1,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0

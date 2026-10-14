@@ -1,0 +1,30 @@
+Target,Pattern
+Deployment,Deployment
+StatefulSet,StatefulSet
+DaemonSet,DaemonSet
+ReplicaSet,ReplicaSet
+Pod,Pod
+Service,Service
+EndpointSlice,Endpoints | EndpointSlice
+Ingress,Ingress | IngressClass
+ConfigMap,ConfigMap
+Secret,Secret
+Namespace,Namespace
+NetworkPolicy,NetworkPolicy
+PersistentVolume,PersistentVolume
+PersistentVolumeClaim,PersistentVolumeClaim
+Autoscaler,HorizontalPodAutoscaler | VerticalPodAutoscaler
+LimitRange,LimitRange
+CustomResourceDefinition,CustomResourceDefinition
+Node Affinity,nodeAffinity | requiredDuringSchedulingIgnoredDuringExecution | preferredDuringSchedulingIgnoredDuringExecution
+Pod Anti-Affinity,podAntiAffinity | podAffinity | topologyKey
+Taints and tolerations,taints | tolerations | NoSchedule | PreferNoSchedule | NoExecute
+Databases (StatefulSets),statefulset | postgres | mysql | mariadb | mongodb | redis | cassandra | cockroachdb
+Web applications,heuristic: Deployment and Service both present in the repo
+Data pipelines,data pipeline | data pipelines
+Batch jobs,job | cronjob
+Terraform,terraform | .tf
+Helm,helm | Chart.yaml | Chart.yml | values.yaml | values.yml
+Ansible,ansible | playbook | playbook.yaml | playbook.yml
+ArgoCD,argocd | argoproj.io
+Flux,fluxcd | flux

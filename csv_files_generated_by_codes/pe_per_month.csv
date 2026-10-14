@@ -1,0 +1,2395 @@
+Month,PE,Category,Count,AllPETotal_t,ObjectTotal_t,ReleaseCount_t,PEPerMonth_pct
+2015-11,Autoscaler,object,0,0,0,1,0.0
+2015-11,ConfigMap,object,0,0,0,1,0.0
+2015-11,CustomResourceDefinition,object,0,0,0,1,0.0
+2015-11,DaemonSet,object,0,0,0,1,0.0
+2015-11,Deployment,object,0,0,0,1,0.0
+2015-11,Ingress,object,0,0,0,1,0.0
+2015-11,LimitRange,object,0,0,0,1,0.0
+2015-11,Namespace,object,0,0,0,1,0.0
+2015-11,NetworkPolicy,object,0,0,0,1,0.0
+2015-11,PersistentVolume,object,0,0,0,1,0.0
+2015-11,PersistentVolumeClaim,object,0,0,0,1,0.0
+2015-11,Pod,object,0,0,0,1,0.0
+2015-11,ReplicaSet,object,0,0,0,1,0.0
+2015-11,Secret,object,0,0,0,1,0.0
+2015-11,Service,object,0,0,0,1,0.0
+2015-11,StatefulSet,object,0,0,0,1,0.0
+2015-11,Node Affinity,scheduling,0,0,0,1,0.0
+2015-11,Pod Anti-Affinity,scheduling,0,0,0,1,0.0
+2015-11,Taints,scheduling,0,0,0,1,0.0
+2016-02,Autoscaler,object,0,2,2,1,0.0
+2016-02,ConfigMap,object,0,2,2,1,0.0
+2016-02,CustomResourceDefinition,object,0,2,2,1,0.0
+2016-02,DaemonSet,object,0,2,2,1,0.0
+2016-02,Deployment,object,0,2,2,1,0.0
+2016-02,Ingress,object,0,2,2,1,0.0
+2016-02,LimitRange,object,0,2,2,1,0.0
+2016-02,Namespace,object,0,2,2,1,0.0
+2016-02,NetworkPolicy,object,0,2,2,1,0.0
+2016-02,PersistentVolume,object,0,2,2,1,0.0
+2016-02,PersistentVolumeClaim,object,0,2,2,1,0.0
+2016-02,Pod,object,0,2,2,1,0.0
+2016-02,ReplicaSet,object,0,2,2,1,0.0
+2016-02,Secret,object,0,2,2,1,0.0
+2016-02,Service,object,2,2,2,1,100.0
+2016-02,StatefulSet,object,0,2,2,1,0.0
+2016-02,Node Affinity,scheduling,0,2,2,1,0.0
+2016-02,Pod Anti-Affinity,scheduling,0,2,2,1,0.0
+2016-02,Taints,scheduling,0,2,2,1,0.0
+2016-03,Autoscaler,object,0,2,2,1,0.0
+2016-03,ConfigMap,object,0,2,2,1,0.0
+2016-03,CustomResourceDefinition,object,0,2,2,1,0.0
+2016-03,DaemonSet,object,0,2,2,1,0.0
+2016-03,Deployment,object,0,2,2,1,0.0
+2016-03,Ingress,object,0,2,2,1,0.0
+2016-03,LimitRange,object,0,2,2,1,0.0
+2016-03,Namespace,object,0,2,2,1,0.0
+2016-03,NetworkPolicy,object,0,2,2,1,0.0
+2016-03,PersistentVolume,object,0,2,2,1,0.0
+2016-03,PersistentVolumeClaim,object,0,2,2,1,0.0
+2016-03,Pod,object,1,2,2,1,50.0
+2016-03,ReplicaSet,object,0,2,2,1,0.0
+2016-03,Secret,object,0,2,2,1,0.0
+2016-03,Service,object,1,2,2,1,50.0
+2016-03,StatefulSet,object,0,2,2,1,0.0
+2016-03,Node Affinity,scheduling,0,2,2,1,0.0
+2016-03,Pod Anti-Affinity,scheduling,0,2,2,1,0.0
+2016-03,Taints,scheduling,0,2,2,1,0.0
+2016-04,Autoscaler,object,0,4,4,2,0.0
+2016-04,ConfigMap,object,0,4,4,2,0.0
+2016-04,CustomResourceDefinition,object,0,4,4,2,0.0
+2016-04,DaemonSet,object,1,4,4,2,25.0
+2016-04,Deployment,object,0,4,4,2,0.0
+2016-04,Ingress,object,0,4,4,2,0.0
+2016-04,LimitRange,object,0,4,4,2,0.0
+2016-04,Namespace,object,0,4,4,2,0.0
+2016-04,NetworkPolicy,object,0,4,4,2,0.0
+2016-04,PersistentVolume,object,0,4,4,2,0.0
+2016-04,PersistentVolumeClaim,object,0,4,4,2,0.0
+2016-04,Pod,object,0,4,4,2,0.0
+2016-04,ReplicaSet,object,0,4,4,2,0.0
+2016-04,Secret,object,1,4,4,2,25.0
+2016-04,Service,object,2,4,4,2,50.0
+2016-04,StatefulSet,object,0,4,4,2,0.0
+2016-04,Node Affinity,scheduling,0,4,4,2,0.0
+2016-04,Pod Anti-Affinity,scheduling,0,4,4,2,0.0
+2016-04,Taints,scheduling,0,4,4,2,0.0
+2016-05,Autoscaler,object,0,3,3,3,0.0
+2016-05,ConfigMap,object,0,3,3,3,0.0
+2016-05,CustomResourceDefinition,object,0,3,3,3,0.0
+2016-05,DaemonSet,object,1,3,3,3,33.3333
+2016-05,Deployment,object,0,3,3,3,0.0
+2016-05,Ingress,object,0,3,3,3,0.0
+2016-05,LimitRange,object,0,3,3,3,0.0
+2016-05,Namespace,object,0,3,3,3,0.0
+2016-05,NetworkPolicy,object,0,3,3,3,0.0
+2016-05,PersistentVolume,object,0,3,3,3,0.0
+2016-05,PersistentVolumeClaim,object,0,3,3,3,0.0
+2016-05,Pod,object,0,3,3,3,0.0
+2016-05,ReplicaSet,object,0,3,3,3,0.0
+2016-05,Secret,object,0,3,3,3,0.0
+2016-05,Service,object,2,3,3,3,66.6667
+2016-05,StatefulSet,object,0,3,3,3,0.0
+2016-05,Node Affinity,scheduling,0,3,3,3,0.0
+2016-05,Pod Anti-Affinity,scheduling,0,3,3,3,0.0
+2016-05,Taints,scheduling,0,3,3,3,0.0
+2016-06,Autoscaler,object,0,0,0,4,0.0
+2016-06,ConfigMap,object,0,0,0,4,0.0
+2016-06,CustomResourceDefinition,object,0,0,0,4,0.0
+2016-06,DaemonSet,object,0,0,0,4,0.0
+2016-06,Deployment,object,0,0,0,4,0.0
+2016-06,Ingress,object,0,0,0,4,0.0
+2016-06,LimitRange,object,0,0,0,4,0.0
+2016-06,Namespace,object,0,0,0,4,0.0
+2016-06,NetworkPolicy,object,0,0,0,4,0.0
+2016-06,PersistentVolume,object,0,0,0,4,0.0
+2016-06,PersistentVolumeClaim,object,0,0,0,4,0.0
+2016-06,Pod,object,0,0,0,4,0.0
+2016-06,ReplicaSet,object,0,0,0,4,0.0
+2016-06,Secret,object,0,0,0,4,0.0
+2016-06,Service,object,0,0,0,4,0.0
+2016-06,StatefulSet,object,0,0,0,4,0.0
+2016-06,Node Affinity,scheduling,0,0,0,4,0.0
+2016-06,Pod Anti-Affinity,scheduling,0,0,0,4,0.0
+2016-06,Taints,scheduling,0,0,0,4,0.0
+2016-07,Autoscaler,object,0,0,0,3,0.0
+2016-07,ConfigMap,object,0,0,0,3,0.0
+2016-07,CustomResourceDefinition,object,0,0,0,3,0.0
+2016-07,DaemonSet,object,0,0,0,3,0.0
+2016-07,Deployment,object,0,0,0,3,0.0
+2016-07,Ingress,object,0,0,0,3,0.0
+2016-07,LimitRange,object,0,0,0,3,0.0
+2016-07,Namespace,object,0,0,0,3,0.0
+2016-07,NetworkPolicy,object,0,0,0,3,0.0
+2016-07,PersistentVolume,object,0,0,0,3,0.0
+2016-07,PersistentVolumeClaim,object,0,0,0,3,0.0
+2016-07,Pod,object,0,0,0,3,0.0
+2016-07,ReplicaSet,object,0,0,0,3,0.0
+2016-07,Secret,object,0,0,0,3,0.0
+2016-07,Service,object,0,0,0,3,0.0
+2016-07,StatefulSet,object,0,0,0,3,0.0
+2016-07,Node Affinity,scheduling,0,0,0,3,0.0
+2016-07,Pod Anti-Affinity,scheduling,0,0,0,3,0.0
+2016-07,Taints,scheduling,0,0,0,3,0.0
+2016-08,Autoscaler,object,0,35,35,4,0.0
+2016-08,ConfigMap,object,1,35,35,4,2.8571
+2016-08,CustomResourceDefinition,object,0,35,35,4,0.0
+2016-08,DaemonSet,object,1,35,35,4,2.8571
+2016-08,Deployment,object,0,35,35,4,0.0
+2016-08,Ingress,object,0,35,35,4,0.0
+2016-08,LimitRange,object,0,35,35,4,0.0
+2016-08,Namespace,object,0,35,35,4,0.0
+2016-08,NetworkPolicy,object,0,35,35,4,0.0
+2016-08,PersistentVolume,object,3,35,35,4,8.5714
+2016-08,PersistentVolumeClaim,object,2,35,35,4,5.7143
+2016-08,Pod,object,25,35,35,4,71.4286
+2016-08,ReplicaSet,object,1,35,35,4,2.8571
+2016-08,Secret,object,0,35,35,4,0.0
+2016-08,Service,object,2,35,35,4,5.7143
+2016-08,StatefulSet,object,0,35,35,4,0.0
+2016-08,Node Affinity,scheduling,0,35,35,4,0.0
+2016-08,Pod Anti-Affinity,scheduling,0,35,35,4,0.0
+2016-08,Taints,scheduling,0,35,35,4,0.0
+2016-09,Autoscaler,object,0,1,1,4,0.0
+2016-09,ConfigMap,object,0,1,1,4,0.0
+2016-09,CustomResourceDefinition,object,0,1,1,4,0.0
+2016-09,DaemonSet,object,1,1,1,4,100.0
+2016-09,Deployment,object,0,1,1,4,0.0
+2016-09,Ingress,object,0,1,1,4,0.0
+2016-09,LimitRange,object,0,1,1,4,0.0
+2016-09,Namespace,object,0,1,1,4,0.0
+2016-09,NetworkPolicy,object,0,1,1,4,0.0
+2016-09,PersistentVolume,object,0,1,1,4,0.0
+2016-09,PersistentVolumeClaim,object,0,1,1,4,0.0
+2016-09,Pod,object,0,1,1,4,0.0
+2016-09,ReplicaSet,object,0,1,1,4,0.0
+2016-09,Secret,object,0,1,1,4,0.0
+2016-09,Service,object,0,1,1,4,0.0
+2016-09,StatefulSet,object,0,1,1,4,0.0
+2016-09,Node Affinity,scheduling,0,1,1,4,0.0
+2016-09,Pod Anti-Affinity,scheduling,0,1,1,4,0.0
+2016-09,Taints,scheduling,0,1,1,4,0.0
+2016-10,Autoscaler,object,0,10,10,19,0.0
+2016-10,ConfigMap,object,0,10,10,19,0.0
+2016-10,CustomResourceDefinition,object,0,10,10,19,0.0
+2016-10,DaemonSet,object,1,10,10,19,10.0
+2016-10,Deployment,object,0,10,10,19,0.0
+2016-10,Ingress,object,0,10,10,19,0.0
+2016-10,LimitRange,object,0,10,10,19,0.0
+2016-10,Namespace,object,0,10,10,19,0.0
+2016-10,NetworkPolicy,object,0,10,10,19,0.0
+2016-10,PersistentVolume,object,0,10,10,19,0.0
+2016-10,PersistentVolumeClaim,object,0,10,10,19,0.0
+2016-10,Pod,object,0,10,10,19,0.0
+2016-10,ReplicaSet,object,0,10,10,19,0.0
+2016-10,Secret,object,0,10,10,19,0.0
+2016-10,Service,object,9,10,10,19,90.0
+2016-10,StatefulSet,object,0,10,10,19,0.0
+2016-10,Node Affinity,scheduling,0,10,10,19,0.0
+2016-10,Pod Anti-Affinity,scheduling,0,10,10,19,0.0
+2016-10,Taints,scheduling,0,10,10,19,0.0
+2016-11,Autoscaler,object,0,5,5,13,0.0
+2016-11,ConfigMap,object,1,5,5,13,20.0
+2016-11,CustomResourceDefinition,object,0,5,5,13,0.0
+2016-11,DaemonSet,object,0,5,5,13,0.0
+2016-11,Deployment,object,1,5,5,13,20.0
+2016-11,Ingress,object,0,5,5,13,0.0
+2016-11,LimitRange,object,1,5,5,13,20.0
+2016-11,Namespace,object,0,5,5,13,0.0
+2016-11,NetworkPolicy,object,0,5,5,13,0.0
+2016-11,PersistentVolume,object,0,5,5,13,0.0
+2016-11,PersistentVolumeClaim,object,1,5,5,13,20.0
+2016-11,Pod,object,0,5,5,13,0.0
+2016-11,ReplicaSet,object,0,5,5,13,0.0
+2016-11,Secret,object,1,5,5,13,20.0
+2016-11,Service,object,0,5,5,13,0.0
+2016-11,StatefulSet,object,0,5,5,13,0.0
+2016-11,Node Affinity,scheduling,0,5,5,13,0.0
+2016-11,Pod Anti-Affinity,scheduling,0,5,5,13,0.0
+2016-11,Taints,scheduling,0,5,5,13,0.0
+2016-12,Autoscaler,object,0,12,12,5,0.0
+2016-12,ConfigMap,object,4,12,12,5,33.3333
+2016-12,CustomResourceDefinition,object,0,12,12,5,0.0
+2016-12,DaemonSet,object,0,12,12,5,0.0
+2016-12,Deployment,object,3,12,12,5,25.0
+2016-12,Ingress,object,0,12,12,5,0.0
+2016-12,LimitRange,object,0,12,12,5,0.0
+2016-12,Namespace,object,0,12,12,5,0.0
+2016-12,NetworkPolicy,object,0,12,12,5,0.0
+2016-12,PersistentVolume,object,0,12,12,5,0.0
+2016-12,PersistentVolumeClaim,object,1,12,12,5,8.3333
+2016-12,Pod,object,0,12,12,5,0.0
+2016-12,ReplicaSet,object,0,12,12,5,0.0
+2016-12,Secret,object,2,12,12,5,16.6667
+2016-12,Service,object,2,12,12,5,16.6667
+2016-12,StatefulSet,object,0,12,12,5,0.0
+2016-12,Node Affinity,scheduling,0,12,12,5,0.0
+2016-12,Pod Anti-Affinity,scheduling,0,12,12,5,0.0
+2016-12,Taints,scheduling,0,12,12,5,0.0
+2017-01,Autoscaler,object,0,6,6,19,0.0
+2017-01,ConfigMap,object,0,6,6,19,0.0
+2017-01,CustomResourceDefinition,object,0,6,6,19,0.0
+2017-01,DaemonSet,object,0,6,6,19,0.0
+2017-01,Deployment,object,1,6,6,19,16.6667
+2017-01,Ingress,object,0,6,6,19,0.0
+2017-01,LimitRange,object,0,6,6,19,0.0
+2017-01,Namespace,object,0,6,6,19,0.0
+2017-01,NetworkPolicy,object,0,6,6,19,0.0
+2017-01,PersistentVolume,object,0,6,6,19,0.0
+2017-01,PersistentVolumeClaim,object,0,6,6,19,0.0
+2017-01,Pod,object,3,6,6,19,50.0
+2017-01,ReplicaSet,object,0,6,6,19,0.0
+2017-01,Secret,object,1,6,6,19,16.6667
+2017-01,Service,object,1,6,6,19,16.6667
+2017-01,StatefulSet,object,0,6,6,19,0.0
+2017-01,Node Affinity,scheduling,0,6,6,19,0.0
+2017-01,Pod Anti-Affinity,scheduling,0,6,6,19,0.0
+2017-01,Taints,scheduling,0,6,6,19,0.0
+2017-02,Autoscaler,object,0,28,28,10,0.0
+2017-02,ConfigMap,object,0,28,28,10,0.0
+2017-02,CustomResourceDefinition,object,0,28,28,10,0.0
+2017-02,DaemonSet,object,0,28,28,10,0.0
+2017-02,Deployment,object,5,28,28,10,17.8571
+2017-02,Ingress,object,0,28,28,10,0.0
+2017-02,LimitRange,object,0,28,28,10,0.0
+2017-02,Namespace,object,0,28,28,10,0.0
+2017-02,NetworkPolicy,object,0,28,28,10,0.0
+2017-02,PersistentVolume,object,0,28,28,10,0.0
+2017-02,PersistentVolumeClaim,object,0,28,28,10,0.0
+2017-02,Pod,object,4,28,28,10,14.2857
+2017-02,ReplicaSet,object,0,28,28,10,0.0
+2017-02,Secret,object,0,28,28,10,0.0
+2017-02,Service,object,19,28,28,10,67.8571
+2017-02,StatefulSet,object,0,28,28,10,0.0
+2017-02,Node Affinity,scheduling,0,28,28,10,0.0
+2017-02,Pod Anti-Affinity,scheduling,0,28,28,10,0.0
+2017-02,Taints,scheduling,0,28,28,10,0.0
+2017-03,Autoscaler,object,0,4,4,8,0.0
+2017-03,ConfigMap,object,2,4,4,8,50.0
+2017-03,CustomResourceDefinition,object,0,4,4,8,0.0
+2017-03,DaemonSet,object,0,4,4,8,0.0
+2017-03,Deployment,object,2,4,4,8,50.0
+2017-03,Ingress,object,0,4,4,8,0.0
+2017-03,LimitRange,object,0,4,4,8,0.0
+2017-03,Namespace,object,0,4,4,8,0.0
+2017-03,NetworkPolicy,object,0,4,4,8,0.0
+2017-03,PersistentVolume,object,0,4,4,8,0.0
+2017-03,PersistentVolumeClaim,object,0,4,4,8,0.0
+2017-03,Pod,object,0,4,4,8,0.0
+2017-03,ReplicaSet,object,0,4,4,8,0.0
+2017-03,Secret,object,0,4,4,8,0.0
+2017-03,Service,object,0,4,4,8,0.0
+2017-03,StatefulSet,object,0,4,4,8,0.0
+2017-03,Node Affinity,scheduling,0,4,4,8,0.0
+2017-03,Pod Anti-Affinity,scheduling,0,4,4,8,0.0
+2017-03,Taints,scheduling,0,4,4,8,0.0
+2017-04,Autoscaler,object,0,9,9,9,0.0
+2017-04,ConfigMap,object,0,9,9,9,0.0
+2017-04,CustomResourceDefinition,object,0,9,9,9,0.0
+2017-04,DaemonSet,object,0,9,9,9,0.0
+2017-04,Deployment,object,4,9,9,9,44.4444
+2017-04,Ingress,object,1,9,9,9,11.1111
+2017-04,LimitRange,object,0,9,9,9,0.0
+2017-04,Namespace,object,0,9,9,9,0.0
+2017-04,NetworkPolicy,object,0,9,9,9,0.0
+2017-04,PersistentVolume,object,0,9,9,9,0.0
+2017-04,PersistentVolumeClaim,object,0,9,9,9,0.0
+2017-04,Pod,object,0,9,9,9,0.0
+2017-04,ReplicaSet,object,0,9,9,9,0.0
+2017-04,Secret,object,0,9,9,9,0.0
+2017-04,Service,object,3,9,9,9,33.3333
+2017-04,StatefulSet,object,1,9,9,9,11.1111
+2017-04,Node Affinity,scheduling,0,9,9,9,0.0
+2017-04,Pod Anti-Affinity,scheduling,0,9,9,9,0.0
+2017-04,Taints,scheduling,0,9,9,9,0.0
+2017-05,Autoscaler,object,0,8,8,21,0.0
+2017-05,ConfigMap,object,0,8,8,21,0.0
+2017-05,CustomResourceDefinition,object,0,8,8,21,0.0
+2017-05,DaemonSet,object,0,8,8,21,0.0
+2017-05,Deployment,object,1,8,8,21,12.5
+2017-05,Ingress,object,0,8,8,21,0.0
+2017-05,LimitRange,object,0,8,8,21,0.0
+2017-05,Namespace,object,0,8,8,21,0.0
+2017-05,NetworkPolicy,object,0,8,8,21,0.0
+2017-05,PersistentVolume,object,0,8,8,21,0.0
+2017-05,PersistentVolumeClaim,object,0,8,8,21,0.0
+2017-05,Pod,object,4,8,8,21,50.0
+2017-05,ReplicaSet,object,0,8,8,21,0.0
+2017-05,Secret,object,1,8,8,21,12.5
+2017-05,Service,object,2,8,8,21,25.0
+2017-05,StatefulSet,object,0,8,8,21,0.0
+2017-05,Node Affinity,scheduling,0,8,8,21,0.0
+2017-05,Pod Anti-Affinity,scheduling,0,8,8,21,0.0
+2017-05,Taints,scheduling,0,8,8,21,0.0
+2017-06,Autoscaler,object,0,9,9,10,0.0
+2017-06,ConfigMap,object,0,9,9,10,0.0
+2017-06,CustomResourceDefinition,object,0,9,9,10,0.0
+2017-06,DaemonSet,object,0,9,9,10,0.0
+2017-06,Deployment,object,3,9,9,10,33.3333
+2017-06,Ingress,object,1,9,9,10,11.1111
+2017-06,LimitRange,object,0,9,9,10,0.0
+2017-06,Namespace,object,0,9,9,10,0.0
+2017-06,NetworkPolicy,object,0,9,9,10,0.0
+2017-06,PersistentVolume,object,0,9,9,10,0.0
+2017-06,PersistentVolumeClaim,object,1,9,9,10,11.1111
+2017-06,Pod,object,1,9,9,10,11.1111
+2017-06,ReplicaSet,object,0,9,9,10,0.0
+2017-06,Secret,object,0,9,9,10,0.0
+2017-06,Service,object,3,9,9,10,33.3333
+2017-06,StatefulSet,object,0,9,9,10,0.0
+2017-06,Node Affinity,scheduling,0,9,9,10,0.0
+2017-06,Pod Anti-Affinity,scheduling,0,9,9,10,0.0
+2017-06,Taints,scheduling,0,9,9,10,0.0
+2017-07,Autoscaler,object,0,81,81,18,0.0
+2017-07,ConfigMap,object,5,81,81,18,6.1728
+2017-07,CustomResourceDefinition,object,2,81,81,18,2.4691
+2017-07,DaemonSet,object,0,81,81,18,0.0
+2017-07,Deployment,object,12,81,81,18,14.8148
+2017-07,Ingress,object,0,81,81,18,0.0
+2017-07,LimitRange,object,0,81,81,18,0.0
+2017-07,Namespace,object,3,81,81,18,3.7037
+2017-07,NetworkPolicy,object,0,81,81,18,0.0
+2017-07,PersistentVolume,object,0,81,81,18,0.0
+2017-07,PersistentVolumeClaim,object,1,81,81,18,1.2346
+2017-07,Pod,object,8,81,81,18,9.8765
+2017-07,ReplicaSet,object,0,81,81,18,0.0
+2017-07,Secret,object,31,81,81,18,38.2716
+2017-07,Service,object,19,81,81,18,23.4568
+2017-07,StatefulSet,object,0,81,81,18,0.0
+2017-07,Node Affinity,scheduling,0,81,81,18,0.0
+2017-07,Pod Anti-Affinity,scheduling,0,81,81,18,0.0
+2017-07,Taints,scheduling,0,81,81,18,0.0
+2017-08,Autoscaler,object,0,8,8,26,0.0
+2017-08,ConfigMap,object,0,8,8,26,0.0
+2017-08,CustomResourceDefinition,object,0,8,8,26,0.0
+2017-08,DaemonSet,object,0,8,8,26,0.0
+2017-08,Deployment,object,0,8,8,26,0.0
+2017-08,Ingress,object,0,8,8,26,0.0
+2017-08,LimitRange,object,1,8,8,26,12.5
+2017-08,Namespace,object,1,8,8,26,12.5
+2017-08,NetworkPolicy,object,0,8,8,26,0.0
+2017-08,PersistentVolume,object,0,8,8,26,0.0
+2017-08,PersistentVolumeClaim,object,0,8,8,26,0.0
+2017-08,Pod,object,0,8,8,26,0.0
+2017-08,ReplicaSet,object,0,8,8,26,0.0
+2017-08,Secret,object,4,8,8,26,50.0
+2017-08,Service,object,2,8,8,26,25.0
+2017-08,StatefulSet,object,0,8,8,26,0.0
+2017-08,Node Affinity,scheduling,0,8,8,26,0.0
+2017-08,Pod Anti-Affinity,scheduling,0,8,8,26,0.0
+2017-08,Taints,scheduling,0,8,8,26,0.0
+2017-09,Autoscaler,object,0,66,66,19,0.0
+2017-09,ConfigMap,object,9,66,66,19,13.6364
+2017-09,CustomResourceDefinition,object,0,66,66,19,0.0
+2017-09,DaemonSet,object,5,66,66,19,7.5758
+2017-09,Deployment,object,17,66,66,19,25.7576
+2017-09,Ingress,object,1,66,66,19,1.5152
+2017-09,LimitRange,object,0,66,66,19,0.0
+2017-09,Namespace,object,0,66,66,19,0.0
+2017-09,NetworkPolicy,object,0,66,66,19,0.0
+2017-09,PersistentVolume,object,0,66,66,19,0.0
+2017-09,PersistentVolumeClaim,object,1,66,66,19,1.5152
+2017-09,Pod,object,0,66,66,19,0.0
+2017-09,ReplicaSet,object,0,66,66,19,0.0
+2017-09,Secret,object,8,66,66,19,12.1212
+2017-09,Service,object,24,66,66,19,36.3636
+2017-09,StatefulSet,object,1,66,66,19,1.5152
+2017-09,Node Affinity,scheduling,0,66,66,19,0.0
+2017-09,Pod Anti-Affinity,scheduling,0,66,66,19,0.0
+2017-09,Taints,scheduling,0,66,66,19,0.0
+2017-10,Autoscaler,object,1,492,488,11,0.2033
+2017-10,ConfigMap,object,49,492,488,11,9.9593
+2017-10,CustomResourceDefinition,object,26,492,488,11,5.2846
+2017-10,DaemonSet,object,17,492,488,11,3.4553
+2017-10,Deployment,object,64,492,488,11,13.0081
+2017-10,Ingress,object,3,492,488,11,0.6098
+2017-10,LimitRange,object,3,492,488,11,0.6098
+2017-10,Namespace,object,10,492,488,11,2.0325
+2017-10,NetworkPolicy,object,0,492,488,11,0.0
+2017-10,PersistentVolume,object,12,492,488,11,2.439
+2017-10,PersistentVolumeClaim,object,16,492,488,11,3.252
+2017-10,Pod,object,127,492,488,11,25.813
+2017-10,ReplicaSet,object,5,492,488,11,1.0163
+2017-10,Secret,object,17,492,488,11,3.4553
+2017-10,Service,object,124,492,488,11,25.2033
+2017-10,StatefulSet,object,14,492,488,11,2.8455
+2017-10,Node Affinity,scheduling,0,492,488,11,0.0
+2017-10,Pod Anti-Affinity,scheduling,4,492,488,11,0.813
+2017-10,Taints,scheduling,0,492,488,11,0.0
+2017-11,Autoscaler,object,0,415,406,20,0.0
+2017-11,ConfigMap,object,28,415,406,20,6.747
+2017-11,CustomResourceDefinition,object,2,415,406,20,0.4819
+2017-11,DaemonSet,object,3,415,406,20,0.7229
+2017-11,Deployment,object,70,415,406,20,16.8675
+2017-11,Ingress,object,13,415,406,20,3.1325
+2017-11,LimitRange,object,0,415,406,20,0.0
+2017-11,Namespace,object,0,415,406,20,0.0
+2017-11,NetworkPolicy,object,14,415,406,20,3.3735
+2017-11,PersistentVolume,object,59,415,406,20,14.2169
+2017-11,PersistentVolumeClaim,object,0,415,406,20,0.0
+2017-11,Pod,object,145,415,406,20,34.9398
+2017-11,ReplicaSet,object,20,415,406,20,4.8193
+2017-11,Secret,object,0,415,406,20,0.0
+2017-11,Service,object,51,415,406,20,12.2892
+2017-11,StatefulSet,object,1,415,406,20,0.241
+2017-11,Node Affinity,scheduling,4,415,406,20,0.9639
+2017-11,Pod Anti-Affinity,scheduling,5,415,406,20,1.2048
+2017-11,Taints,scheduling,0,415,406,20,0.0
+2017-12,Autoscaler,object,1,207,191,26,0.4831
+2017-12,ConfigMap,object,13,207,191,26,6.2802
+2017-12,CustomResourceDefinition,object,2,207,191,26,0.9662
+2017-12,DaemonSet,object,11,207,191,26,5.314
+2017-12,Deployment,object,31,207,191,26,14.9758
+2017-12,Ingress,object,3,207,191,26,1.4493
+2017-12,LimitRange,object,2,207,191,26,0.9662
+2017-12,Namespace,object,1,207,191,26,0.4831
+2017-12,NetworkPolicy,object,1,207,191,26,0.4831
+2017-12,PersistentVolume,object,5,207,191,26,2.4155
+2017-12,PersistentVolumeClaim,object,29,207,191,26,14.0097
+2017-12,Pod,object,36,207,191,26,17.3913
+2017-12,ReplicaSet,object,5,207,191,26,2.4155
+2017-12,Secret,object,9,207,191,26,4.3478
+2017-12,Service,object,28,207,191,26,13.5266
+2017-12,StatefulSet,object,14,207,191,26,6.7633
+2017-12,Node Affinity,scheduling,8,207,191,26,3.8647
+2017-12,Pod Anti-Affinity,scheduling,8,207,191,26,3.8647
+2017-12,Taints,scheduling,0,207,191,26,0.0
+2018-01,Autoscaler,object,0,13,13,29,0.0
+2018-01,ConfigMap,object,2,13,13,29,15.3846
+2018-01,CustomResourceDefinition,object,0,13,13,29,0.0
+2018-01,DaemonSet,object,0,13,13,29,0.0
+2018-01,Deployment,object,3,13,13,29,23.0769
+2018-01,Ingress,object,0,13,13,29,0.0
+2018-01,LimitRange,object,0,13,13,29,0.0
+2018-01,Namespace,object,0,13,13,29,0.0
+2018-01,NetworkPolicy,object,0,13,13,29,0.0
+2018-01,PersistentVolume,object,0,13,13,29,0.0
+2018-01,PersistentVolumeClaim,object,0,13,13,29,0.0
+2018-01,Pod,object,1,13,13,29,7.6923
+2018-01,ReplicaSet,object,0,13,13,29,0.0
+2018-01,Secret,object,3,13,13,29,23.0769
+2018-01,Service,object,4,13,13,29,30.7692
+2018-01,StatefulSet,object,0,13,13,29,0.0
+2018-01,Node Affinity,scheduling,0,13,13,29,0.0
+2018-01,Pod Anti-Affinity,scheduling,0,13,13,29,0.0
+2018-01,Taints,scheduling,0,13,13,29,0.0
+2018-02,Autoscaler,object,3,808,799,32,0.3713
+2018-02,ConfigMap,object,35,808,799,32,4.3317
+2018-02,CustomResourceDefinition,object,44,808,799,32,5.4455
+2018-02,DaemonSet,object,36,808,799,32,4.4554
+2018-02,Deployment,object,126,808,799,32,15.5941
+2018-02,Ingress,object,8,808,799,32,0.9901
+2018-02,LimitRange,object,6,808,799,32,0.7426
+2018-02,Namespace,object,24,808,799,32,2.9703
+2018-02,NetworkPolicy,object,0,808,799,32,0.0
+2018-02,PersistentVolume,object,28,808,799,32,3.4653
+2018-02,PersistentVolumeClaim,object,35,808,799,32,4.3317
+2018-02,Pod,object,172,808,799,32,21.2871
+2018-02,ReplicaSet,object,9,808,799,32,1.1139
+2018-02,Secret,object,29,808,799,32,3.5891
+2018-02,Service,object,213,808,799,32,26.3614
+2018-02,StatefulSet,object,31,808,799,32,3.8366
+2018-02,Node Affinity,scheduling,1,808,799,32,0.1238
+2018-02,Pod Anti-Affinity,scheduling,8,808,799,32,0.9901
+2018-02,Taints,scheduling,0,808,799,32,0.0
+2018-03,Autoscaler,object,1,622,618,48,0.1608
+2018-03,ConfigMap,object,75,622,618,48,12.0579
+2018-03,CustomResourceDefinition,object,8,622,618,48,1.2862
+2018-03,DaemonSet,object,23,622,618,48,3.6977
+2018-03,Deployment,object,86,622,618,48,13.8264
+2018-03,Ingress,object,4,622,618,48,0.6431
+2018-03,LimitRange,object,3,622,618,48,0.4823
+2018-03,Namespace,object,10,622,618,48,1.6077
+2018-03,NetworkPolicy,object,2,622,618,48,0.3215
+2018-03,PersistentVolume,object,20,622,618,48,3.2154
+2018-03,PersistentVolumeClaim,object,60,622,618,48,9.6463
+2018-03,Pod,object,154,622,618,48,24.7588
+2018-03,ReplicaSet,object,5,622,618,48,0.8039
+2018-03,Secret,object,27,622,618,48,4.3408
+2018-03,Service,object,120,622,618,48,19.2926
+2018-03,StatefulSet,object,20,622,618,48,3.2154
+2018-03,Node Affinity,scheduling,0,622,618,48,0.0
+2018-03,Pod Anti-Affinity,scheduling,4,622,618,48,0.6431
+2018-03,Taints,scheduling,0,622,618,48,0.0
+2018-04,Autoscaler,object,1,499,495,59,0.2004
+2018-04,ConfigMap,object,31,499,495,59,6.2124
+2018-04,CustomResourceDefinition,object,16,499,495,59,3.2064
+2018-04,DaemonSet,object,23,499,495,59,4.6092
+2018-04,Deployment,object,75,499,495,59,15.0301
+2018-04,Ingress,object,3,499,495,59,0.6012
+2018-04,LimitRange,object,3,499,495,59,0.6012
+2018-04,Namespace,object,10,499,495,59,2.004
+2018-04,NetworkPolicy,object,0,499,495,59,0.0
+2018-04,PersistentVolume,object,16,499,495,59,3.2064
+2018-04,PersistentVolumeClaim,object,40,499,495,59,8.016
+2018-04,Pod,object,117,499,495,59,23.4469
+2018-04,ReplicaSet,object,5,499,495,59,1.002
+2018-04,Secret,object,20,499,495,59,4.008
+2018-04,Service,object,116,499,495,59,23.2465
+2018-04,StatefulSet,object,19,499,495,59,3.8076
+2018-04,Node Affinity,scheduling,0,499,495,59,0.0
+2018-04,Pod Anti-Affinity,scheduling,4,499,495,59,0.8016
+2018-04,Taints,scheduling,0,499,495,59,0.0
+2018-05,Autoscaler,object,0,86,86,45,0.0
+2018-05,ConfigMap,object,3,86,86,45,3.4884
+2018-05,CustomResourceDefinition,object,16,86,86,45,18.6047
+2018-05,DaemonSet,object,4,86,86,45,4.6512
+2018-05,Deployment,object,18,86,86,45,20.9302
+2018-05,Ingress,object,6,86,86,45,6.9767
+2018-05,LimitRange,object,0,86,86,45,0.0
+2018-05,Namespace,object,5,86,86,45,5.814
+2018-05,NetworkPolicy,object,0,86,86,45,0.0
+2018-05,PersistentVolume,object,0,86,86,45,0.0
+2018-05,PersistentVolumeClaim,object,2,86,86,45,2.3256
+2018-05,Pod,object,5,86,86,45,5.814
+2018-05,ReplicaSet,object,0,86,86,45,0.0
+2018-05,Secret,object,5,86,86,45,5.814
+2018-05,Service,object,16,86,86,45,18.6047
+2018-05,StatefulSet,object,6,86,86,45,6.9767
+2018-05,Node Affinity,scheduling,0,86,86,45,0.0
+2018-05,Pod Anti-Affinity,scheduling,0,86,86,45,0.0
+2018-05,Taints,scheduling,0,86,86,45,0.0
+2018-06,Autoscaler,object,0,19,19,48,0.0
+2018-06,ConfigMap,object,2,19,19,48,10.5263
+2018-06,CustomResourceDefinition,object,0,19,19,48,0.0
+2018-06,DaemonSet,object,1,19,19,48,5.2632
+2018-06,Deployment,object,7,19,19,48,36.8421
+2018-06,Ingress,object,0,19,19,48,0.0
+2018-06,LimitRange,object,0,19,19,48,0.0
+2018-06,Namespace,object,3,19,19,48,15.7895
+2018-06,NetworkPolicy,object,0,19,19,48,0.0
+2018-06,PersistentVolume,object,0,19,19,48,0.0
+2018-06,PersistentVolumeClaim,object,0,19,19,48,0.0
+2018-06,Pod,object,0,19,19,48,0.0
+2018-06,ReplicaSet,object,0,19,19,48,0.0
+2018-06,Secret,object,0,19,19,48,0.0
+2018-06,Service,object,5,19,19,48,26.3158
+2018-06,StatefulSet,object,1,19,19,48,5.2632
+2018-06,Node Affinity,scheduling,0,19,19,48,0.0
+2018-06,Pod Anti-Affinity,scheduling,0,19,19,48,0.0
+2018-06,Taints,scheduling,0,19,19,48,0.0
+2018-07,Autoscaler,object,6,303,285,46,1.9802
+2018-07,ConfigMap,object,15,303,285,46,4.9505
+2018-07,CustomResourceDefinition,object,98,303,285,46,32.3432
+2018-07,DaemonSet,object,2,303,285,46,0.6601
+2018-07,Deployment,object,61,303,285,46,20.132
+2018-07,Ingress,object,11,303,285,46,3.6304
+2018-07,LimitRange,object,0,303,285,46,0.0
+2018-07,Namespace,object,13,303,285,46,4.2904
+2018-07,NetworkPolicy,object,0,303,285,46,0.0
+2018-07,PersistentVolume,object,0,303,285,46,0.0
+2018-07,PersistentVolumeClaim,object,1,303,285,46,0.33
+2018-07,Pod,object,4,303,285,46,1.3201
+2018-07,ReplicaSet,object,0,303,285,46,0.0
+2018-07,Secret,object,3,303,285,46,0.9901
+2018-07,Service,object,64,303,285,46,21.1221
+2018-07,StatefulSet,object,7,303,285,46,2.3102
+2018-07,Node Affinity,scheduling,16,303,285,46,5.2805
+2018-07,Pod Anti-Affinity,scheduling,0,303,285,46,0.0
+2018-07,Taints,scheduling,2,303,285,46,0.6601
+2018-08,Autoscaler,object,0,110,110,88,0.0
+2018-08,ConfigMap,object,12,110,110,88,10.9091
+2018-08,CustomResourceDefinition,object,18,110,110,88,16.3636
+2018-08,DaemonSet,object,10,110,110,88,9.0909
+2018-08,Deployment,object,14,110,110,88,12.7273
+2018-08,Ingress,object,3,110,110,88,2.7273
+2018-08,LimitRange,object,0,110,110,88,0.0
+2018-08,Namespace,object,3,110,110,88,2.7273
+2018-08,NetworkPolicy,object,0,110,110,88,0.0
+2018-08,PersistentVolume,object,0,110,110,88,0.0
+2018-08,PersistentVolumeClaim,object,1,110,110,88,0.9091
+2018-08,Pod,object,2,110,110,88,1.8182
+2018-08,ReplicaSet,object,0,110,110,88,0.0
+2018-08,Secret,object,1,110,110,88,0.9091
+2018-08,Service,object,27,110,110,88,24.5455
+2018-08,StatefulSet,object,19,110,110,88,17.2727
+2018-08,Node Affinity,scheduling,0,110,110,88,0.0
+2018-08,Pod Anti-Affinity,scheduling,0,110,110,88,0.0
+2018-08,Taints,scheduling,0,110,110,88,0.0
+2018-09,Autoscaler,object,0,137,136,75,0.0
+2018-09,ConfigMap,object,6,137,136,75,4.3796
+2018-09,CustomResourceDefinition,object,63,137,136,75,45.9854
+2018-09,DaemonSet,object,5,137,136,75,3.6496
+2018-09,Deployment,object,14,137,136,75,10.219
+2018-09,Ingress,object,2,137,136,75,1.4599
+2018-09,LimitRange,object,0,137,136,75,0.0
+2018-09,Namespace,object,5,137,136,75,3.6496
+2018-09,NetworkPolicy,object,0,137,136,75,0.0
+2018-09,PersistentVolume,object,0,137,136,75,0.0
+2018-09,PersistentVolumeClaim,object,9,137,136,75,6.5693
+2018-09,Pod,object,8,137,136,75,5.8394
+2018-09,ReplicaSet,object,0,137,136,75,0.0
+2018-09,Secret,object,1,137,136,75,0.7299
+2018-09,Service,object,17,137,136,75,12.4088
+2018-09,StatefulSet,object,6,137,136,75,4.3796
+2018-09,Node Affinity,scheduling,0,137,136,75,0.0
+2018-09,Pod Anti-Affinity,scheduling,0,137,136,75,0.0
+2018-09,Taints,scheduling,1,137,136,75,0.7299
+2018-10,Autoscaler,object,2,169,168,50,1.1834
+2018-10,ConfigMap,object,61,169,168,50,36.0947
+2018-10,CustomResourceDefinition,object,23,169,168,50,13.6095
+2018-10,DaemonSet,object,6,169,168,50,3.5503
+2018-10,Deployment,object,14,169,168,50,8.284
+2018-10,Ingress,object,1,169,168,50,0.5917
+2018-10,LimitRange,object,0,169,168,50,0.0
+2018-10,Namespace,object,4,169,168,50,2.3669
+2018-10,NetworkPolicy,object,0,169,168,50,0.0
+2018-10,PersistentVolume,object,2,169,168,50,1.1834
+2018-10,PersistentVolumeClaim,object,2,169,168,50,1.1834
+2018-10,Pod,object,34,169,168,50,20.1183
+2018-10,ReplicaSet,object,0,169,168,50,0.0
+2018-10,Secret,object,1,169,168,50,0.5917
+2018-10,Service,object,12,169,168,50,7.1006
+2018-10,StatefulSet,object,6,169,168,50,3.5503
+2018-10,Node Affinity,scheduling,0,169,168,50,0.0
+2018-10,Pod Anti-Affinity,scheduling,0,169,168,50,0.0
+2018-10,Taints,scheduling,1,169,168,50,0.5917
+2018-11,Autoscaler,object,0,61,60,67,0.0
+2018-11,ConfigMap,object,10,61,60,67,16.3934
+2018-11,CustomResourceDefinition,object,8,61,60,67,13.1148
+2018-11,DaemonSet,object,1,61,60,67,1.6393
+2018-11,Deployment,object,8,61,60,67,13.1148
+2018-11,Ingress,object,0,61,60,67,0.0
+2018-11,LimitRange,object,0,61,60,67,0.0
+2018-11,Namespace,object,10,61,60,67,16.3934
+2018-11,NetworkPolicy,object,0,61,60,67,0.0
+2018-11,PersistentVolume,object,1,61,60,67,1.6393
+2018-11,PersistentVolumeClaim,object,5,61,60,67,8.1967
+2018-11,Pod,object,6,61,60,67,9.8361
+2018-11,ReplicaSet,object,0,61,60,67,0.0
+2018-11,Secret,object,1,61,60,67,1.6393
+2018-11,Service,object,7,61,60,67,11.4754
+2018-11,StatefulSet,object,3,61,60,67,4.918
+2018-11,Node Affinity,scheduling,0,61,60,67,0.0
+2018-11,Pod Anti-Affinity,scheduling,0,61,60,67,0.0
+2018-11,Taints,scheduling,1,61,60,67,1.6393
+2018-12,Autoscaler,object,0,53,53,79,0.0
+2018-12,ConfigMap,object,0,53,53,79,0.0
+2018-12,CustomResourceDefinition,object,19,53,53,79,35.8491
+2018-12,DaemonSet,object,4,53,53,79,7.5472
+2018-12,Deployment,object,11,53,53,79,20.7547
+2018-12,Ingress,object,2,53,53,79,3.7736
+2018-12,LimitRange,object,0,53,53,79,0.0
+2018-12,Namespace,object,2,53,53,79,3.7736
+2018-12,NetworkPolicy,object,0,53,53,79,0.0
+2018-12,PersistentVolume,object,0,53,53,79,0.0
+2018-12,PersistentVolumeClaim,object,0,53,53,79,0.0
+2018-12,Pod,object,0,53,53,79,0.0
+2018-12,ReplicaSet,object,0,53,53,79,0.0
+2018-12,Secret,object,1,53,53,79,1.8868
+2018-12,Service,object,9,53,53,79,16.9811
+2018-12,StatefulSet,object,5,53,53,79,9.434
+2018-12,Node Affinity,scheduling,0,53,53,79,0.0
+2018-12,Pod Anti-Affinity,scheduling,0,53,53,79,0.0
+2018-12,Taints,scheduling,0,53,53,79,0.0
+2019-01,Autoscaler,object,2,130,127,71,1.5385
+2019-01,ConfigMap,object,12,130,127,71,9.2308
+2019-01,CustomResourceDefinition,object,67,130,127,71,51.5385
+2019-01,DaemonSet,object,7,130,127,71,5.3846
+2019-01,Deployment,object,9,130,127,71,6.9231
+2019-01,Ingress,object,2,130,127,71,1.5385
+2019-01,LimitRange,object,0,130,127,71,0.0
+2019-01,Namespace,object,4,130,127,71,3.0769
+2019-01,NetworkPolicy,object,0,130,127,71,0.0
+2019-01,PersistentVolume,object,1,130,127,71,0.7692
+2019-01,PersistentVolumeClaim,object,2,130,127,71,1.5385
+2019-01,Pod,object,7,130,127,71,5.3846
+2019-01,ReplicaSet,object,0,130,127,71,0.0
+2019-01,Secret,object,4,130,127,71,3.0769
+2019-01,Service,object,9,130,127,71,6.9231
+2019-01,StatefulSet,object,1,130,127,71,0.7692
+2019-01,Node Affinity,scheduling,2,130,127,71,1.5385
+2019-01,Pod Anti-Affinity,scheduling,1,130,127,71,0.7692
+2019-01,Taints,scheduling,0,130,127,71,0.0
+2019-02,Autoscaler,object,0,50,50,57,0.0
+2019-02,ConfigMap,object,6,50,50,57,12.0
+2019-02,CustomResourceDefinition,object,10,50,50,57,20.0
+2019-02,DaemonSet,object,4,50,50,57,8.0
+2019-02,Deployment,object,6,50,50,57,12.0
+2019-02,Ingress,object,0,50,50,57,0.0
+2019-02,LimitRange,object,0,50,50,57,0.0
+2019-02,Namespace,object,4,50,50,57,8.0
+2019-02,NetworkPolicy,object,0,50,50,57,0.0
+2019-02,PersistentVolume,object,0,50,50,57,0.0
+2019-02,PersistentVolumeClaim,object,0,50,50,57,0.0
+2019-02,Pod,object,1,50,50,57,2.0
+2019-02,ReplicaSet,object,1,50,50,57,2.0
+2019-02,Secret,object,2,50,50,57,4.0
+2019-02,Service,object,7,50,50,57,14.0
+2019-02,StatefulSet,object,9,50,50,57,18.0
+2019-02,Node Affinity,scheduling,0,50,50,57,0.0
+2019-02,Pod Anti-Affinity,scheduling,0,50,50,57,0.0
+2019-02,Taints,scheduling,0,50,50,57,0.0
+2019-03,Autoscaler,object,2,101,100,79,1.9802
+2019-03,ConfigMap,object,23,101,100,79,22.7723
+2019-03,CustomResourceDefinition,object,26,101,100,79,25.7426
+2019-03,DaemonSet,object,5,101,100,79,4.9505
+2019-03,Deployment,object,17,101,100,79,16.8317
+2019-03,Ingress,object,0,101,100,79,0.0
+2019-03,LimitRange,object,0,101,100,79,0.0
+2019-03,Namespace,object,3,101,100,79,2.9703
+2019-03,NetworkPolicy,object,0,101,100,79,0.0
+2019-03,PersistentVolume,object,0,101,100,79,0.0
+2019-03,PersistentVolumeClaim,object,1,101,100,79,0.9901
+2019-03,Pod,object,6,101,100,79,5.9406
+2019-03,ReplicaSet,object,0,101,100,79,0.0
+2019-03,Secret,object,5,101,100,79,4.9505
+2019-03,Service,object,9,101,100,79,8.9109
+2019-03,StatefulSet,object,3,101,100,79,2.9703
+2019-03,Node Affinity,scheduling,0,101,100,79,0.0
+2019-03,Pod Anti-Affinity,scheduling,1,101,100,79,0.9901
+2019-03,Taints,scheduling,0,101,100,79,0.0
+2019-04,Autoscaler,object,1,101,101,90,0.9901
+2019-04,ConfigMap,object,5,101,101,90,4.9505
+2019-04,CustomResourceDefinition,object,27,101,101,90,26.7327
+2019-04,DaemonSet,object,3,101,101,90,2.9703
+2019-04,Deployment,object,18,101,101,90,17.8218
+2019-04,Ingress,object,0,101,101,90,0.0
+2019-04,LimitRange,object,0,101,101,90,0.0
+2019-04,Namespace,object,1,101,101,90,0.9901
+2019-04,NetworkPolicy,object,1,101,101,90,0.9901
+2019-04,PersistentVolume,object,0,101,101,90,0.0
+2019-04,PersistentVolumeClaim,object,11,101,101,90,10.8911
+2019-04,Pod,object,1,101,101,90,0.9901
+2019-04,ReplicaSet,object,0,101,101,90,0.0
+2019-04,Secret,object,19,101,101,90,18.8119
+2019-04,Service,object,12,101,101,90,11.8812
+2019-04,StatefulSet,object,2,101,101,90,1.9802
+2019-04,Node Affinity,scheduling,0,101,101,90,0.0
+2019-04,Pod Anti-Affinity,scheduling,0,101,101,90,0.0
+2019-04,Taints,scheduling,0,101,101,90,0.0
+2019-05,Autoscaler,object,7,179,170,107,3.9106
+2019-05,ConfigMap,object,11,179,170,107,6.1453
+2019-05,CustomResourceDefinition,object,39,179,170,107,21.7877
+2019-05,DaemonSet,object,7,179,170,107,3.9106
+2019-05,Deployment,object,43,179,170,107,24.0223
+2019-05,Ingress,object,6,179,170,107,3.352
+2019-05,LimitRange,object,0,179,170,107,0.0
+2019-05,Namespace,object,4,179,170,107,2.2346
+2019-05,NetworkPolicy,object,0,179,170,107,0.0
+2019-05,PersistentVolume,object,0,179,170,107,0.0
+2019-05,PersistentVolumeClaim,object,1,179,170,107,0.5587
+2019-05,Pod,object,7,179,170,107,3.9106
+2019-05,ReplicaSet,object,0,179,170,107,0.0
+2019-05,Secret,object,0,179,170,107,0.0
+2019-05,Service,object,40,179,170,107,22.3464
+2019-05,StatefulSet,object,5,179,170,107,2.7933
+2019-05,Node Affinity,scheduling,8,179,170,107,4.4693
+2019-05,Pod Anti-Affinity,scheduling,1,179,170,107,0.5587
+2019-05,Taints,scheduling,0,179,170,107,0.0
+2019-06,Autoscaler,object,0,192,192,119,0.0
+2019-06,ConfigMap,object,11,192,192,119,5.7292
+2019-06,CustomResourceDefinition,object,69,192,192,119,35.9375
+2019-06,DaemonSet,object,1,192,192,119,0.5208
+2019-06,Deployment,object,19,192,192,119,9.8958
+2019-06,Ingress,object,1,192,192,119,0.5208
+2019-06,LimitRange,object,0,192,192,119,0.0
+2019-06,Namespace,object,6,192,192,119,3.125
+2019-06,NetworkPolicy,object,1,192,192,119,0.5208
+2019-06,PersistentVolume,object,0,192,192,119,0.0
+2019-06,PersistentVolumeClaim,object,2,192,192,119,1.0417
+2019-06,Pod,object,5,192,192,119,2.6042
+2019-06,ReplicaSet,object,0,192,192,119,0.0
+2019-06,Secret,object,4,192,192,119,2.0833
+2019-06,Service,object,66,192,192,119,34.375
+2019-06,StatefulSet,object,7,192,192,119,3.6458
+2019-06,Node Affinity,scheduling,0,192,192,119,0.0
+2019-06,Pod Anti-Affinity,scheduling,0,192,192,119,0.0
+2019-06,Taints,scheduling,0,192,192,119,0.0
+2019-07,Autoscaler,object,1,180,180,96,0.5556
+2019-07,ConfigMap,object,38,180,180,96,21.1111
+2019-07,CustomResourceDefinition,object,34,180,180,96,18.8889
+2019-07,DaemonSet,object,2,180,180,96,1.1111
+2019-07,Deployment,object,41,180,180,96,22.7778
+2019-07,Ingress,object,0,180,180,96,0.0
+2019-07,LimitRange,object,0,180,180,96,0.0
+2019-07,Namespace,object,5,180,180,96,2.7778
+2019-07,NetworkPolicy,object,0,180,180,96,0.0
+2019-07,PersistentVolume,object,1,180,180,96,0.5556
+2019-07,PersistentVolumeClaim,object,7,180,180,96,3.8889
+2019-07,Pod,object,16,180,180,96,8.8889
+2019-07,ReplicaSet,object,0,180,180,96,0.0
+2019-07,Secret,object,0,180,180,96,0.0
+2019-07,Service,object,31,180,180,96,17.2222
+2019-07,StatefulSet,object,4,180,180,96,2.2222
+2019-07,Node Affinity,scheduling,0,180,180,96,0.0
+2019-07,Pod Anti-Affinity,scheduling,0,180,180,96,0.0
+2019-07,Taints,scheduling,0,180,180,96,0.0
+2019-08,Autoscaler,object,0,157,157,102,0.0
+2019-08,ConfigMap,object,7,157,157,102,4.4586
+2019-08,CustomResourceDefinition,object,66,157,157,102,42.0382
+2019-08,DaemonSet,object,1,157,157,102,0.6369
+2019-08,Deployment,object,35,157,157,102,22.293
+2019-08,Ingress,object,0,157,157,102,0.0
+2019-08,LimitRange,object,0,157,157,102,0.0
+2019-08,Namespace,object,5,157,157,102,3.1847
+2019-08,NetworkPolicy,object,1,157,157,102,0.6369
+2019-08,PersistentVolume,object,0,157,157,102,0.0
+2019-08,PersistentVolumeClaim,object,0,157,157,102,0.0
+2019-08,Pod,object,26,157,157,102,16.5605
+2019-08,ReplicaSet,object,0,157,157,102,0.0
+2019-08,Secret,object,2,157,157,102,1.2739
+2019-08,Service,object,13,157,157,102,8.2803
+2019-08,StatefulSet,object,1,157,157,102,0.6369
+2019-08,Node Affinity,scheduling,0,157,157,102,0.0
+2019-08,Pod Anti-Affinity,scheduling,0,157,157,102,0.0
+2019-08,Taints,scheduling,0,157,157,102,0.0
+2019-09,Autoscaler,object,1,173,171,152,0.578
+2019-09,ConfigMap,object,21,173,171,152,12.1387
+2019-09,CustomResourceDefinition,object,22,173,171,152,12.7168
+2019-09,DaemonSet,object,6,173,171,152,3.4682
+2019-09,Deployment,object,31,173,171,152,17.9191
+2019-09,Ingress,object,3,173,171,152,1.7341
+2019-09,LimitRange,object,0,173,171,152,0.0
+2019-09,Namespace,object,6,173,171,152,3.4682
+2019-09,NetworkPolicy,object,1,173,171,152,0.578
+2019-09,PersistentVolume,object,3,173,171,152,1.7341
+2019-09,PersistentVolumeClaim,object,1,173,171,152,0.578
+2019-09,Pod,object,37,173,171,152,21.3873
+2019-09,ReplicaSet,object,0,173,171,152,0.0
+2019-09,Secret,object,6,173,171,152,3.4682
+2019-09,Service,object,27,173,171,152,15.6069
+2019-09,StatefulSet,object,6,173,171,152,3.4682
+2019-09,Node Affinity,scheduling,0,173,171,152,0.0
+2019-09,Pod Anti-Affinity,scheduling,2,173,171,152,1.1561
+2019-09,Taints,scheduling,0,173,171,152,0.0
+2019-10,Autoscaler,object,0,74,73,137,0.0
+2019-10,ConfigMap,object,9,74,73,137,12.1622
+2019-10,CustomResourceDefinition,object,24,74,73,137,32.4324
+2019-10,DaemonSet,object,0,74,73,137,0.0
+2019-10,Deployment,object,15,74,73,137,20.2703
+2019-10,Ingress,object,3,74,73,137,4.0541
+2019-10,LimitRange,object,0,74,73,137,0.0
+2019-10,Namespace,object,5,74,73,137,6.7568
+2019-10,NetworkPolicy,object,0,74,73,137,0.0
+2019-10,PersistentVolume,object,0,74,73,137,0.0
+2019-10,PersistentVolumeClaim,object,0,74,73,137,0.0
+2019-10,Pod,object,1,74,73,137,1.3514
+2019-10,ReplicaSet,object,0,74,73,137,0.0
+2019-10,Secret,object,0,74,73,137,0.0
+2019-10,Service,object,15,74,73,137,20.2703
+2019-10,StatefulSet,object,1,74,73,137,1.3514
+2019-10,Node Affinity,scheduling,0,74,73,137,0.0
+2019-10,Pod Anti-Affinity,scheduling,1,74,73,137,1.3514
+2019-10,Taints,scheduling,0,74,73,137,0.0
+2019-11,Autoscaler,object,0,97,93,153,0.0
+2019-11,ConfigMap,object,3,97,93,153,3.0928
+2019-11,CustomResourceDefinition,object,3,97,93,153,3.0928
+2019-11,DaemonSet,object,1,97,93,153,1.0309
+2019-11,Deployment,object,23,97,93,153,23.7113
+2019-11,Ingress,object,0,97,93,153,0.0
+2019-11,LimitRange,object,0,97,93,153,0.0
+2019-11,Namespace,object,22,97,93,153,22.6804
+2019-11,NetworkPolicy,object,0,97,93,153,0.0
+2019-11,PersistentVolume,object,0,97,93,153,0.0
+2019-11,PersistentVolumeClaim,object,6,97,93,153,6.1856
+2019-11,Pod,object,9,97,93,153,9.2784
+2019-11,ReplicaSet,object,0,97,93,153,0.0
+2019-11,Secret,object,3,97,93,153,3.0928
+2019-11,Service,object,16,97,93,153,16.4948
+2019-11,StatefulSet,object,7,97,93,153,7.2165
+2019-11,Node Affinity,scheduling,4,97,93,153,4.1237
+2019-11,Pod Anti-Affinity,scheduling,0,97,93,153,0.0
+2019-11,Taints,scheduling,0,97,93,153,0.0
+2019-12,Autoscaler,object,6,561,472,109,1.0695
+2019-12,ConfigMap,object,17,561,472,109,3.0303
+2019-12,CustomResourceDefinition,object,59,561,472,109,10.5169
+2019-12,DaemonSet,object,14,561,472,109,2.4955
+2019-12,Deployment,object,52,561,472,109,9.2692
+2019-12,Ingress,object,5,561,472,109,0.8913
+2019-12,LimitRange,object,2,561,472,109,0.3565
+2019-12,Namespace,object,233,561,472,109,41.533
+2019-12,NetworkPolicy,object,4,561,472,109,0.713
+2019-12,PersistentVolume,object,5,561,472,109,0.8913
+2019-12,PersistentVolumeClaim,object,8,561,472,109,1.426
+2019-12,Pod,object,4,561,472,109,0.713
+2019-12,ReplicaSet,object,6,561,472,109,1.0695
+2019-12,Secret,object,4,561,472,109,0.713
+2019-12,Service,object,45,561,472,109,8.0214
+2019-12,StatefulSet,object,8,561,472,109,1.426
+2019-12,Node Affinity,scheduling,42,561,472,109,7.4866
+2019-12,Pod Anti-Affinity,scheduling,45,561,472,109,8.0214
+2019-12,Taints,scheduling,2,561,472,109,0.3565
+2020-01,Autoscaler,object,0,111,111,129,0.0
+2020-01,ConfigMap,object,10,111,111,129,9.009
+2020-01,CustomResourceDefinition,object,30,111,111,129,27.027
+2020-01,DaemonSet,object,8,111,111,129,7.2072
+2020-01,Deployment,object,26,111,111,129,23.4234
+2020-01,Ingress,object,6,111,111,129,5.4054
+2020-01,LimitRange,object,0,111,111,129,0.0
+2020-01,Namespace,object,5,111,111,129,4.5045
+2020-01,NetworkPolicy,object,0,111,111,129,0.0
+2020-01,PersistentVolume,object,0,111,111,129,0.0
+2020-01,PersistentVolumeClaim,object,2,111,111,129,1.8018
+2020-01,Pod,object,1,111,111,129,0.9009
+2020-01,ReplicaSet,object,0,111,111,129,0.0
+2020-01,Secret,object,1,111,111,129,0.9009
+2020-01,Service,object,20,111,111,129,18.018
+2020-01,StatefulSet,object,2,111,111,129,1.8018
+2020-01,Node Affinity,scheduling,0,111,111,129,0.0
+2020-01,Pod Anti-Affinity,scheduling,0,111,111,129,0.0
+2020-01,Taints,scheduling,0,111,111,129,0.0
+2020-02,Autoscaler,object,0,108,106,176,0.0
+2020-02,ConfigMap,object,8,108,106,176,7.4074
+2020-02,CustomResourceDefinition,object,41,108,106,176,37.963
+2020-02,DaemonSet,object,2,108,106,176,1.8519
+2020-02,Deployment,object,26,108,106,176,24.0741
+2020-02,Ingress,object,1,108,106,176,0.9259
+2020-02,LimitRange,object,0,108,106,176,0.0
+2020-02,Namespace,object,12,108,106,176,11.1111
+2020-02,NetworkPolicy,object,0,108,106,176,0.0
+2020-02,PersistentVolume,object,0,108,106,176,0.0
+2020-02,PersistentVolumeClaim,object,2,108,106,176,1.8519
+2020-02,Pod,object,4,108,106,176,3.7037
+2020-02,ReplicaSet,object,0,108,106,176,0.0
+2020-02,Secret,object,1,108,106,176,0.9259
+2020-02,Service,object,9,108,106,176,8.3333
+2020-02,StatefulSet,object,0,108,106,176,0.0
+2020-02,Node Affinity,scheduling,0,108,106,176,0.0
+2020-02,Pod Anti-Affinity,scheduling,2,108,106,176,1.8519
+2020-02,Taints,scheduling,0,108,106,176,0.0
+2020-03,Autoscaler,object,0,153,153,130,0.0
+2020-03,ConfigMap,object,7,153,153,130,4.5752
+2020-03,CustomResourceDefinition,object,54,153,153,130,35.2941
+2020-03,DaemonSet,object,4,153,153,130,2.6144
+2020-03,Deployment,object,27,153,153,130,17.6471
+2020-03,Ingress,object,1,153,153,130,0.6536
+2020-03,LimitRange,object,0,153,153,130,0.0
+2020-03,Namespace,object,9,153,153,130,5.8824
+2020-03,NetworkPolicy,object,0,153,153,130,0.0
+2020-03,PersistentVolume,object,0,153,153,130,0.0
+2020-03,PersistentVolumeClaim,object,0,153,153,130,0.0
+2020-03,Pod,object,16,153,153,130,10.4575
+2020-03,ReplicaSet,object,7,153,153,130,4.5752
+2020-03,Secret,object,2,153,153,130,1.3072
+2020-03,Service,object,20,153,153,130,13.0719
+2020-03,StatefulSet,object,6,153,153,130,3.9216
+2020-03,Node Affinity,scheduling,0,153,153,130,0.0
+2020-03,Pod Anti-Affinity,scheduling,0,153,153,130,0.0
+2020-03,Taints,scheduling,0,153,153,130,0.0
+2020-04,Autoscaler,object,3,219,219,179,1.3699
+2020-04,ConfigMap,object,28,219,219,179,12.7854
+2020-04,CustomResourceDefinition,object,74,219,219,179,33.79
+2020-04,DaemonSet,object,1,219,219,179,0.4566
+2020-04,Deployment,object,36,219,219,179,16.4384
+2020-04,Ingress,object,2,219,219,179,0.9132
+2020-04,LimitRange,object,0,219,219,179,0.0
+2020-04,Namespace,object,8,219,219,179,3.653
+2020-04,NetworkPolicy,object,0,219,219,179,0.0
+2020-04,PersistentVolume,object,4,219,219,179,1.8265
+2020-04,PersistentVolumeClaim,object,5,219,219,179,2.2831
+2020-04,Pod,object,8,219,219,179,3.653
+2020-04,ReplicaSet,object,0,219,219,179,0.0
+2020-04,Secret,object,4,219,219,179,1.8265
+2020-04,Service,object,36,219,219,179,16.4384
+2020-04,StatefulSet,object,10,219,219,179,4.5662
+2020-04,Node Affinity,scheduling,0,219,219,179,0.0
+2020-04,Pod Anti-Affinity,scheduling,0,219,219,179,0.0
+2020-04,Taints,scheduling,0,219,219,179,0.0
+2020-05,Autoscaler,object,0,114,113,169,0.0
+2020-05,ConfigMap,object,6,114,113,169,5.2632
+2020-05,CustomResourceDefinition,object,41,114,113,169,35.9649
+2020-05,DaemonSet,object,3,114,113,169,2.6316
+2020-05,Deployment,object,19,114,113,169,16.6667
+2020-05,Ingress,object,1,114,113,169,0.8772
+2020-05,LimitRange,object,0,114,113,169,0.0
+2020-05,Namespace,object,10,114,113,169,8.7719
+2020-05,NetworkPolicy,object,0,114,113,169,0.0
+2020-05,PersistentVolume,object,0,114,113,169,0.0
+2020-05,PersistentVolumeClaim,object,6,114,113,169,5.2632
+2020-05,Pod,object,9,114,113,169,7.8947
+2020-05,ReplicaSet,object,1,114,113,169,0.8772
+2020-05,Secret,object,6,114,113,169,5.2632
+2020-05,Service,object,9,114,113,169,7.8947
+2020-05,StatefulSet,object,2,114,113,169,1.7544
+2020-05,Node Affinity,scheduling,0,114,113,169,0.0
+2020-05,Pod Anti-Affinity,scheduling,1,114,113,169,0.8772
+2020-05,Taints,scheduling,0,114,113,169,0.0
+2020-06,Autoscaler,object,1,285,285,135,0.3509
+2020-06,ConfigMap,object,23,285,285,135,8.0702
+2020-06,CustomResourceDefinition,object,71,285,285,135,24.9123
+2020-06,DaemonSet,object,9,285,285,135,3.1579
+2020-06,Deployment,object,70,285,285,135,24.5614
+2020-06,Ingress,object,0,285,285,135,0.0
+2020-06,LimitRange,object,1,285,285,135,0.3509
+2020-06,Namespace,object,25,285,285,135,8.7719
+2020-06,NetworkPolicy,object,1,285,285,135,0.3509
+2020-06,PersistentVolume,object,3,285,285,135,1.0526
+2020-06,PersistentVolumeClaim,object,1,285,285,135,0.3509
+2020-06,Pod,object,6,285,285,135,2.1053
+2020-06,ReplicaSet,object,0,285,285,135,0.0
+2020-06,Secret,object,11,285,285,135,3.8596
+2020-06,Service,object,59,285,285,135,20.7018
+2020-06,StatefulSet,object,4,285,285,135,1.4035
+2020-06,Node Affinity,scheduling,0,285,285,135,0.0
+2020-06,Pod Anti-Affinity,scheduling,0,285,285,135,0.0
+2020-06,Taints,scheduling,0,285,285,135,0.0
+2020-07,Autoscaler,object,0,271,252,142,0.0
+2020-07,ConfigMap,object,14,271,252,142,5.1661
+2020-07,CustomResourceDefinition,object,116,271,252,142,42.8044
+2020-07,DaemonSet,object,1,271,252,142,0.369
+2020-07,Deployment,object,48,271,252,142,17.7122
+2020-07,Ingress,object,2,271,252,142,0.738
+2020-07,LimitRange,object,0,271,252,142,0.0
+2020-07,Namespace,object,14,271,252,142,5.1661
+2020-07,NetworkPolicy,object,0,271,252,142,0.0
+2020-07,PersistentVolume,object,0,271,252,142,0.0
+2020-07,PersistentVolumeClaim,object,4,271,252,142,1.476
+2020-07,Pod,object,4,271,252,142,1.476
+2020-07,ReplicaSet,object,0,271,252,142,0.0
+2020-07,Secret,object,4,271,252,142,1.476
+2020-07,Service,object,41,271,252,142,15.1292
+2020-07,StatefulSet,object,4,271,252,142,1.476
+2020-07,Node Affinity,scheduling,16,271,252,142,5.9041
+2020-07,Pod Anti-Affinity,scheduling,3,271,252,142,1.107
+2020-07,Taints,scheduling,0,271,252,142,0.0
+2020-08,Autoscaler,object,0,221,209,178,0.0
+2020-08,ConfigMap,object,5,221,209,178,2.2624
+2020-08,CustomResourceDefinition,object,55,221,209,178,24.8869
+2020-08,DaemonSet,object,1,221,209,178,0.4525
+2020-08,Deployment,object,32,221,209,178,14.4796
+2020-08,Ingress,object,2,221,209,178,0.905
+2020-08,LimitRange,object,0,221,209,178,0.0
+2020-08,Namespace,object,4,221,209,178,1.81
+2020-08,NetworkPolicy,object,1,221,209,178,0.4525
+2020-08,PersistentVolume,object,1,221,209,178,0.4525
+2020-08,PersistentVolumeClaim,object,2,221,209,178,0.905
+2020-08,Pod,object,24,221,209,178,10.8597
+2020-08,ReplicaSet,object,0,221,209,178,0.0
+2020-08,Secret,object,6,221,209,178,2.7149
+2020-08,Service,object,75,221,209,178,33.9367
+2020-08,StatefulSet,object,1,221,209,178,0.4525
+2020-08,Node Affinity,scheduling,3,221,209,178,1.3575
+2020-08,Pod Anti-Affinity,scheduling,9,221,209,178,4.0724
+2020-08,Taints,scheduling,0,221,209,178,0.0
+2020-09,Autoscaler,object,0,135,135,176,0.0
+2020-09,ConfigMap,object,6,135,135,176,4.4444
+2020-09,CustomResourceDefinition,object,49,135,135,176,36.2963
+2020-09,DaemonSet,object,1,135,135,176,0.7407
+2020-09,Deployment,object,26,135,135,176,19.2593
+2020-09,Ingress,object,1,135,135,176,0.7407
+2020-09,LimitRange,object,0,135,135,176,0.0
+2020-09,Namespace,object,13,135,135,176,9.6296
+2020-09,NetworkPolicy,object,0,135,135,176,0.0
+2020-09,PersistentVolume,object,2,135,135,176,1.4815
+2020-09,PersistentVolumeClaim,object,7,135,135,176,5.1852
+2020-09,Pod,object,4,135,135,176,2.963
+2020-09,ReplicaSet,object,0,135,135,176,0.0
+2020-09,Secret,object,4,135,135,176,2.963
+2020-09,Service,object,18,135,135,176,13.3333
+2020-09,StatefulSet,object,4,135,135,176,2.963
+2020-09,Node Affinity,scheduling,0,135,135,176,0.0
+2020-09,Pod Anti-Affinity,scheduling,0,135,135,176,0.0
+2020-09,Taints,scheduling,0,135,135,176,0.0
+2020-10,Autoscaler,object,5,220,220,185,2.2727
+2020-10,ConfigMap,object,9,220,220,185,4.0909
+2020-10,CustomResourceDefinition,object,87,220,220,185,39.5455
+2020-10,DaemonSet,object,4,220,220,185,1.8182
+2020-10,Deployment,object,43,220,220,185,19.5455
+2020-10,Ingress,object,4,220,220,185,1.8182
+2020-10,LimitRange,object,0,220,220,185,0.0
+2020-10,Namespace,object,12,220,220,185,5.4545
+2020-10,NetworkPolicy,object,0,220,220,185,0.0
+2020-10,PersistentVolume,object,2,220,220,185,0.9091
+2020-10,PersistentVolumeClaim,object,1,220,220,185,0.4545
+2020-10,Pod,object,10,220,220,185,4.5455
+2020-10,ReplicaSet,object,0,220,220,185,0.0
+2020-10,Secret,object,6,220,220,185,2.7273
+2020-10,Service,object,33,220,220,185,15.0
+2020-10,StatefulSet,object,4,220,220,185,1.8182
+2020-10,Node Affinity,scheduling,0,220,220,185,0.0
+2020-10,Pod Anti-Affinity,scheduling,0,220,220,185,0.0
+2020-10,Taints,scheduling,0,220,220,185,0.0
+2020-11,Autoscaler,object,2,92,87,157,2.1739
+2020-11,ConfigMap,object,1,92,87,157,1.087
+2020-11,CustomResourceDefinition,object,26,92,87,157,28.2609
+2020-11,DaemonSet,object,2,92,87,157,2.1739
+2020-11,Deployment,object,16,92,87,157,17.3913
+2020-11,Ingress,object,1,92,87,157,1.087
+2020-11,LimitRange,object,0,92,87,157,0.0
+2020-11,Namespace,object,6,92,87,157,6.5217
+2020-11,NetworkPolicy,object,0,92,87,157,0.0
+2020-11,PersistentVolume,object,0,92,87,157,0.0
+2020-11,PersistentVolumeClaim,object,2,92,87,157,2.1739
+2020-11,Pod,object,1,92,87,157,1.087
+2020-11,ReplicaSet,object,0,92,87,157,0.0
+2020-11,Secret,object,5,92,87,157,5.4348
+2020-11,Service,object,17,92,87,157,18.4783
+2020-11,StatefulSet,object,8,92,87,157,8.6957
+2020-11,Node Affinity,scheduling,0,92,87,157,0.0
+2020-11,Pod Anti-Affinity,scheduling,5,92,87,157,5.4348
+2020-11,Taints,scheduling,0,92,87,157,0.0
+2020-12,Autoscaler,object,0,127,126,130,0.0
+2020-12,ConfigMap,object,25,127,126,130,19.685
+2020-12,CustomResourceDefinition,object,31,127,126,130,24.4094
+2020-12,DaemonSet,object,9,127,126,130,7.0866
+2020-12,Deployment,object,18,127,126,130,14.1732
+2020-12,Ingress,object,11,127,126,130,8.6614
+2020-12,LimitRange,object,0,127,126,130,0.0
+2020-12,Namespace,object,5,127,126,130,3.937
+2020-12,NetworkPolicy,object,0,127,126,130,0.0
+2020-12,PersistentVolume,object,0,127,126,130,0.0
+2020-12,PersistentVolumeClaim,object,0,127,126,130,0.0
+2020-12,Pod,object,2,127,126,130,1.5748
+2020-12,ReplicaSet,object,0,127,126,130,0.0
+2020-12,Secret,object,6,127,126,130,4.7244
+2020-12,Service,object,19,127,126,130,14.9606
+2020-12,StatefulSet,object,0,127,126,130,0.0
+2020-12,Node Affinity,scheduling,1,127,126,130,0.7874
+2020-12,Pod Anti-Affinity,scheduling,0,127,126,130,0.0
+2020-12,Taints,scheduling,0,127,126,130,0.0
+2021-01,Autoscaler,object,0,157,156,180,0.0
+2021-01,ConfigMap,object,4,157,156,180,2.5478
+2021-01,CustomResourceDefinition,object,74,157,156,180,47.1338
+2021-01,DaemonSet,object,5,157,156,180,3.1847
+2021-01,Deployment,object,20,157,156,180,12.7389
+2021-01,Ingress,object,10,157,156,180,6.3694
+2021-01,LimitRange,object,0,157,156,180,0.0
+2021-01,Namespace,object,7,157,156,180,4.4586
+2021-01,NetworkPolicy,object,8,157,156,180,5.0955
+2021-01,PersistentVolume,object,0,157,156,180,0.0
+2021-01,PersistentVolumeClaim,object,1,157,156,180,0.6369
+2021-01,Pod,object,4,157,156,180,2.5478
+2021-01,ReplicaSet,object,0,157,156,180,0.0
+2021-01,Secret,object,6,157,156,180,3.8217
+2021-01,Service,object,15,157,156,180,9.5541
+2021-01,StatefulSet,object,2,157,156,180,1.2739
+2021-01,Node Affinity,scheduling,1,157,156,180,0.6369
+2021-01,Pod Anti-Affinity,scheduling,0,157,156,180,0.0
+2021-01,Taints,scheduling,0,157,156,180,0.0
+2021-02,Autoscaler,object,0,175,171,163,0.0
+2021-02,ConfigMap,object,9,175,171,163,5.1429
+2021-02,CustomResourceDefinition,object,63,175,171,163,36.0
+2021-02,DaemonSet,object,3,175,171,163,1.7143
+2021-02,Deployment,object,28,175,171,163,16.0
+2021-02,Ingress,object,0,175,171,163,0.0
+2021-02,LimitRange,object,0,175,171,163,0.0
+2021-02,Namespace,object,6,175,171,163,3.4286
+2021-02,NetworkPolicy,object,2,175,171,163,1.1429
+2021-02,PersistentVolume,object,0,175,171,163,0.0
+2021-02,PersistentVolumeClaim,object,7,175,171,163,4.0
+2021-02,Pod,object,14,175,171,163,8.0
+2021-02,ReplicaSet,object,0,175,171,163,0.0
+2021-02,Secret,object,11,175,171,163,6.2857
+2021-02,Service,object,26,175,171,163,14.8571
+2021-02,StatefulSet,object,2,175,171,163,1.1429
+2021-02,Node Affinity,scheduling,1,175,171,163,0.5714
+2021-02,Pod Anti-Affinity,scheduling,3,175,171,163,1.7143
+2021-02,Taints,scheduling,0,175,171,163,0.0
+2021-03,Autoscaler,object,0,150,150,188,0.0
+2021-03,ConfigMap,object,10,150,150,188,6.6667
+2021-03,CustomResourceDefinition,object,30,150,150,188,20.0
+2021-03,DaemonSet,object,3,150,150,188,2.0
+2021-03,Deployment,object,44,150,150,188,29.3333
+2021-03,Ingress,object,1,150,150,188,0.6667
+2021-03,LimitRange,object,0,150,150,188,0.0
+2021-03,Namespace,object,9,150,150,188,6.0
+2021-03,NetworkPolicy,object,0,150,150,188,0.0
+2021-03,PersistentVolume,object,0,150,150,188,0.0
+2021-03,PersistentVolumeClaim,object,1,150,150,188,0.6667
+2021-03,Pod,object,5,150,150,188,3.3333
+2021-03,ReplicaSet,object,0,150,150,188,0.0
+2021-03,Secret,object,17,150,150,188,11.3333
+2021-03,Service,object,30,150,150,188,20.0
+2021-03,StatefulSet,object,0,150,150,188,0.0
+2021-03,Node Affinity,scheduling,0,150,150,188,0.0
+2021-03,Pod Anti-Affinity,scheduling,0,150,150,188,0.0
+2021-03,Taints,scheduling,0,150,150,188,0.0
+2021-04,Autoscaler,object,0,471,458,181,0.0
+2021-04,ConfigMap,object,40,471,458,181,8.4926
+2021-04,CustomResourceDefinition,object,133,471,458,181,28.2378
+2021-04,DaemonSet,object,11,471,458,181,2.3355
+2021-04,Deployment,object,110,471,458,181,23.3546
+2021-04,Ingress,object,0,471,458,181,0.0
+2021-04,LimitRange,object,0,471,458,181,0.0
+2021-04,Namespace,object,14,471,458,181,2.9724
+2021-04,NetworkPolicy,object,1,471,458,181,0.2123
+2021-04,PersistentVolume,object,0,471,458,181,0.0
+2021-04,PersistentVolumeClaim,object,22,471,458,181,4.6709
+2021-04,Pod,object,18,471,458,181,3.8217
+2021-04,ReplicaSet,object,0,471,458,181,0.0
+2021-04,Secret,object,11,471,458,181,2.3355
+2021-04,Service,object,94,471,458,181,19.9575
+2021-04,StatefulSet,object,4,471,458,181,0.8493
+2021-04,Node Affinity,scheduling,3,471,458,181,0.6369
+2021-04,Pod Anti-Affinity,scheduling,10,471,458,181,2.1231
+2021-04,Taints,scheduling,0,471,458,181,0.0
+2021-05,Autoscaler,object,0,230,229,183,0.0
+2021-05,ConfigMap,object,13,230,229,183,5.6522
+2021-05,CustomResourceDefinition,object,92,230,229,183,40.0
+2021-05,DaemonSet,object,1,230,229,183,0.4348
+2021-05,Deployment,object,54,230,229,183,23.4783
+2021-05,Ingress,object,3,230,229,183,1.3043
+2021-05,LimitRange,object,0,230,229,183,0.0
+2021-05,Namespace,object,11,230,229,183,4.7826
+2021-05,NetworkPolicy,object,0,230,229,183,0.0
+2021-05,PersistentVolume,object,0,230,229,183,0.0
+2021-05,PersistentVolumeClaim,object,2,230,229,183,0.8696
+2021-05,Pod,object,6,230,229,183,2.6087
+2021-05,ReplicaSet,object,0,230,229,183,0.0
+2021-05,Secret,object,3,230,229,183,1.3043
+2021-05,Service,object,44,230,229,183,19.1304
+2021-05,StatefulSet,object,0,230,229,183,0.0
+2021-05,Node Affinity,scheduling,0,230,229,183,0.0
+2021-05,Pod Anti-Affinity,scheduling,0,230,229,183,0.0
+2021-05,Taints,scheduling,1,230,229,183,0.4348
+2021-06,Autoscaler,object,1,154,154,189,0.6494
+2021-06,ConfigMap,object,19,154,154,189,12.3377
+2021-06,CustomResourceDefinition,object,57,154,154,189,37.013
+2021-06,DaemonSet,object,1,154,154,189,0.6494
+2021-06,Deployment,object,18,154,154,189,11.6883
+2021-06,Ingress,object,1,154,154,189,0.6494
+2021-06,LimitRange,object,0,154,154,189,0.0
+2021-06,Namespace,object,10,154,154,189,6.4935
+2021-06,NetworkPolicy,object,0,154,154,189,0.0
+2021-06,PersistentVolume,object,0,154,154,189,0.0
+2021-06,PersistentVolumeClaim,object,8,154,154,189,5.1948
+2021-06,Pod,object,1,154,154,189,0.6494
+2021-06,ReplicaSet,object,0,154,154,189,0.0
+2021-06,Secret,object,17,154,154,189,11.039
+2021-06,Service,object,21,154,154,189,13.6364
+2021-06,StatefulSet,object,0,154,154,189,0.0
+2021-06,Node Affinity,scheduling,0,154,154,189,0.0
+2021-06,Pod Anti-Affinity,scheduling,0,154,154,189,0.0
+2021-06,Taints,scheduling,0,154,154,189,0.0
+2021-07,Autoscaler,object,1,251,251,173,0.3984
+2021-07,ConfigMap,object,33,251,251,173,13.1474
+2021-07,CustomResourceDefinition,object,77,251,251,173,30.6773
+2021-07,DaemonSet,object,8,251,251,173,3.1873
+2021-07,Deployment,object,36,251,251,173,14.3426
+2021-07,Ingress,object,1,251,251,173,0.3984
+2021-07,LimitRange,object,0,251,251,173,0.0
+2021-07,Namespace,object,8,251,251,173,3.1873
+2021-07,NetworkPolicy,object,0,251,251,173,0.0
+2021-07,PersistentVolume,object,0,251,251,173,0.0
+2021-07,PersistentVolumeClaim,object,15,251,251,173,5.9761
+2021-07,Pod,object,2,251,251,173,0.7968
+2021-07,ReplicaSet,object,0,251,251,173,0.0
+2021-07,Secret,object,24,251,251,173,9.5618
+2021-07,Service,object,40,251,251,173,15.9363
+2021-07,StatefulSet,object,6,251,251,173,2.3904
+2021-07,Node Affinity,scheduling,0,251,251,173,0.0
+2021-07,Pod Anti-Affinity,scheduling,0,251,251,173,0.0
+2021-07,Taints,scheduling,0,251,251,173,0.0
+2021-08,Autoscaler,object,14,1260,1156,222,1.1111
+2021-08,ConfigMap,object,139,1260,1156,222,11.0317
+2021-08,CustomResourceDefinition,object,358,1260,1156,222,28.4127
+2021-08,DaemonSet,object,12,1260,1156,222,0.9524
+2021-08,Deployment,object,266,1260,1156,222,21.1111
+2021-08,Ingress,object,9,1260,1156,222,0.7143
+2021-08,LimitRange,object,0,1260,1156,222,0.0
+2021-08,Namespace,object,36,1260,1156,222,2.8571
+2021-08,NetworkPolicy,object,0,1260,1156,222,0.0
+2021-08,PersistentVolume,object,30,1260,1156,222,2.381
+2021-08,PersistentVolumeClaim,object,35,1260,1156,222,2.7778
+2021-08,Pod,object,3,1260,1156,222,0.2381
+2021-08,ReplicaSet,object,0,1260,1156,222,0.0
+2021-08,Secret,object,37,1260,1156,222,2.9365
+2021-08,Service,object,197,1260,1156,222,15.6349
+2021-08,StatefulSet,object,20,1260,1156,222,1.5873
+2021-08,Node Affinity,scheduling,103,1260,1156,222,8.1746
+2021-08,Pod Anti-Affinity,scheduling,1,1260,1156,222,0.0794
+2021-08,Taints,scheduling,0,1260,1156,222,0.0
+2021-09,Autoscaler,object,1,726,691,238,0.1377
+2021-09,ConfigMap,object,93,726,691,238,12.8099
+2021-09,CustomResourceDefinition,object,195,726,691,238,26.8595
+2021-09,DaemonSet,object,16,726,691,238,2.2039
+2021-09,Deployment,object,127,726,691,238,17.4931
+2021-09,Ingress,object,3,726,691,238,0.4132
+2021-09,LimitRange,object,0,726,691,238,0.0
+2021-09,Namespace,object,46,726,691,238,6.3361
+2021-09,NetworkPolicy,object,0,726,691,238,0.0
+2021-09,PersistentVolume,object,4,726,691,238,0.551
+2021-09,PersistentVolumeClaim,object,8,726,691,238,1.1019
+2021-09,Pod,object,17,726,691,238,2.3416
+2021-09,ReplicaSet,object,0,726,691,238,0.0
+2021-09,Secret,object,32,726,691,238,4.4077
+2021-09,Service,object,123,726,691,238,16.9421
+2021-09,StatefulSet,object,26,726,691,238,3.5813
+2021-09,Node Affinity,scheduling,21,726,691,238,2.8926
+2021-09,Pod Anti-Affinity,scheduling,14,726,691,238,1.9284
+2021-09,Taints,scheduling,0,726,691,238,0.0
+2021-10,Autoscaler,object,1,320,319,218,0.3125
+2021-10,ConfigMap,object,19,320,319,218,5.9375
+2021-10,CustomResourceDefinition,object,103,320,319,218,32.1875
+2021-10,DaemonSet,object,3,320,319,218,0.9375
+2021-10,Deployment,object,90,320,319,218,28.125
+2021-10,Ingress,object,1,320,319,218,0.3125
+2021-10,LimitRange,object,0,320,319,218,0.0
+2021-10,Namespace,object,10,320,319,218,3.125
+2021-10,NetworkPolicy,object,0,320,319,218,0.0
+2021-10,PersistentVolume,object,2,320,319,218,0.625
+2021-10,PersistentVolumeClaim,object,3,320,319,218,0.9375
+2021-10,Pod,object,3,320,319,218,0.9375
+2021-10,ReplicaSet,object,0,320,319,218,0.0
+2021-10,Secret,object,6,320,319,218,1.875
+2021-10,Service,object,73,320,319,218,22.8125
+2021-10,StatefulSet,object,5,320,319,218,1.5625
+2021-10,Node Affinity,scheduling,1,320,319,218,0.3125
+2021-10,Pod Anti-Affinity,scheduling,0,320,319,218,0.0
+2021-10,Taints,scheduling,0,320,319,218,0.0
+2021-11,Autoscaler,object,0,260,255,215,0.0
+2021-11,ConfigMap,object,23,260,255,215,8.8462
+2021-11,CustomResourceDefinition,object,73,260,255,215,28.0769
+2021-11,DaemonSet,object,9,260,255,215,3.4615
+2021-11,Deployment,object,42,260,255,215,16.1538
+2021-11,Ingress,object,3,260,255,215,1.1538
+2021-11,LimitRange,object,0,260,255,215,0.0
+2021-11,Namespace,object,9,260,255,215,3.4615
+2021-11,NetworkPolicy,object,0,260,255,215,0.0
+2021-11,PersistentVolume,object,0,260,255,215,0.0
+2021-11,PersistentVolumeClaim,object,3,260,255,215,1.1538
+2021-11,Pod,object,3,260,255,215,1.1538
+2021-11,ReplicaSet,object,0,260,255,215,0.0
+2021-11,Secret,object,41,260,255,215,15.7692
+2021-11,Service,object,47,260,255,215,18.0769
+2021-11,StatefulSet,object,2,260,255,215,0.7692
+2021-11,Node Affinity,scheduling,2,260,255,215,0.7692
+2021-11,Pod Anti-Affinity,scheduling,3,260,255,215,1.1538
+2021-11,Taints,scheduling,0,260,255,215,0.0
+2021-12,Autoscaler,object,0,308,307,192,0.0
+2021-12,ConfigMap,object,49,308,307,192,15.9091
+2021-12,CustomResourceDefinition,object,125,308,307,192,40.5844
+2021-12,DaemonSet,object,9,308,307,192,2.9221
+2021-12,Deployment,object,42,308,307,192,13.6364
+2021-12,Ingress,object,4,308,307,192,1.2987
+2021-12,LimitRange,object,0,308,307,192,0.0
+2021-12,Namespace,object,5,308,307,192,1.6234
+2021-12,NetworkPolicy,object,1,308,307,192,0.3247
+2021-12,PersistentVolume,object,2,308,307,192,0.6494
+2021-12,PersistentVolumeClaim,object,2,308,307,192,0.6494
+2021-12,Pod,object,3,308,307,192,0.974
+2021-12,ReplicaSet,object,0,308,307,192,0.0
+2021-12,Secret,object,11,308,307,192,3.5714
+2021-12,Service,object,51,308,307,192,16.5584
+2021-12,StatefulSet,object,3,308,307,192,0.974
+2021-12,Node Affinity,scheduling,1,308,307,192,0.3247
+2021-12,Pod Anti-Affinity,scheduling,0,308,307,192,0.0
+2021-12,Taints,scheduling,0,308,307,192,0.0
+2022-01,Autoscaler,object,0,198,191,244,0.0
+2022-01,ConfigMap,object,10,198,191,244,5.0505
+2022-01,CustomResourceDefinition,object,68,198,191,244,34.3434
+2022-01,DaemonSet,object,3,198,191,244,1.5152
+2022-01,Deployment,object,36,198,191,244,18.1818
+2022-01,Ingress,object,2,198,191,244,1.0101
+2022-01,LimitRange,object,0,198,191,244,0.0
+2022-01,Namespace,object,8,198,191,244,4.0404
+2022-01,NetworkPolicy,object,0,198,191,244,0.0
+2022-01,PersistentVolume,object,0,198,191,244,0.0
+2022-01,PersistentVolumeClaim,object,8,198,191,244,4.0404
+2022-01,Pod,object,3,198,191,244,1.5152
+2022-01,ReplicaSet,object,0,198,191,244,0.0
+2022-01,Secret,object,16,198,191,244,8.0808
+2022-01,Service,object,34,198,191,244,17.1717
+2022-01,StatefulSet,object,3,198,191,244,1.5152
+2022-01,Node Affinity,scheduling,0,198,191,244,0.0
+2022-01,Pod Anti-Affinity,scheduling,7,198,191,244,3.5354
+2022-01,Taints,scheduling,0,198,191,244,0.0
+2022-02,Autoscaler,object,1,294,271,252,0.3401
+2022-02,ConfigMap,object,24,294,271,252,8.1633
+2022-02,CustomResourceDefinition,object,63,294,271,252,21.4286
+2022-02,DaemonSet,object,9,294,271,252,3.0612
+2022-02,Deployment,object,46,294,271,252,15.6463
+2022-02,Ingress,object,7,294,271,252,2.381
+2022-02,LimitRange,object,0,294,271,252,0.0
+2022-02,Namespace,object,12,294,271,252,4.0816
+2022-02,NetworkPolicy,object,0,294,271,252,0.0
+2022-02,PersistentVolume,object,0,294,271,252,0.0
+2022-02,PersistentVolumeClaim,object,0,294,271,252,0.0
+2022-02,Pod,object,0,294,271,252,0.0
+2022-02,ReplicaSet,object,0,294,271,252,0.0
+2022-02,Secret,object,39,294,271,252,13.2653
+2022-02,Service,object,60,294,271,252,20.4082
+2022-02,StatefulSet,object,10,294,271,252,3.4014
+2022-02,Node Affinity,scheduling,6,294,271,252,2.0408
+2022-02,Pod Anti-Affinity,scheduling,17,294,271,252,5.7823
+2022-02,Taints,scheduling,0,294,271,252,0.0
+2022-03,Autoscaler,object,0,213,200,309,0.0
+2022-03,ConfigMap,object,24,213,200,309,11.2676
+2022-03,CustomResourceDefinition,object,70,213,200,309,32.8638
+2022-03,DaemonSet,object,6,213,200,309,2.8169
+2022-03,Deployment,object,36,213,200,309,16.9014
+2022-03,Ingress,object,2,213,200,309,0.939
+2022-03,LimitRange,object,0,213,200,309,0.0
+2022-03,Namespace,object,7,213,200,309,3.2864
+2022-03,NetworkPolicy,object,0,213,200,309,0.0
+2022-03,PersistentVolume,object,0,213,200,309,0.0
+2022-03,PersistentVolumeClaim,object,0,213,200,309,0.0
+2022-03,Pod,object,4,213,200,309,1.8779
+2022-03,ReplicaSet,object,0,213,200,309,0.0
+2022-03,Secret,object,11,213,200,309,5.1643
+2022-03,Service,object,36,213,200,309,16.9014
+2022-03,StatefulSet,object,4,213,200,309,1.8779
+2022-03,Node Affinity,scheduling,12,213,200,309,5.6338
+2022-03,Pod Anti-Affinity,scheduling,1,213,200,309,0.4695
+2022-03,Taints,scheduling,0,213,200,309,0.0
+2022-04,Autoscaler,object,1,429,420,289,0.2331
+2022-04,ConfigMap,object,36,429,420,289,8.3916
+2022-04,CustomResourceDefinition,object,197,429,420,289,45.9207
+2022-04,DaemonSet,object,6,429,420,289,1.3986
+2022-04,Deployment,object,54,429,420,289,12.5874
+2022-04,Ingress,object,6,429,420,289,1.3986
+2022-04,LimitRange,object,0,429,420,289,0.0
+2022-04,Namespace,object,14,429,420,289,3.2634
+2022-04,NetworkPolicy,object,0,429,420,289,0.0
+2022-04,PersistentVolume,object,2,429,420,289,0.4662
+2022-04,PersistentVolumeClaim,object,15,429,420,289,3.4965
+2022-04,Pod,object,4,429,420,289,0.9324
+2022-04,ReplicaSet,object,0,429,420,289,0.0
+2022-04,Secret,object,20,429,420,289,4.662
+2022-04,Service,object,54,429,420,289,12.5874
+2022-04,StatefulSet,object,11,429,420,289,2.5641
+2022-04,Node Affinity,scheduling,4,429,420,289,0.9324
+2022-04,Pod Anti-Affinity,scheduling,5,429,420,289,1.1655
+2022-04,Taints,scheduling,0,429,420,289,0.0
+2022-05,Autoscaler,object,0,308,308,297,0.0
+2022-05,ConfigMap,object,21,308,308,297,6.8182
+2022-05,CustomResourceDefinition,object,85,308,308,297,27.5974
+2022-05,DaemonSet,object,4,308,308,297,1.2987
+2022-05,Deployment,object,76,308,308,297,24.6753
+2022-05,Ingress,object,4,308,308,297,1.2987
+2022-05,LimitRange,object,0,308,308,297,0.0
+2022-05,Namespace,object,9,308,308,297,2.9221
+2022-05,NetworkPolicy,object,0,308,308,297,0.0
+2022-05,PersistentVolume,object,1,308,308,297,0.3247
+2022-05,PersistentVolumeClaim,object,6,308,308,297,1.9481
+2022-05,Pod,object,2,308,308,297,0.6494
+2022-05,ReplicaSet,object,0,308,308,297,0.0
+2022-05,Secret,object,9,308,308,297,2.9221
+2022-05,Service,object,82,308,308,297,26.6234
+2022-05,StatefulSet,object,9,308,308,297,2.9221
+2022-05,Node Affinity,scheduling,0,308,308,297,0.0
+2022-05,Pod Anti-Affinity,scheduling,0,308,308,297,0.0
+2022-05,Taints,scheduling,0,308,308,297,0.0
+2022-06,Autoscaler,object,0,179,175,292,0.0
+2022-06,ConfigMap,object,21,179,175,292,11.7318
+2022-06,CustomResourceDefinition,object,26,179,175,292,14.5251
+2022-06,DaemonSet,object,3,179,175,292,1.676
+2022-06,Deployment,object,46,179,175,292,25.6983
+2022-06,Ingress,object,1,179,175,292,0.5587
+2022-06,LimitRange,object,0,179,175,292,0.0
+2022-06,Namespace,object,3,179,175,292,1.676
+2022-06,NetworkPolicy,object,0,179,175,292,0.0
+2022-06,PersistentVolume,object,1,179,175,292,0.5587
+2022-06,PersistentVolumeClaim,object,16,179,175,292,8.9385
+2022-06,Pod,object,4,179,175,292,2.2346
+2022-06,ReplicaSet,object,0,179,175,292,0.0
+2022-06,Secret,object,6,179,175,292,3.352
+2022-06,Service,object,38,179,175,292,21.2291
+2022-06,StatefulSet,object,10,179,175,292,5.5866
+2022-06,Node Affinity,scheduling,0,179,175,292,0.0
+2022-06,Pod Anti-Affinity,scheduling,4,179,175,292,2.2346
+2022-06,Taints,scheduling,0,179,175,292,0.0
+2022-07,Autoscaler,object,4,242,239,326,1.6529
+2022-07,ConfigMap,object,7,242,239,326,2.8926
+2022-07,CustomResourceDefinition,object,115,242,239,326,47.5207
+2022-07,DaemonSet,object,9,242,239,326,3.719
+2022-07,Deployment,object,34,242,239,326,14.0496
+2022-07,Ingress,object,0,242,239,326,0.0
+2022-07,LimitRange,object,0,242,239,326,0.0
+2022-07,Namespace,object,3,242,239,326,1.2397
+2022-07,NetworkPolicy,object,0,242,239,326,0.0
+2022-07,PersistentVolume,object,1,242,239,326,0.4132
+2022-07,PersistentVolumeClaim,object,3,242,239,326,1.2397
+2022-07,Pod,object,5,242,239,326,2.0661
+2022-07,ReplicaSet,object,0,242,239,326,0.0
+2022-07,Secret,object,9,242,239,326,3.719
+2022-07,Service,object,47,242,239,326,19.4215
+2022-07,StatefulSet,object,2,242,239,326,0.8264
+2022-07,Node Affinity,scheduling,2,242,239,326,0.8264
+2022-07,Pod Anti-Affinity,scheduling,1,242,239,326,0.4132
+2022-07,Taints,scheduling,0,242,239,326,0.0
+2022-08,Autoscaler,object,1,352,346,324,0.2841
+2022-08,ConfigMap,object,47,352,346,324,13.3523
+2022-08,CustomResourceDefinition,object,101,352,346,324,28.6932
+2022-08,DaemonSet,object,5,352,346,324,1.4205
+2022-08,Deployment,object,58,352,346,324,16.4773
+2022-08,Ingress,object,22,352,346,324,6.25
+2022-08,LimitRange,object,0,352,346,324,0.0
+2022-08,Namespace,object,14,352,346,324,3.9773
+2022-08,NetworkPolicy,object,0,352,346,324,0.0
+2022-08,PersistentVolume,object,1,352,346,324,0.2841
+2022-08,PersistentVolumeClaim,object,5,352,346,324,1.4205
+2022-08,Pod,object,12,352,346,324,3.4091
+2022-08,ReplicaSet,object,0,352,346,324,0.0
+2022-08,Secret,object,7,352,346,324,1.9886
+2022-08,Service,object,69,352,346,324,19.6023
+2022-08,StatefulSet,object,4,352,346,324,1.1364
+2022-08,Node Affinity,scheduling,2,352,346,324,0.5682
+2022-08,Pod Anti-Affinity,scheduling,4,352,346,324,1.1364
+2022-08,Taints,scheduling,0,352,346,324,0.0
+2022-09,Autoscaler,object,2,269,263,309,0.7435
+2022-09,ConfigMap,object,13,269,263,309,4.8327
+2022-09,CustomResourceDefinition,object,81,269,263,309,30.1115
+2022-09,DaemonSet,object,2,269,263,309,0.7435
+2022-09,Deployment,object,58,269,263,309,21.5613
+2022-09,Ingress,object,0,269,263,309,0.0
+2022-09,LimitRange,object,0,269,263,309,0.0
+2022-09,Namespace,object,15,269,263,309,5.5762
+2022-09,NetworkPolicy,object,0,269,263,309,0.0
+2022-09,PersistentVolume,object,11,269,263,309,4.0892
+2022-09,PersistentVolumeClaim,object,13,269,263,309,4.8327
+2022-09,Pod,object,12,269,263,309,4.461
+2022-09,ReplicaSet,object,0,269,263,309,0.0
+2022-09,Secret,object,10,269,263,309,3.7175
+2022-09,Service,object,45,269,263,309,16.7286
+2022-09,StatefulSet,object,1,269,263,309,0.3717
+2022-09,Node Affinity,scheduling,1,269,263,309,0.3717
+2022-09,Pod Anti-Affinity,scheduling,5,269,263,309,1.8587
+2022-09,Taints,scheduling,0,269,263,309,0.0
+2022-10,Autoscaler,object,0,125,124,383,0.0
+2022-10,ConfigMap,object,11,125,124,383,8.8
+2022-10,CustomResourceDefinition,object,57,125,124,383,45.6
+2022-10,DaemonSet,object,3,125,124,383,2.4
+2022-10,Deployment,object,15,125,124,383,12.0
+2022-10,Ingress,object,0,125,124,383,0.0
+2022-10,LimitRange,object,0,125,124,383,0.0
+2022-10,Namespace,object,5,125,124,383,4.0
+2022-10,NetworkPolicy,object,0,125,124,383,0.0
+2022-10,PersistentVolume,object,0,125,124,383,0.0
+2022-10,PersistentVolumeClaim,object,2,125,124,383,1.6
+2022-10,Pod,object,6,125,124,383,4.8
+2022-10,ReplicaSet,object,0,125,124,383,0.0
+2022-10,Secret,object,8,125,124,383,6.4
+2022-10,Service,object,15,125,124,383,12.0
+2022-10,StatefulSet,object,2,125,124,383,1.6
+2022-10,Node Affinity,scheduling,1,125,124,383,0.8
+2022-10,Pod Anti-Affinity,scheduling,0,125,124,383,0.0
+2022-10,Taints,scheduling,0,125,124,383,0.0
+2022-11,Autoscaler,object,0,229,227,366,0.0
+2022-11,ConfigMap,object,22,229,227,366,9.607
+2022-11,CustomResourceDefinition,object,47,229,227,366,20.524
+2022-11,DaemonSet,object,3,229,227,366,1.31
+2022-11,Deployment,object,44,229,227,366,19.214
+2022-11,Ingress,object,7,229,227,366,3.0568
+2022-11,LimitRange,object,0,229,227,366,0.0
+2022-11,Namespace,object,11,229,227,366,4.8035
+2022-11,NetworkPolicy,object,0,229,227,366,0.0
+2022-11,PersistentVolume,object,0,229,227,366,0.0
+2022-11,PersistentVolumeClaim,object,0,229,227,366,0.0
+2022-11,Pod,object,39,229,227,366,17.0306
+2022-11,ReplicaSet,object,0,229,227,366,0.0
+2022-11,Secret,object,8,229,227,366,3.4934
+2022-11,Service,object,36,229,227,366,15.7205
+2022-11,StatefulSet,object,10,229,227,366,4.3668
+2022-11,Node Affinity,scheduling,2,229,227,366,0.8734
+2022-11,Pod Anti-Affinity,scheduling,0,229,227,366,0.0
+2022-11,Taints,scheduling,0,229,227,366,0.0
+2022-12,Autoscaler,object,0,135,132,470,0.0
+2022-12,ConfigMap,object,8,135,132,470,5.9259
+2022-12,CustomResourceDefinition,object,62,135,132,470,45.9259
+2022-12,DaemonSet,object,5,135,132,470,3.7037
+2022-12,Deployment,object,23,135,132,470,17.037
+2022-12,Ingress,object,1,135,132,470,0.7407
+2022-12,LimitRange,object,0,135,132,470,0.0
+2022-12,Namespace,object,8,135,132,470,5.9259
+2022-12,NetworkPolicy,object,0,135,132,470,0.0
+2022-12,PersistentVolume,object,0,135,132,470,0.0
+2022-12,PersistentVolumeClaim,object,0,135,132,470,0.0
+2022-12,Pod,object,0,135,132,470,0.0
+2022-12,ReplicaSet,object,0,135,132,470,0.0
+2022-12,Secret,object,8,135,132,470,5.9259
+2022-12,Service,object,15,135,132,470,11.1111
+2022-12,StatefulSet,object,2,135,132,470,1.4815
+2022-12,Node Affinity,scheduling,2,135,132,470,1.4815
+2022-12,Pod Anti-Affinity,scheduling,1,135,132,470,0.7407
+2022-12,Taints,scheduling,0,135,132,470,0.0
+2023-01,Autoscaler,object,0,271,248,339,0.0
+2023-01,ConfigMap,object,34,271,248,339,12.5461
+2023-01,CustomResourceDefinition,object,73,271,248,339,26.9373
+2023-01,DaemonSet,object,8,271,248,339,2.952
+2023-01,Deployment,object,42,271,248,339,15.4982
+2023-01,Ingress,object,3,271,248,339,1.107
+2023-01,LimitRange,object,0,271,248,339,0.0
+2023-01,Namespace,object,20,271,248,339,7.3801
+2023-01,NetworkPolicy,object,7,271,248,339,2.583
+2023-01,PersistentVolume,object,7,271,248,339,2.583
+2023-01,PersistentVolumeClaim,object,7,271,248,339,2.583
+2023-01,Pod,object,0,271,248,339,0.0
+2023-01,ReplicaSet,object,0,271,248,339,0.0
+2023-01,Secret,object,5,271,248,339,1.845
+2023-01,Service,object,32,271,248,339,11.8081
+2023-01,StatefulSet,object,10,271,248,339,3.69
+2023-01,Node Affinity,scheduling,4,271,248,339,1.476
+2023-01,Pod Anti-Affinity,scheduling,5,271,248,339,1.845
+2023-01,Taints,scheduling,14,271,248,339,5.1661
+2023-02,Autoscaler,object,0,203,195,346,0.0
+2023-02,ConfigMap,object,10,203,195,346,4.9261
+2023-02,CustomResourceDefinition,object,61,203,195,346,30.0493
+2023-02,DaemonSet,object,3,203,195,346,1.4778
+2023-02,Deployment,object,29,203,195,346,14.2857
+2023-02,Ingress,object,5,203,195,346,2.4631
+2023-02,LimitRange,object,0,203,195,346,0.0
+2023-02,Namespace,object,11,203,195,346,5.4187
+2023-02,NetworkPolicy,object,3,203,195,346,1.4778
+2023-02,PersistentVolume,object,20,203,195,346,9.8522
+2023-02,PersistentVolumeClaim,object,7,203,195,346,3.4483
+2023-02,Pod,object,7,203,195,346,3.4483
+2023-02,ReplicaSet,object,0,203,195,346,0.0
+2023-02,Secret,object,6,203,195,346,2.9557
+2023-02,Service,object,28,203,195,346,13.7931
+2023-02,StatefulSet,object,5,203,195,346,2.4631
+2023-02,Node Affinity,scheduling,8,203,195,346,3.9409
+2023-02,Pod Anti-Affinity,scheduling,0,203,195,346,0.0
+2023-02,Taints,scheduling,0,203,195,346,0.0
+2023-03,Autoscaler,object,0,122,118,330,0.0
+2023-03,ConfigMap,object,10,122,118,330,8.1967
+2023-03,CustomResourceDefinition,object,20,122,118,330,16.3934
+2023-03,DaemonSet,object,3,122,118,330,2.459
+2023-03,Deployment,object,25,122,118,330,20.4918
+2023-03,Ingress,object,4,122,118,330,3.2787
+2023-03,LimitRange,object,0,122,118,330,0.0
+2023-03,Namespace,object,5,122,118,330,4.0984
+2023-03,NetworkPolicy,object,0,122,118,330,0.0
+2023-03,PersistentVolume,object,3,122,118,330,2.459
+2023-03,PersistentVolumeClaim,object,3,122,118,330,2.459
+2023-03,Pod,object,4,122,118,330,3.2787
+2023-03,ReplicaSet,object,2,122,118,330,1.6393
+2023-03,Secret,object,3,122,118,330,2.459
+2023-03,Service,object,27,122,118,330,22.1311
+2023-03,StatefulSet,object,9,122,118,330,7.377
+2023-03,Node Affinity,scheduling,1,122,118,330,0.8197
+2023-03,Pod Anti-Affinity,scheduling,1,122,118,330,0.8197
+2023-03,Taints,scheduling,2,122,118,330,1.6393
+2023-04,Autoscaler,object,0,121,116,294,0.0
+2023-04,ConfigMap,object,14,121,116,294,11.5702
+2023-04,CustomResourceDefinition,object,25,121,116,294,20.6612
+2023-04,DaemonSet,object,4,121,116,294,3.3058
+2023-04,Deployment,object,24,121,116,294,19.8347
+2023-04,Ingress,object,4,121,116,294,3.3058
+2023-04,LimitRange,object,0,121,116,294,0.0
+2023-04,Namespace,object,5,121,116,294,4.1322
+2023-04,NetworkPolicy,object,3,121,116,294,2.4793
+2023-04,PersistentVolume,object,2,121,116,294,1.6529
+2023-04,PersistentVolumeClaim,object,6,121,116,294,4.9587
+2023-04,Pod,object,1,121,116,294,0.8264
+2023-04,ReplicaSet,object,0,121,116,294,0.0
+2023-04,Secret,object,11,121,116,294,9.0909
+2023-04,Service,object,14,121,116,294,11.5702
+2023-04,StatefulSet,object,3,121,116,294,2.4793
+2023-04,Node Affinity,scheduling,2,121,116,294,1.6529
+2023-04,Pod Anti-Affinity,scheduling,0,121,116,294,0.0
+2023-04,Taints,scheduling,3,121,116,294,2.4793
+2023-05,Autoscaler,object,0,162,152,381,0.0
+2023-05,ConfigMap,object,7,162,152,381,4.321
+2023-05,CustomResourceDefinition,object,28,162,152,381,17.284
+2023-05,DaemonSet,object,4,162,152,381,2.4691
+2023-05,Deployment,object,30,162,152,381,18.5185
+2023-05,Ingress,object,4,162,152,381,2.4691
+2023-05,LimitRange,object,0,162,152,381,0.0
+2023-05,Namespace,object,10,162,152,381,6.1728
+2023-05,NetworkPolicy,object,4,162,152,381,2.4691
+2023-05,PersistentVolume,object,3,162,152,381,1.8519
+2023-05,PersistentVolumeClaim,object,6,162,152,381,3.7037
+2023-05,Pod,object,13,162,152,381,8.0247
+2023-05,ReplicaSet,object,1,162,152,381,0.6173
+2023-05,Secret,object,12,162,152,381,7.4074
+2023-05,Service,object,24,162,152,381,14.8148
+2023-05,StatefulSet,object,6,162,152,381,3.7037
+2023-05,Node Affinity,scheduling,8,162,152,381,4.9383
+2023-05,Pod Anti-Affinity,scheduling,2,162,152,381,1.2346
+2023-05,Taints,scheduling,0,162,152,381,0.0
+2023-06,Autoscaler,object,0,264,245,388,0.0
+2023-06,ConfigMap,object,31,264,245,388,11.7424
+2023-06,CustomResourceDefinition,object,79,264,245,388,29.9242
+2023-06,DaemonSet,object,6,264,245,388,2.2727
+2023-06,Deployment,object,51,264,245,388,19.3182
+2023-06,Ingress,object,1,264,245,388,0.3788
+2023-06,LimitRange,object,0,264,245,388,0.0
+2023-06,Namespace,object,13,264,245,388,4.9242
+2023-06,NetworkPolicy,object,0,264,245,388,0.0
+2023-06,PersistentVolume,object,2,264,245,388,0.7576
+2023-06,PersistentVolumeClaim,object,3,264,245,388,1.1364
+2023-06,Pod,object,6,264,245,388,2.2727
+2023-06,ReplicaSet,object,3,264,245,388,1.1364
+2023-06,Secret,object,11,264,245,388,4.1667
+2023-06,Service,object,36,264,245,388,13.6364
+2023-06,StatefulSet,object,3,264,245,388,1.1364
+2023-06,Node Affinity,scheduling,12,264,245,388,4.5455
+2023-06,Pod Anti-Affinity,scheduling,7,264,245,388,2.6515
+2023-06,Taints,scheduling,0,264,245,388,0.0
+2023-07,Autoscaler,object,0,245,237,381,0.0
+2023-07,ConfigMap,object,27,245,237,381,11.0204
+2023-07,CustomResourceDefinition,object,70,245,237,381,28.5714
+2023-07,DaemonSet,object,3,245,237,381,1.2245
+2023-07,Deployment,object,62,245,237,381,25.3061
+2023-07,Ingress,object,0,245,237,381,0.0
+2023-07,LimitRange,object,0,245,237,381,0.0
+2023-07,Namespace,object,9,245,237,381,3.6735
+2023-07,NetworkPolicy,object,1,245,237,381,0.4082
+2023-07,PersistentVolume,object,0,245,237,381,0.0
+2023-07,PersistentVolumeClaim,object,6,245,237,381,2.449
+2023-07,Pod,object,5,245,237,381,2.0408
+2023-07,ReplicaSet,object,0,245,237,381,0.0
+2023-07,Secret,object,12,245,237,381,4.898
+2023-07,Service,object,40,245,237,381,16.3265
+2023-07,StatefulSet,object,2,245,237,381,0.8163
+2023-07,Node Affinity,scheduling,7,245,237,381,2.8571
+2023-07,Pod Anti-Affinity,scheduling,1,245,237,381,0.4082
+2023-07,Taints,scheduling,0,245,237,381,0.0
+2023-08,Autoscaler,object,0,204,200,344,0.0
+2023-08,ConfigMap,object,17,204,200,344,8.3333
+2023-08,CustomResourceDefinition,object,79,204,200,344,38.7255
+2023-08,DaemonSet,object,8,204,200,344,3.9216
+2023-08,Deployment,object,34,204,200,344,16.6667
+2023-08,Ingress,object,0,204,200,344,0.0
+2023-08,LimitRange,object,0,204,200,344,0.0
+2023-08,Namespace,object,14,204,200,344,6.8627
+2023-08,NetworkPolicy,object,0,204,200,344,0.0
+2023-08,PersistentVolume,object,1,204,200,344,0.4902
+2023-08,PersistentVolumeClaim,object,4,204,200,344,1.9608
+2023-08,Pod,object,3,204,200,344,1.4706
+2023-08,ReplicaSet,object,0,204,200,344,0.0
+2023-08,Secret,object,5,204,200,344,2.451
+2023-08,Service,object,29,204,200,344,14.2157
+2023-08,StatefulSet,object,6,204,200,344,2.9412
+2023-08,Node Affinity,scheduling,3,204,200,344,1.4706
+2023-08,Pod Anti-Affinity,scheduling,1,204,200,344,0.4902
+2023-08,Taints,scheduling,0,204,200,344,0.0
+2023-09,Autoscaler,object,0,65,64,319,0.0
+2023-09,ConfigMap,object,5,65,64,319,7.6923
+2023-09,CustomResourceDefinition,object,28,65,64,319,43.0769
+2023-09,DaemonSet,object,0,65,64,319,0.0
+2023-09,Deployment,object,11,65,64,319,16.9231
+2023-09,Ingress,object,0,65,64,319,0.0
+2023-09,LimitRange,object,0,65,64,319,0.0
+2023-09,Namespace,object,4,65,64,319,6.1538
+2023-09,NetworkPolicy,object,0,65,64,319,0.0
+2023-09,PersistentVolume,object,0,65,64,319,0.0
+2023-09,PersistentVolumeClaim,object,0,65,64,319,0.0
+2023-09,Pod,object,2,65,64,319,3.0769
+2023-09,ReplicaSet,object,0,65,64,319,0.0
+2023-09,Secret,object,4,65,64,319,6.1538
+2023-09,Service,object,10,65,64,319,15.3846
+2023-09,StatefulSet,object,0,65,64,319,0.0
+2023-09,Node Affinity,scheduling,1,65,64,319,1.5385
+2023-09,Pod Anti-Affinity,scheduling,0,65,64,319,0.0
+2023-09,Taints,scheduling,0,65,64,319,0.0
+2023-10,Autoscaler,object,0,98,95,372,0.0
+2023-10,ConfigMap,object,7,98,95,372,7.1429
+2023-10,CustomResourceDefinition,object,29,98,95,372,29.5918
+2023-10,DaemonSet,object,3,98,95,372,3.0612
+2023-10,Deployment,object,21,98,95,372,21.4286
+2023-10,Ingress,object,0,98,95,372,0.0
+2023-10,LimitRange,object,0,98,95,372,0.0
+2023-10,Namespace,object,11,98,95,372,11.2245
+2023-10,NetworkPolicy,object,0,98,95,372,0.0
+2023-10,PersistentVolume,object,0,98,95,372,0.0
+2023-10,PersistentVolumeClaim,object,6,98,95,372,6.1224
+2023-10,Pod,object,0,98,95,372,0.0
+2023-10,ReplicaSet,object,0,98,95,372,0.0
+2023-10,Secret,object,4,98,95,372,4.0816
+2023-10,Service,object,14,98,95,372,14.2857
+2023-10,StatefulSet,object,0,98,95,372,0.0
+2023-10,Node Affinity,scheduling,1,98,95,372,1.0204
+2023-10,Pod Anti-Affinity,scheduling,0,98,95,372,0.0
+2023-10,Taints,scheduling,2,98,95,372,2.0408
+2023-11,Autoscaler,object,0,90,88,309,0.0
+2023-11,ConfigMap,object,3,90,88,309,3.3333
+2023-11,CustomResourceDefinition,object,42,90,88,309,46.6667
+2023-11,DaemonSet,object,0,90,88,309,0.0
+2023-11,Deployment,object,8,90,88,309,8.8889
+2023-11,Ingress,object,0,90,88,309,0.0
+2023-11,LimitRange,object,0,90,88,309,0.0
+2023-11,Namespace,object,2,90,88,309,2.2222
+2023-11,NetworkPolicy,object,0,90,88,309,0.0
+2023-11,PersistentVolume,object,1,90,88,309,1.1111
+2023-11,PersistentVolumeClaim,object,2,90,88,309,2.2222
+2023-11,Pod,object,10,90,88,309,11.1111
+2023-11,ReplicaSet,object,0,90,88,309,0.0
+2023-11,Secret,object,15,90,88,309,16.6667
+2023-11,Service,object,5,90,88,309,5.5556
+2023-11,StatefulSet,object,0,90,88,309,0.0
+2023-11,Node Affinity,scheduling,2,90,88,309,2.2222
+2023-11,Pod Anti-Affinity,scheduling,0,90,88,309,0.0
+2023-11,Taints,scheduling,0,90,88,309,0.0
+2023-12,Autoscaler,object,0,24,24,314,0.0
+2023-12,ConfigMap,object,2,24,24,314,8.3333
+2023-12,CustomResourceDefinition,object,8,24,24,314,33.3333
+2023-12,DaemonSet,object,0,24,24,314,0.0
+2023-12,Deployment,object,4,24,24,314,16.6667
+2023-12,Ingress,object,0,24,24,314,0.0
+2023-12,LimitRange,object,0,24,24,314,0.0
+2023-12,Namespace,object,0,24,24,314,0.0
+2023-12,NetworkPolicy,object,0,24,24,314,0.0
+2023-12,PersistentVolume,object,0,24,24,314,0.0
+2023-12,PersistentVolumeClaim,object,0,24,24,314,0.0
+2023-12,Pod,object,0,24,24,314,0.0
+2023-12,ReplicaSet,object,0,24,24,314,0.0
+2023-12,Secret,object,6,24,24,314,25.0
+2023-12,Service,object,4,24,24,314,16.6667
+2023-12,StatefulSet,object,0,24,24,314,0.0
+2023-12,Node Affinity,scheduling,0,24,24,314,0.0
+2023-12,Pod Anti-Affinity,scheduling,0,24,24,314,0.0
+2023-12,Taints,scheduling,0,24,24,314,0.0
+2024-01,Autoscaler,object,1,126,122,327,0.7937
+2024-01,ConfigMap,object,7,126,122,327,5.5556
+2024-01,CustomResourceDefinition,object,75,126,122,327,59.5238
+2024-01,DaemonSet,object,1,126,122,327,0.7937
+2024-01,Deployment,object,10,126,122,327,7.9365
+2024-01,Ingress,object,1,126,122,327,0.7937
+2024-01,LimitRange,object,0,126,122,327,0.0
+2024-01,Namespace,object,3,126,122,327,2.381
+2024-01,NetworkPolicy,object,0,126,122,327,0.0
+2024-01,PersistentVolume,object,0,126,122,327,0.0
+2024-01,PersistentVolumeClaim,object,4,126,122,327,3.1746
+2024-01,Pod,object,3,126,122,327,2.381
+2024-01,ReplicaSet,object,0,126,122,327,0.0
+2024-01,Secret,object,4,126,122,327,3.1746
+2024-01,Service,object,11,126,122,327,8.7302
+2024-01,StatefulSet,object,2,126,122,327,1.5873
+2024-01,Node Affinity,scheduling,0,126,122,327,0.0
+2024-01,Pod Anti-Affinity,scheduling,4,126,122,327,3.1746
+2024-01,Taints,scheduling,0,126,122,327,0.0
+2024-02,Autoscaler,object,0,87,86,159,0.0
+2024-02,ConfigMap,object,4,87,86,159,4.5977
+2024-02,CustomResourceDefinition,object,38,87,86,159,43.6782
+2024-02,DaemonSet,object,0,87,86,159,0.0
+2024-02,Deployment,object,14,87,86,159,16.092
+2024-02,Ingress,object,0,87,86,159,0.0
+2024-02,LimitRange,object,0,87,86,159,0.0
+2024-02,Namespace,object,2,87,86,159,2.2989
+2024-02,NetworkPolicy,object,0,87,86,159,0.0
+2024-02,PersistentVolume,object,2,87,86,159,2.2989
+2024-02,PersistentVolumeClaim,object,8,87,86,159,9.1954
+2024-02,Pod,object,2,87,86,159,2.2989
+2024-02,ReplicaSet,object,0,87,86,159,0.0
+2024-02,Secret,object,6,87,86,159,6.8966
+2024-02,Service,object,10,87,86,159,11.4943
+2024-02,StatefulSet,object,0,87,86,159,0.0
+2024-02,Node Affinity,scheduling,1,87,86,159,1.1494
+2024-02,Pod Anti-Affinity,scheduling,0,87,86,159,0.0
+2024-02,Taints,scheduling,0,87,86,159,0.0
+2024-03,Autoscaler,object,1,336,330,182,0.2976
+2024-03,ConfigMap,object,21,336,330,182,6.25
+2024-03,CustomResourceDefinition,object,62,336,330,182,18.4524
+2024-03,DaemonSet,object,2,336,330,182,0.5952
+2024-03,Deployment,object,37,336,330,182,11.0119
+2024-03,Ingress,object,18,336,330,182,5.3571
+2024-03,LimitRange,object,0,336,330,182,0.0
+2024-03,Namespace,object,30,336,330,182,8.9286
+2024-03,NetworkPolicy,object,6,336,330,182,1.7857
+2024-03,PersistentVolume,object,13,336,330,182,3.869
+2024-03,PersistentVolumeClaim,object,38,336,330,182,11.3095
+2024-03,Pod,object,3,336,330,182,0.8929
+2024-03,ReplicaSet,object,0,336,330,182,0.0
+2024-03,Secret,object,17,336,330,182,5.0595
+2024-03,Service,object,58,336,330,182,17.2619
+2024-03,StatefulSet,object,24,336,330,182,7.1429
+2024-03,Node Affinity,scheduling,5,336,330,182,1.4881
+2024-03,Pod Anti-Affinity,scheduling,1,336,330,182,0.2976
+2024-03,Taints,scheduling,0,336,330,182,0.0
+2024-04,Autoscaler,object,0,108,107,170,0.0
+2024-04,ConfigMap,object,5,108,107,170,4.6296
+2024-04,CustomResourceDefinition,object,56,108,107,170,51.8519
+2024-04,DaemonSet,object,2,108,107,170,1.8519
+2024-04,Deployment,object,11,108,107,170,10.1852
+2024-04,Ingress,object,0,108,107,170,0.0
+2024-04,LimitRange,object,0,108,107,170,0.0
+2024-04,Namespace,object,11,108,107,170,10.1852
+2024-04,NetworkPolicy,object,0,108,107,170,0.0
+2024-04,PersistentVolume,object,2,108,107,170,1.8519
+2024-04,PersistentVolumeClaim,object,1,108,107,170,0.9259
+2024-04,Pod,object,4,108,107,170,3.7037
+2024-04,ReplicaSet,object,0,108,107,170,0.0
+2024-04,Secret,object,2,108,107,170,1.8519
+2024-04,Service,object,13,108,107,170,12.037
+2024-04,StatefulSet,object,0,108,107,170,0.0
+2024-04,Node Affinity,scheduling,0,108,107,170,0.0
+2024-04,Pod Anti-Affinity,scheduling,1,108,107,170,0.9259
+2024-04,Taints,scheduling,0,108,107,170,0.0
+2024-05,Autoscaler,object,0,95,95,146,0.0
+2024-05,ConfigMap,object,5,95,95,146,5.2632
+2024-05,CustomResourceDefinition,object,29,95,95,146,30.5263
+2024-05,DaemonSet,object,1,95,95,146,1.0526
+2024-05,Deployment,object,18,95,95,146,18.9474
+2024-05,Ingress,object,0,95,95,146,0.0
+2024-05,LimitRange,object,0,95,95,146,0.0
+2024-05,Namespace,object,6,95,95,146,6.3158
+2024-05,NetworkPolicy,object,0,95,95,146,0.0
+2024-05,PersistentVolume,object,1,95,95,146,1.0526
+2024-05,PersistentVolumeClaim,object,11,95,95,146,11.5789
+2024-05,Pod,object,1,95,95,146,1.0526
+2024-05,ReplicaSet,object,0,95,95,146,0.0
+2024-05,Secret,object,10,95,95,146,10.5263
+2024-05,Service,object,11,95,95,146,11.5789
+2024-05,StatefulSet,object,2,95,95,146,2.1053
+2024-05,Node Affinity,scheduling,0,95,95,146,0.0
+2024-05,Pod Anti-Affinity,scheduling,0,95,95,146,0.0
+2024-05,Taints,scheduling,0,95,95,146,0.0
+2024-06,Autoscaler,object,0,48,48,168,0.0
+2024-06,ConfigMap,object,7,48,48,168,14.5833
+2024-06,CustomResourceDefinition,object,15,48,48,168,31.25
+2024-06,DaemonSet,object,2,48,48,168,4.1667
+2024-06,Deployment,object,7,48,48,168,14.5833
+2024-06,Ingress,object,0,48,48,168,0.0
+2024-06,LimitRange,object,0,48,48,168,0.0
+2024-06,Namespace,object,4,48,48,168,8.3333
+2024-06,NetworkPolicy,object,0,48,48,168,0.0
+2024-06,PersistentVolume,object,0,48,48,168,0.0
+2024-06,PersistentVolumeClaim,object,0,48,48,168,0.0
+2024-06,Pod,object,1,48,48,168,2.0833
+2024-06,ReplicaSet,object,0,48,48,168,0.0
+2024-06,Secret,object,2,48,48,168,4.1667
+2024-06,Service,object,6,48,48,168,12.5
+2024-06,StatefulSet,object,4,48,48,168,8.3333
+2024-06,Node Affinity,scheduling,0,48,48,168,0.0
+2024-06,Pod Anti-Affinity,scheduling,0,48,48,168,0.0
+2024-06,Taints,scheduling,0,48,48,168,0.0
+2024-07,Autoscaler,object,0,18,17,136,0.0
+2024-07,ConfigMap,object,1,18,17,136,5.5556
+2024-07,CustomResourceDefinition,object,8,18,17,136,44.4444
+2024-07,DaemonSet,object,0,18,17,136,0.0
+2024-07,Deployment,object,3,18,17,136,16.6667
+2024-07,Ingress,object,0,18,17,136,0.0
+2024-07,LimitRange,object,0,18,17,136,0.0
+2024-07,Namespace,object,0,18,17,136,0.0
+2024-07,NetworkPolicy,object,0,18,17,136,0.0
+2024-07,PersistentVolume,object,0,18,17,136,0.0
+2024-07,PersistentVolumeClaim,object,0,18,17,136,0.0
+2024-07,Pod,object,3,18,17,136,16.6667
+2024-07,ReplicaSet,object,0,18,17,136,0.0
+2024-07,Secret,object,0,18,17,136,0.0
+2024-07,Service,object,2,18,17,136,11.1111
+2024-07,StatefulSet,object,0,18,17,136,0.0
+2024-07,Node Affinity,scheduling,0,18,17,136,0.0
+2024-07,Pod Anti-Affinity,scheduling,1,18,17,136,5.5556
+2024-07,Taints,scheduling,0,18,17,136,0.0
+2024-08,Autoscaler,object,0,136,131,122,0.0
+2024-08,ConfigMap,object,9,136,131,122,6.6176
+2024-08,CustomResourceDefinition,object,45,136,131,122,33.0882
+2024-08,DaemonSet,object,3,136,131,122,2.2059
+2024-08,Deployment,object,12,136,131,122,8.8235
+2024-08,Ingress,object,15,136,131,122,11.0294
+2024-08,LimitRange,object,0,136,131,122,0.0
+2024-08,Namespace,object,2,136,131,122,1.4706
+2024-08,NetworkPolicy,object,7,136,131,122,5.1471
+2024-08,PersistentVolume,object,0,136,131,122,0.0
+2024-08,PersistentVolumeClaim,object,3,136,131,122,2.2059
+2024-08,Pod,object,0,136,131,122,0.0
+2024-08,ReplicaSet,object,0,136,131,122,0.0
+2024-08,Secret,object,9,136,131,122,6.6176
+2024-08,Service,object,17,136,131,122,12.5
+2024-08,StatefulSet,object,9,136,131,122,6.6176
+2024-08,Node Affinity,scheduling,3,136,131,122,2.2059
+2024-08,Pod Anti-Affinity,scheduling,2,136,131,122,1.4706
+2024-08,Taints,scheduling,0,136,131,122,0.0
+2024-09,Autoscaler,object,0,97,97,105,0.0
+2024-09,ConfigMap,object,2,97,97,105,2.0619
+2024-09,CustomResourceDefinition,object,60,97,97,105,61.8557
+2024-09,DaemonSet,object,0,97,97,105,0.0
+2024-09,Deployment,object,5,97,97,105,5.1546
+2024-09,Ingress,object,4,97,97,105,4.1237
+2024-09,LimitRange,object,0,97,97,105,0.0
+2024-09,Namespace,object,4,97,97,105,4.1237
+2024-09,NetworkPolicy,object,0,97,97,105,0.0
+2024-09,PersistentVolume,object,0,97,97,105,0.0
+2024-09,PersistentVolumeClaim,object,5,97,97,105,5.1546
+2024-09,Pod,object,2,97,97,105,2.0619
+2024-09,ReplicaSet,object,0,97,97,105,0.0
+2024-09,Secret,object,3,97,97,105,3.0928
+2024-09,Service,object,9,97,97,105,9.2784
+2024-09,StatefulSet,object,3,97,97,105,3.0928
+2024-09,Node Affinity,scheduling,0,97,97,105,0.0
+2024-09,Pod Anti-Affinity,scheduling,0,97,97,105,0.0
+2024-09,Taints,scheduling,0,97,97,105,0.0
+2024-10,Autoscaler,object,2,49,46,95,4.0816
+2024-10,ConfigMap,object,3,49,46,95,6.1224
+2024-10,CustomResourceDefinition,object,14,49,46,95,28.5714
+2024-10,DaemonSet,object,2,49,46,95,4.0816
+2024-10,Deployment,object,10,49,46,95,20.4082
+2024-10,Ingress,object,0,49,46,95,0.0
+2024-10,LimitRange,object,0,49,46,95,0.0
+2024-10,Namespace,object,5,49,46,95,10.2041
+2024-10,NetworkPolicy,object,0,49,46,95,0.0
+2024-10,PersistentVolume,object,0,49,46,95,0.0
+2024-10,PersistentVolumeClaim,object,0,49,46,95,0.0
+2024-10,Pod,object,0,49,46,95,0.0
+2024-10,ReplicaSet,object,0,49,46,95,0.0
+2024-10,Secret,object,0,49,46,95,0.0
+2024-10,Service,object,10,49,46,95,20.4082
+2024-10,StatefulSet,object,0,49,46,95,0.0
+2024-10,Node Affinity,scheduling,0,49,46,95,0.0
+2024-10,Pod Anti-Affinity,scheduling,3,49,46,95,6.1224
+2024-10,Taints,scheduling,0,49,46,95,0.0
+2024-11,Autoscaler,object,0,1,1,147,0.0
+2024-11,ConfigMap,object,0,1,1,147,0.0
+2024-11,CustomResourceDefinition,object,0,1,1,147,0.0
+2024-11,DaemonSet,object,0,1,1,147,0.0
+2024-11,Deployment,object,0,1,1,147,0.0
+2024-11,Ingress,object,0,1,1,147,0.0
+2024-11,LimitRange,object,0,1,1,147,0.0
+2024-11,Namespace,object,0,1,1,147,0.0
+2024-11,NetworkPolicy,object,0,1,1,147,0.0
+2024-11,PersistentVolume,object,0,1,1,147,0.0
+2024-11,PersistentVolumeClaim,object,0,1,1,147,0.0
+2024-11,Pod,object,1,1,1,147,100.0
+2024-11,ReplicaSet,object,0,1,1,147,0.0
+2024-11,Secret,object,0,1,1,147,0.0
+2024-11,Service,object,0,1,1,147,0.0
+2024-11,StatefulSet,object,0,1,1,147,0.0
+2024-11,Node Affinity,scheduling,0,1,1,147,0.0
+2024-11,Pod Anti-Affinity,scheduling,0,1,1,147,0.0
+2024-11,Taints,scheduling,0,1,1,147,0.0
+2024-12,Autoscaler,object,0,6,6,77,0.0
+2024-12,ConfigMap,object,1,6,6,77,16.6667
+2024-12,CustomResourceDefinition,object,0,6,6,77,0.0
+2024-12,DaemonSet,object,0,6,6,77,0.0
+2024-12,Deployment,object,1,6,6,77,16.6667
+2024-12,Ingress,object,0,6,6,77,0.0
+2024-12,LimitRange,object,0,6,6,77,0.0
+2024-12,Namespace,object,0,6,6,77,0.0
+2024-12,NetworkPolicy,object,2,6,6,77,33.3333
+2024-12,PersistentVolume,object,0,6,6,77,0.0
+2024-12,PersistentVolumeClaim,object,0,6,6,77,0.0
+2024-12,Pod,object,0,6,6,77,0.0
+2024-12,ReplicaSet,object,0,6,6,77,0.0
+2024-12,Secret,object,0,6,6,77,0.0
+2024-12,Service,object,2,6,6,77,33.3333
+2024-12,StatefulSet,object,0,6,6,77,0.0
+2024-12,Node Affinity,scheduling,0,6,6,77,0.0
+2024-12,Pod Anti-Affinity,scheduling,0,6,6,77,0.0
+2024-12,Taints,scheduling,0,6,6,77,0.0
+2025-01,Autoscaler,object,0,30,30,92,0.0
+2025-01,ConfigMap,object,1,30,30,92,3.3333
+2025-01,CustomResourceDefinition,object,7,30,30,92,23.3333
+2025-01,DaemonSet,object,1,30,30,92,3.3333
+2025-01,Deployment,object,6,30,30,92,20.0
+2025-01,Ingress,object,0,30,30,92,0.0
+2025-01,LimitRange,object,0,30,30,92,0.0
+2025-01,Namespace,object,2,30,30,92,6.6667
+2025-01,NetworkPolicy,object,2,30,30,92,6.6667
+2025-01,PersistentVolume,object,0,30,30,92,0.0
+2025-01,PersistentVolumeClaim,object,0,30,30,92,0.0
+2025-01,Pod,object,0,30,30,92,0.0
+2025-01,ReplicaSet,object,0,30,30,92,0.0
+2025-01,Secret,object,2,30,30,92,6.6667
+2025-01,Service,object,7,30,30,92,23.3333
+2025-01,StatefulSet,object,2,30,30,92,6.6667
+2025-01,Node Affinity,scheduling,0,30,30,92,0.0
+2025-01,Pod Anti-Affinity,scheduling,0,30,30,92,0.0
+2025-01,Taints,scheduling,0,30,30,92,0.0
+2025-02,Autoscaler,object,0,5,5,76,0.0
+2025-02,ConfigMap,object,0,5,5,76,0.0
+2025-02,CustomResourceDefinition,object,1,5,5,76,20.0
+2025-02,DaemonSet,object,0,5,5,76,0.0
+2025-02,Deployment,object,0,5,5,76,0.0
+2025-02,Ingress,object,1,5,5,76,20.0
+2025-02,LimitRange,object,0,5,5,76,0.0
+2025-02,Namespace,object,2,5,5,76,40.0
+2025-02,NetworkPolicy,object,0,5,5,76,0.0
+2025-02,PersistentVolume,object,0,5,5,76,0.0
+2025-02,PersistentVolumeClaim,object,0,5,5,76,0.0
+2025-02,Pod,object,0,5,5,76,0.0
+2025-02,ReplicaSet,object,0,5,5,76,0.0
+2025-02,Secret,object,1,5,5,76,20.0
+2025-02,Service,object,0,5,5,76,0.0
+2025-02,StatefulSet,object,0,5,5,76,0.0
+2025-02,Node Affinity,scheduling,0,5,5,76,0.0
+2025-02,Pod Anti-Affinity,scheduling,0,5,5,76,0.0
+2025-02,Taints,scheduling,0,5,5,76,0.0
+2025-03,Autoscaler,object,1,25,25,81,4.0
+2025-03,ConfigMap,object,2,25,25,81,8.0
+2025-03,CustomResourceDefinition,object,13,25,25,81,52.0
+2025-03,DaemonSet,object,0,25,25,81,0.0
+2025-03,Deployment,object,3,25,25,81,12.0
+2025-03,Ingress,object,0,25,25,81,0.0
+2025-03,LimitRange,object,0,25,25,81,0.0
+2025-03,Namespace,object,0,25,25,81,0.0
+2025-03,NetworkPolicy,object,1,25,25,81,4.0
+2025-03,PersistentVolume,object,0,25,25,81,0.0
+2025-03,PersistentVolumeClaim,object,0,25,25,81,0.0
+2025-03,Pod,object,2,25,25,81,8.0
+2025-03,ReplicaSet,object,0,25,25,81,0.0
+2025-03,Secret,object,0,25,25,81,0.0
+2025-03,Service,object,3,25,25,81,12.0
+2025-03,StatefulSet,object,0,25,25,81,0.0
+2025-03,Node Affinity,scheduling,0,25,25,81,0.0
+2025-03,Pod Anti-Affinity,scheduling,0,25,25,81,0.0
+2025-03,Taints,scheduling,0,25,25,81,0.0
+2025-04,Autoscaler,object,0,41,41,61,0.0
+2025-04,ConfigMap,object,9,41,41,61,21.9512
+2025-04,CustomResourceDefinition,object,2,41,41,61,4.878
+2025-04,DaemonSet,object,0,41,41,61,0.0
+2025-04,Deployment,object,8,41,41,61,19.5122
+2025-04,Ingress,object,0,41,41,61,0.0
+2025-04,LimitRange,object,0,41,41,61,0.0
+2025-04,Namespace,object,3,41,41,61,7.3171
+2025-04,NetworkPolicy,object,1,41,41,61,2.439
+2025-04,PersistentVolume,object,0,41,41,61,0.0
+2025-04,PersistentVolumeClaim,object,1,41,41,61,2.439
+2025-04,Pod,object,2,41,41,61,4.878
+2025-04,ReplicaSet,object,0,41,41,61,0.0
+2025-04,Secret,object,4,41,41,61,9.7561
+2025-04,Service,object,8,41,41,61,19.5122
+2025-04,StatefulSet,object,3,41,41,61,7.3171
+2025-04,Node Affinity,scheduling,0,41,41,61,0.0
+2025-04,Pod Anti-Affinity,scheduling,0,41,41,61,0.0
+2025-04,Taints,scheduling,0,41,41,61,0.0
+2025-05,Autoscaler,object,0,35,35,74,0.0
+2025-05,ConfigMap,object,2,35,35,74,5.7143
+2025-05,CustomResourceDefinition,object,7,35,35,74,20.0
+2025-05,DaemonSet,object,1,35,35,74,2.8571
+2025-05,Deployment,object,4,35,35,74,11.4286
+2025-05,Ingress,object,2,35,35,74,5.7143
+2025-05,LimitRange,object,0,35,35,74,0.0
+2025-05,Namespace,object,3,35,35,74,8.5714
+2025-05,NetworkPolicy,object,3,35,35,74,8.5714
+2025-05,PersistentVolume,object,0,35,35,74,0.0
+2025-05,PersistentVolumeClaim,object,1,35,35,74,2.8571
+2025-05,Pod,object,0,35,35,74,0.0
+2025-05,ReplicaSet,object,0,35,35,74,0.0
+2025-05,Secret,object,2,35,35,74,5.7143
+2025-05,Service,object,7,35,35,74,20.0
+2025-05,StatefulSet,object,3,35,35,74,8.5714
+2025-05,Node Affinity,scheduling,0,35,35,74,0.0
+2025-05,Pod Anti-Affinity,scheduling,0,35,35,74,0.0
+2025-05,Taints,scheduling,0,35,35,74,0.0
+2025-06,Autoscaler,object,0,0,0,33,0.0
+2025-06,ConfigMap,object,0,0,0,33,0.0
+2025-06,CustomResourceDefinition,object,0,0,0,33,0.0
+2025-06,DaemonSet,object,0,0,0,33,0.0
+2025-06,Deployment,object,0,0,0,33,0.0
+2025-06,Ingress,object,0,0,0,33,0.0
+2025-06,LimitRange,object,0,0,0,33,0.0
+2025-06,Namespace,object,0,0,0,33,0.0
+2025-06,NetworkPolicy,object,0,0,0,33,0.0
+2025-06,PersistentVolume,object,0,0,0,33,0.0
+2025-06,PersistentVolumeClaim,object,0,0,0,33,0.0
+2025-06,Pod,object,0,0,0,33,0.0
+2025-06,ReplicaSet,object,0,0,0,33,0.0
+2025-06,Secret,object,0,0,0,33,0.0
+2025-06,Service,object,0,0,0,33,0.0
+2025-06,StatefulSet,object,0,0,0,33,0.0
+2025-06,Node Affinity,scheduling,0,0,0,33,0.0
+2025-06,Pod Anti-Affinity,scheduling,0,0,0,33,0.0
+2025-06,Taints,scheduling,0,0,0,33,0.0
+2025-07,Autoscaler,object,0,0,0,1,0.0
+2025-07,ConfigMap,object,0,0,0,1,0.0
+2025-07,CustomResourceDefinition,object,0,0,0,1,0.0
+2025-07,DaemonSet,object,0,0,0,1,0.0
+2025-07,Deployment,object,0,0,0,1,0.0
+2025-07,Ingress,object,0,0,0,1,0.0
+2025-07,LimitRange,object,0,0,0,1,0.0
+2025-07,Namespace,object,0,0,0,1,0.0
+2025-07,NetworkPolicy,object,0,0,0,1,0.0
+2025-07,PersistentVolume,object,0,0,0,1,0.0
+2025-07,PersistentVolumeClaim,object,0,0,0,1,0.0
+2025-07,Pod,object,0,0,0,1,0.0
+2025-07,ReplicaSet,object,0,0,0,1,0.0
+2025-07,Secret,object,0,0,0,1,0.0
+2025-07,Service,object,0,0,0,1,0.0
+2025-07,StatefulSet,object,0,0,0,1,0.0
+2025-07,Node Affinity,scheduling,0,0,0,1,0.0
+2025-07,Pod Anti-Affinity,scheduling,0,0,0,1,0.0
+2025-07,Taints,scheduling,0,0,0,1,0.0
+2025-08,Autoscaler,object,0,0,0,25,0.0
+2025-08,ConfigMap,object,0,0,0,25,0.0
+2025-08,CustomResourceDefinition,object,0,0,0,25,0.0
+2025-08,DaemonSet,object,0,0,0,25,0.0
+2025-08,Deployment,object,0,0,0,25,0.0
+2025-08,Ingress,object,0,0,0,25,0.0
+2025-08,LimitRange,object,0,0,0,25,0.0
+2025-08,Namespace,object,0,0,0,25,0.0
+2025-08,NetworkPolicy,object,0,0,0,25,0.0
+2025-08,PersistentVolume,object,0,0,0,25,0.0
+2025-08,PersistentVolumeClaim,object,0,0,0,25,0.0
+2025-08,Pod,object,0,0,0,25,0.0
+2025-08,ReplicaSet,object,0,0,0,25,0.0
+2025-08,Secret,object,0,0,0,25,0.0
+2025-08,Service,object,0,0,0,25,0.0
+2025-08,StatefulSet,object,0,0,0,25,0.0
+2025-08,Node Affinity,scheduling,0,0,0,25,0.0
+2025-08,Pod Anti-Affinity,scheduling,0,0,0,25,0.0
+2025-08,Taints,scheduling,0,0,0,25,0.0
+2025-09,Autoscaler,object,0,3,3,54,0.0
+2025-09,ConfigMap,object,0,3,3,54,0.0
+2025-09,CustomResourceDefinition,object,0,3,3,54,0.0
+2025-09,DaemonSet,object,0,3,3,54,0.0
+2025-09,Deployment,object,1,3,3,54,33.3333
+2025-09,Ingress,object,0,3,3,54,0.0
+2025-09,LimitRange,object,0,3,3,54,0.0
+2025-09,Namespace,object,0,3,3,54,0.0
+2025-09,NetworkPolicy,object,0,3,3,54,0.0
+2025-09,PersistentVolume,object,0,3,3,54,0.0
+2025-09,PersistentVolumeClaim,object,0,3,3,54,0.0
+2025-09,Pod,object,0,3,3,54,0.0
+2025-09,ReplicaSet,object,0,3,3,54,0.0
+2025-09,Secret,object,1,3,3,54,33.3333
+2025-09,Service,object,1,3,3,54,33.3333
+2025-09,StatefulSet,object,0,3,3,54,0.0
+2025-09,Node Affinity,scheduling,0,3,3,54,0.0
+2025-09,Pod Anti-Affinity,scheduling,0,3,3,54,0.0
+2025-09,Taints,scheduling,0,3,3,54,0.0
+2025-10,Autoscaler,object,0,52,52,50,0.0
+2025-10,ConfigMap,object,2,52,52,50,3.8462
+2025-10,CustomResourceDefinition,object,16,52,52,50,30.7692
+2025-10,DaemonSet,object,1,52,52,50,1.9231
+2025-10,Deployment,object,11,52,52,50,21.1538
+2025-10,Ingress,object,0,52,52,50,0.0
+2025-10,LimitRange,object,0,52,52,50,0.0
+2025-10,Namespace,object,3,52,52,50,5.7692
+2025-10,NetworkPolicy,object,1,52,52,50,1.9231
+2025-10,PersistentVolume,object,1,52,52,50,1.9231
+2025-10,PersistentVolumeClaim,object,1,52,52,50,1.9231
+2025-10,Pod,object,0,52,52,50,0.0
+2025-10,ReplicaSet,object,0,52,52,50,0.0
+2025-10,Secret,object,3,52,52,50,5.7692
+2025-10,Service,object,11,52,52,50,21.1538
+2025-10,StatefulSet,object,2,52,52,50,3.8462
+2025-10,Node Affinity,scheduling,0,52,52,50,0.0
+2025-10,Pod Anti-Affinity,scheduling,0,52,52,50,0.0
+2025-10,Taints,scheduling,0,52,52,50,0.0
+2025-11,Autoscaler,object,0,6,6,47,0.0
+2025-11,ConfigMap,object,0,6,6,47,0.0
+2025-11,CustomResourceDefinition,object,3,6,6,47,50.0
+2025-11,DaemonSet,object,0,6,6,47,0.0
+2025-11,Deployment,object,0,6,6,47,0.0
+2025-11,Ingress,object,0,6,6,47,0.0
+2025-11,LimitRange,object,0,6,6,47,0.0
+2025-11,Namespace,object,0,6,6,47,0.0
+2025-11,NetworkPolicy,object,0,6,6,47,0.0
+2025-11,PersistentVolume,object,0,6,6,47,0.0
+2025-11,PersistentVolumeClaim,object,1,6,6,47,16.6667
+2025-11,Pod,object,0,6,6,47,0.0
+2025-11,ReplicaSet,object,0,6,6,47,0.0
+2025-11,Secret,object,1,6,6,47,16.6667
+2025-11,Service,object,1,6,6,47,16.6667
+2025-11,StatefulSet,object,0,6,6,47,0.0
+2025-11,Node Affinity,scheduling,0,6,6,47,0.0
+2025-11,Pod Anti-Affinity,scheduling,0,6,6,47,0.0
+2025-11,Taints,scheduling,0,6,6,47,0.0
+2025-12,Autoscaler,object,0,4,4,73,0.0
+2025-12,ConfigMap,object,0,4,4,73,0.0
+2025-12,CustomResourceDefinition,object,2,4,4,73,50.0
+2025-12,DaemonSet,object,0,4,4,73,0.0
+2025-12,Deployment,object,0,4,4,73,0.0
+2025-12,Ingress,object,0,4,4,73,0.0
+2025-12,LimitRange,object,0,4,4,73,0.0
+2025-12,Namespace,object,0,4,4,73,0.0
+2025-12,NetworkPolicy,object,0,4,4,73,0.0
+2025-12,PersistentVolume,object,0,4,4,73,0.0
+2025-12,PersistentVolumeClaim,object,0,4,4,73,0.0
+2025-12,Pod,object,0,4,4,73,0.0
+2025-12,ReplicaSet,object,0,4,4,73,0.0
+2025-12,Secret,object,2,4,4,73,50.0
+2025-12,Service,object,0,4,4,73,0.0
+2025-12,StatefulSet,object,0,4,4,73,0.0
+2025-12,Node Affinity,scheduling,0,4,4,73,0.0
+2025-12,Pod Anti-Affinity,scheduling,0,4,4,73,0.0
+2025-12,Taints,scheduling,0,4,4,73,0.0
+2026-01,Autoscaler,object,0,41,41,85,0.0
+2026-01,ConfigMap,object,0,41,41,85,0.0
+2026-01,CustomResourceDefinition,object,12,41,41,85,29.2683
+2026-01,DaemonSet,object,2,41,41,85,4.878
+2026-01,Deployment,object,12,41,41,85,29.2683
+2026-01,Ingress,object,0,41,41,85,0.0
+2026-01,LimitRange,object,0,41,41,85,0.0
+2026-01,Namespace,object,1,41,41,85,2.439
+2026-01,NetworkPolicy,object,0,41,41,85,0.0
+2026-01,PersistentVolume,object,0,41,41,85,0.0
+2026-01,PersistentVolumeClaim,object,0,41,41,85,0.0
+2026-01,Pod,object,0,41,41,85,0.0
+2026-01,ReplicaSet,object,0,41,41,85,0.0
+2026-01,Secret,object,0,41,41,85,0.0
+2026-01,Service,object,12,41,41,85,29.2683
+2026-01,StatefulSet,object,2,41,41,85,4.878
+2026-01,Node Affinity,scheduling,0,41,41,85,0.0
+2026-01,Pod Anti-Affinity,scheduling,0,41,41,85,0.0
+2026-01,Taints,scheduling,0,41,41,85,0.0
+2026-02,Autoscaler,object,0,19,19,98,0.0
+2026-02,ConfigMap,object,1,19,19,98,5.2632
+2026-02,CustomResourceDefinition,object,8,19,19,98,42.1053
+2026-02,DaemonSet,object,0,19,19,98,0.0
+2026-02,Deployment,object,3,19,19,98,15.7895
+2026-02,Ingress,object,0,19,19,98,0.0
+2026-02,LimitRange,object,0,19,19,98,0.0
+2026-02,Namespace,object,1,19,19,98,5.2632
+2026-02,NetworkPolicy,object,0,19,19,98,0.0
+2026-02,PersistentVolume,object,1,19,19,98,5.2632
+2026-02,PersistentVolumeClaim,object,1,19,19,98,5.2632
+2026-02,Pod,object,1,19,19,98,5.2632
+2026-02,ReplicaSet,object,0,19,19,98,0.0
+2026-02,Secret,object,1,19,19,98,5.2632
+2026-02,Service,object,2,19,19,98,10.5263
+2026-02,StatefulSet,object,0,19,19,98,0.0
+2026-02,Node Affinity,scheduling,0,19,19,98,0.0
+2026-02,Pod Anti-Affinity,scheduling,0,19,19,98,0.0
+2026-02,Taints,scheduling,0,19,19,98,0.0
+2026-03,Autoscaler,object,0,6,6,108,0.0
+2026-03,ConfigMap,object,0,6,6,108,0.0
+2026-03,CustomResourceDefinition,object,2,6,6,108,33.3333
+2026-03,DaemonSet,object,0,6,6,108,0.0
+2026-03,Deployment,object,1,6,6,108,16.6667
+2026-03,Ingress,object,0,6,6,108,0.0
+2026-03,LimitRange,object,0,6,6,108,0.0
+2026-03,Namespace,object,0,6,6,108,0.0
+2026-03,NetworkPolicy,object,0,6,6,108,0.0
+2026-03,PersistentVolume,object,0,6,6,108,0.0
+2026-03,PersistentVolumeClaim,object,2,6,6,108,33.3333
+2026-03,Pod,object,0,6,6,108,0.0
+2026-03,ReplicaSet,object,0,6,6,108,0.0
+2026-03,Secret,object,0,6,6,108,0.0
+2026-03,Service,object,1,6,6,108,16.6667
+2026-03,StatefulSet,object,0,6,6,108,0.0
+2026-03,Node Affinity,scheduling,0,6,6,108,0.0
+2026-03,Pod Anti-Affinity,scheduling,0,6,6,108,0.0
+2026-03,Taints,scheduling,0,6,6,108,0.0
+2026-04,Autoscaler,object,0,6,4,107,0.0
+2026-04,ConfigMap,object,1,6,4,107,16.6667
+2026-04,CustomResourceDefinition,object,0,6,4,107,0.0
+2026-04,DaemonSet,object,0,6,4,107,0.0
+2026-04,Deployment,object,2,6,4,107,33.3333
+2026-04,Ingress,object,0,6,4,107,0.0
+2026-04,LimitRange,object,0,6,4,107,0.0
+2026-04,Namespace,object,0,6,4,107,0.0
+2026-04,NetworkPolicy,object,0,6,4,107,0.0
+2026-04,PersistentVolume,object,0,6,4,107,0.0
+2026-04,PersistentVolumeClaim,object,1,6,4,107,16.6667
+2026-04,Pod,object,0,6,4,107,0.0
+2026-04,ReplicaSet,object,0,6,4,107,0.0
+2026-04,Secret,object,0,6,4,107,0.0
+2026-04,Service,object,0,6,4,107,0.0
+2026-04,StatefulSet,object,0,6,4,107,0.0
+2026-04,Node Affinity,scheduling,1,6,4,107,16.6667
+2026-04,Pod Anti-Affinity,scheduling,1,6,4,107,16.6667
+2026-04,Taints,scheduling,0,6,4,107,0.0
+2026-05,Autoscaler,object,0,21,21,59,0.0
+2026-05,ConfigMap,object,2,21,21,59,9.5238
+2026-05,CustomResourceDefinition,object,7,21,21,59,33.3333
+2026-05,DaemonSet,object,3,21,21,59,14.2857
+2026-05,Deployment,object,1,21,21,59,4.7619
+2026-05,Ingress,object,0,21,21,59,0.0
+2026-05,LimitRange,object,0,21,21,59,0.0
+2026-05,Namespace,object,1,21,21,59,4.7619
+2026-05,NetworkPolicy,object,0,21,21,59,0.0
+2026-05,PersistentVolume,object,0,21,21,59,0.0
+2026-05,PersistentVolumeClaim,object,0,21,21,59,0.0
+2026-05,Pod,object,0,21,21,59,0.0
+2026-05,ReplicaSet,object,0,21,21,59,0.0
+2026-05,Secret,object,2,21,21,59,9.5238
+2026-05,Service,object,3,21,21,59,14.2857
+2026-05,StatefulSet,object,2,21,21,59,9.5238
+2026-05,Node Affinity,scheduling,0,21,21,59,0.0
+2026-05,Pod Anti-Affinity,scheduling,0,21,21,59,0.0
+2026-05,Taints,scheduling,0,21,21,59,0.0
+2026-06,Autoscaler,object,0,0,0,5,0.0
+2026-06,ConfigMap,object,0,0,0,5,0.0
+2026-06,CustomResourceDefinition,object,0,0,0,5,0.0
+2026-06,DaemonSet,object,0,0,0,5,0.0
+2026-06,Deployment,object,0,0,0,5,0.0
+2026-06,Ingress,object,0,0,0,5,0.0
+2026-06,LimitRange,object,0,0,0,5,0.0
+2026-06,Namespace,object,0,0,0,5,0.0
+2026-06,NetworkPolicy,object,0,0,0,5,0.0
+2026-06,PersistentVolume,object,0,0,0,5,0.0
+2026-06,PersistentVolumeClaim,object,0,0,0,5,0.0
+2026-06,Pod,object,0,0,0,5,0.0
+2026-06,ReplicaSet,object,0,0,0,5,0.0
+2026-06,Secret,object,0,0,0,5,0.0
+2026-06,Service,object,0,0,0,5,0.0
+2026-06,StatefulSet,object,0,0,0,5,0.0
+2026-06,Node Affinity,scheduling,0,0,0,5,0.0
+2026-06,Pod Anti-Affinity,scheduling,0,0,0,5,0.0
+2026-06,Taints,scheduling,0,0,0,5,0.0

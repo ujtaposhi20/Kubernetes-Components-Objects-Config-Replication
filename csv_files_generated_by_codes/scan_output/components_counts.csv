@@ -1,0 +1,11 @@
+component,repos_with_signal
+Operators,768
+Controllers,825
+Scheduler,14
+Node Planner,537
+Kube-DNS,211
+etcd,341
+kube-scheduler,165
+kube-controller-manager,147
+cloud-controller-manager,36
+kubelet,412

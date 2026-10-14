@@ -1,0 +1,5 @@
+workload,repos_with_signal
+Databases (StatefulSets),860
+Web applications,791
+Data pipelines,37
+Batch jobs,701

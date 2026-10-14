@@ -1,0 +1,379 @@
+Month,Object,CountOfObjectPerFile,ReleaseCount
+2015-11,Node Affinity,0,1
+2015-11,Pod Anti-Affinity,0,1
+2015-11,Taints,0,1
+2016-02,Node Affinity,0,1
+2016-02,Pod Anti-Affinity,0,1
+2016-02,Taints,0,1
+2016-03,Node Affinity,0,1
+2016-03,Pod Anti-Affinity,0,1
+2016-03,Taints,0,1
+2016-04,Node Affinity,0,2
+2016-04,Pod Anti-Affinity,0,2
+2016-04,Taints,0,2
+2016-05,Node Affinity,0,3
+2016-05,Pod Anti-Affinity,0,3
+2016-05,Taints,0,3
+2016-06,Node Affinity,0,4
+2016-06,Pod Anti-Affinity,0,4
+2016-06,Taints,0,4
+2016-07,Node Affinity,0,3
+2016-07,Pod Anti-Affinity,0,3
+2016-07,Taints,0,3
+2016-08,Node Affinity,0,4
+2016-08,Pod Anti-Affinity,0,4
+2016-08,Taints,0,4
+2016-09,Node Affinity,0,4
+2016-09,Pod Anti-Affinity,0,4
+2016-09,Taints,0,4
+2016-10,Node Affinity,0,19
+2016-10,Pod Anti-Affinity,0,19
+2016-10,Taints,0,19
+2016-11,Node Affinity,0,13
+2016-11,Pod Anti-Affinity,0,13
+2016-11,Taints,0,13
+2016-12,Node Affinity,0,5
+2016-12,Pod Anti-Affinity,0,5
+2016-12,Taints,0,5
+2017-01,Node Affinity,0,19
+2017-01,Pod Anti-Affinity,0,19
+2017-01,Taints,0,19
+2017-02,Node Affinity,0,10
+2017-02,Pod Anti-Affinity,0,10
+2017-02,Taints,0,10
+2017-03,Node Affinity,0,8
+2017-03,Pod Anti-Affinity,0,8
+2017-03,Taints,0,8
+2017-04,Node Affinity,0,9
+2017-04,Pod Anti-Affinity,0,9
+2017-04,Taints,0,9
+2017-05,Node Affinity,0,21
+2017-05,Pod Anti-Affinity,0,21
+2017-05,Taints,0,21
+2017-06,Node Affinity,0,10
+2017-06,Pod Anti-Affinity,0,10
+2017-06,Taints,0,10
+2017-07,Node Affinity,0,18
+2017-07,Pod Anti-Affinity,0,18
+2017-07,Taints,0,18
+2017-08,Node Affinity,0,26
+2017-08,Pod Anti-Affinity,0,26
+2017-08,Taints,0,26
+2017-09,Node Affinity,0,19
+2017-09,Pod Anti-Affinity,0,19
+2017-09,Taints,0,19
+2017-10,Node Affinity,0,11
+2017-10,Pod Anti-Affinity,4,11
+2017-10,Taints,0,11
+2017-11,Node Affinity,4,20
+2017-11,Pod Anti-Affinity,5,20
+2017-11,Taints,0,20
+2017-12,Node Affinity,8,26
+2017-12,Pod Anti-Affinity,8,26
+2017-12,Taints,0,26
+2018-01,Node Affinity,0,29
+2018-01,Pod Anti-Affinity,0,29
+2018-01,Taints,0,29
+2018-02,Node Affinity,1,32
+2018-02,Pod Anti-Affinity,8,32
+2018-02,Taints,0,32
+2018-03,Node Affinity,0,48
+2018-03,Pod Anti-Affinity,4,48
+2018-03,Taints,0,48
+2018-04,Node Affinity,0,59
+2018-04,Pod Anti-Affinity,4,59
+2018-04,Taints,0,59
+2018-05,Node Affinity,0,45
+2018-05,Pod Anti-Affinity,0,45
+2018-05,Taints,0,45
+2018-06,Node Affinity,0,48
+2018-06,Pod Anti-Affinity,0,48
+2018-06,Taints,0,48
+2018-07,Node Affinity,16,46
+2018-07,Pod Anti-Affinity,0,46
+2018-07,Taints,2,46
+2018-08,Node Affinity,0,88
+2018-08,Pod Anti-Affinity,0,88
+2018-08,Taints,0,88
+2018-09,Node Affinity,0,75
+2018-09,Pod Anti-Affinity,0,75
+2018-09,Taints,1,75
+2018-10,Node Affinity,0,50
+2018-10,Pod Anti-Affinity,0,50
+2018-10,Taints,1,50
+2018-11,Node Affinity,0,67
+2018-11,Pod Anti-Affinity,0,67
+2018-11,Taints,1,67
+2018-12,Node Affinity,0,79
+2018-12,Pod Anti-Affinity,0,79
+2018-12,Taints,0,79
+2019-01,Node Affinity,2,71
+2019-01,Pod Anti-Affinity,1,71
+2019-01,Taints,0,71
+2019-02,Node Affinity,0,57
+2019-02,Pod Anti-Affinity,0,57
+2019-02,Taints,0,57
+2019-03,Node Affinity,0,79
+2019-03,Pod Anti-Affinity,1,79
+2019-03,Taints,0,79
+2019-04,Node Affinity,0,90
+2019-04,Pod Anti-Affinity,0,90
+2019-04,Taints,0,90
+2019-05,Node Affinity,8,107
+2019-05,Pod Anti-Affinity,1,107
+2019-05,Taints,0,107
+2019-06,Node Affinity,0,119
+2019-06,Pod Anti-Affinity,0,119
+2019-06,Taints,0,119
+2019-07,Node Affinity,0,96
+2019-07,Pod Anti-Affinity,0,96
+2019-07,Taints,0,96
+2019-08,Node Affinity,0,102
+2019-08,Pod Anti-Affinity,0,102
+2019-08,Taints,0,102
+2019-09,Node Affinity,0,152
+2019-09,Pod Anti-Affinity,2,152
+2019-09,Taints,0,152
+2019-10,Node Affinity,0,137
+2019-10,Pod Anti-Affinity,1,137
+2019-10,Taints,0,137
+2019-11,Node Affinity,4,153
+2019-11,Pod Anti-Affinity,0,153
+2019-11,Taints,0,153
+2019-12,Node Affinity,42,109
+2019-12,Pod Anti-Affinity,45,109
+2019-12,Taints,2,109
+2020-01,Node Affinity,0,129
+2020-01,Pod Anti-Affinity,0,129
+2020-01,Taints,0,129
+2020-02,Node Affinity,0,176
+2020-02,Pod Anti-Affinity,2,176
+2020-02,Taints,0,176
+2020-03,Node Affinity,0,130
+2020-03,Pod Anti-Affinity,0,130
+2020-03,Taints,0,130
+2020-04,Node Affinity,0,179
+2020-04,Pod Anti-Affinity,0,179
+2020-04,Taints,0,179
+2020-05,Node Affinity,0,169
+2020-05,Pod Anti-Affinity,1,169
+2020-05,Taints,0,169
+2020-06,Node Affinity,0,135
+2020-06,Pod Anti-Affinity,0,135
+2020-06,Taints,0,135
+2020-07,Node Affinity,16,142
+2020-07,Pod Anti-Affinity,3,142
+2020-07,Taints,0,142
+2020-08,Node Affinity,3,178
+2020-08,Pod Anti-Affinity,9,178
+2020-08,Taints,0,178
+2020-09,Node Affinity,0,176
+2020-09,Pod Anti-Affinity,0,176
+2020-09,Taints,0,176
+2020-10,Node Affinity,0,185
+2020-10,Pod Anti-Affinity,0,185
+2020-10,Taints,0,185
+2020-11,Node Affinity,0,157
+2020-11,Pod Anti-Affinity,5,157
+2020-11,Taints,0,157
+2020-12,Node Affinity,1,130
+2020-12,Pod Anti-Affinity,0,130
+2020-12,Taints,0,130
+2021-01,Node Affinity,1,180
+2021-01,Pod Anti-Affinity,0,180
+2021-01,Taints,0,180
+2021-02,Node Affinity,1,163
+2021-02,Pod Anti-Affinity,3,163
+2021-02,Taints,0,163
+2021-03,Node Affinity,0,188
+2021-03,Pod Anti-Affinity,0,188
+2021-03,Taints,0,188
+2021-04,Node Affinity,3,181
+2021-04,Pod Anti-Affinity,10,181
+2021-04,Taints,0,181
+2021-05,Node Affinity,0,183
+2021-05,Pod Anti-Affinity,0,183
+2021-05,Taints,1,183
+2021-06,Node Affinity,0,189
+2021-06,Pod Anti-Affinity,0,189
+2021-06,Taints,0,189
+2021-07,Node Affinity,0,173
+2021-07,Pod Anti-Affinity,0,173
+2021-07,Taints,0,173
+2021-08,Node Affinity,103,222
+2021-08,Pod Anti-Affinity,1,222
+2021-08,Taints,0,222
+2021-09,Node Affinity,21,238
+2021-09,Pod Anti-Affinity,14,238
+2021-09,Taints,0,238
+2021-10,Node Affinity,1,218
+2021-10,Pod Anti-Affinity,0,218
+2021-10,Taints,0,218
+2021-11,Node Affinity,2,215
+2021-11,Pod Anti-Affinity,3,215
+2021-11,Taints,0,215
+2021-12,Node Affinity,1,192
+2021-12,Pod Anti-Affinity,0,192
+2021-12,Taints,0,192
+2022-01,Node Affinity,0,244
+2022-01,Pod Anti-Affinity,7,244
+2022-01,Taints,0,244
+2022-02,Node Affinity,6,252
+2022-02,Pod Anti-Affinity,17,252
+2022-02,Taints,0,252
+2022-03,Node Affinity,12,309
+2022-03,Pod Anti-Affinity,1,309
+2022-03,Taints,0,309
+2022-04,Node Affinity,4,289
+2022-04,Pod Anti-Affinity,5,289
+2022-04,Taints,0,289
+2022-05,Node Affinity,0,297
+2022-05,Pod Anti-Affinity,0,297
+2022-05,Taints,0,297
+2022-06,Node Affinity,0,292
+2022-06,Pod Anti-Affinity,4,292
+2022-06,Taints,0,292
+2022-07,Node Affinity,2,326
+2022-07,Pod Anti-Affinity,1,326
+2022-07,Taints,0,326
+2022-08,Node Affinity,2,324
+2022-08,Pod Anti-Affinity,4,324
+2022-08,Taints,0,324
+2022-09,Node Affinity,1,309
+2022-09,Pod Anti-Affinity,5,309
+2022-09,Taints,0,309
+2022-10,Node Affinity,1,383
+2022-10,Pod Anti-Affinity,0,383
+2022-10,Taints,0,383
+2022-11,Node Affinity,2,366
+2022-11,Pod Anti-Affinity,0,366
+2022-11,Taints,0,366
+2022-12,Node Affinity,2,470
+2022-12,Pod Anti-Affinity,1,470
+2022-12,Taints,0,470
+2023-01,Node Affinity,4,339
+2023-01,Pod Anti-Affinity,5,339
+2023-01,Taints,14,339
+2023-02,Node Affinity,8,346
+2023-02,Pod Anti-Affinity,0,346
+2023-02,Taints,0,346
+2023-03,Node Affinity,1,330
+2023-03,Pod Anti-Affinity,1,330
+2023-03,Taints,2,330
+2023-04,Node Affinity,2,294
+2023-04,Pod Anti-Affinity,0,294
+2023-04,Taints,3,294
+2023-05,Node Affinity,8,381
+2023-05,Pod Anti-Affinity,2,381
+2023-05,Taints,0,381
+2023-06,Node Affinity,12,388
+2023-06,Pod Anti-Affinity,7,388
+2023-06,Taints,0,388
+2023-07,Node Affinity,7,381
+2023-07,Pod Anti-Affinity,1,381
+2023-07,Taints,0,381
+2023-08,Node Affinity,3,344
+2023-08,Pod Anti-Affinity,1,344
+2023-08,Taints,0,344
+2023-09,Node Affinity,1,319
+2023-09,Pod Anti-Affinity,0,319
+2023-09,Taints,0,319
+2023-10,Node Affinity,1,372
+2023-10,Pod Anti-Affinity,0,372
+2023-10,Taints,2,372
+2023-11,Node Affinity,2,309
+2023-11,Pod Anti-Affinity,0,309
+2023-11,Taints,0,309
+2023-12,Node Affinity,0,314
+2023-12,Pod Anti-Affinity,0,314
+2023-12,Taints,0,314
+2024-01,Node Affinity,0,327
+2024-01,Pod Anti-Affinity,4,327
+2024-01,Taints,0,327
+2024-02,Node Affinity,1,159
+2024-02,Pod Anti-Affinity,0,159
+2024-02,Taints,0,159
+2024-03,Node Affinity,5,182
+2024-03,Pod Anti-Affinity,1,182
+2024-03,Taints,0,182
+2024-04,Node Affinity,0,170
+2024-04,Pod Anti-Affinity,1,170
+2024-04,Taints,0,170
+2024-05,Node Affinity,0,146
+2024-05,Pod Anti-Affinity,0,146
+2024-05,Taints,0,146
+2024-06,Node Affinity,0,168
+2024-06,Pod Anti-Affinity,0,168
+2024-06,Taints,0,168
+2024-07,Node Affinity,0,136
+2024-07,Pod Anti-Affinity,1,136
+2024-07,Taints,0,136
+2024-08,Node Affinity,3,122
+2024-08,Pod Anti-Affinity,2,122
+2024-08,Taints,0,122
+2024-09,Node Affinity,0,105
+2024-09,Pod Anti-Affinity,0,105
+2024-09,Taints,0,105
+2024-10,Node Affinity,0,95
+2024-10,Pod Anti-Affinity,3,95
+2024-10,Taints,0,95
+2024-11,Node Affinity,0,147
+2024-11,Pod Anti-Affinity,0,147
+2024-11,Taints,0,147
+2024-12,Node Affinity,0,77
+2024-12,Pod Anti-Affinity,0,77
+2024-12,Taints,0,77
+2025-01,Node Affinity,0,92
+2025-01,Pod Anti-Affinity,0,92
+2025-01,Taints,0,92
+2025-02,Node Affinity,0,76
+2025-02,Pod Anti-Affinity,0,76
+2025-02,Taints,0,76
+2025-03,Node Affinity,0,81
+2025-03,Pod Anti-Affinity,0,81
+2025-03,Taints,0,81
+2025-04,Node Affinity,0,61
+2025-04,Pod Anti-Affinity,0,61
+2025-04,Taints,0,61
+2025-05,Node Affinity,0,74
+2025-05,Pod Anti-Affinity,0,74
+2025-05,Taints,0,74
+2025-06,Node Affinity,0,33
+2025-06,Pod Anti-Affinity,0,33
+2025-06,Taints,0,33
+2025-07,Node Affinity,0,1
+2025-07,Pod Anti-Affinity,0,1
+2025-07,Taints,0,1
+2025-08,Node Affinity,0,25
+2025-08,Pod Anti-Affinity,0,25
+2025-08,Taints,0,25
+2025-09,Node Affinity,0,54
+2025-09,Pod Anti-Affinity,0,54
+2025-09,Taints,0,54
+2025-10,Node Affinity,0,50
+2025-10,Pod Anti-Affinity,0,50
+2025-10,Taints,0,50
+2025-11,Node Affinity,0,47
+2025-11,Pod Anti-Affinity,0,47
+2025-11,Taints,0,47
+2025-12,Node Affinity,0,73
+2025-12,Pod Anti-Affinity,0,73
+2025-12,Taints,0,73
+2026-01,Node Affinity,0,85
+2026-01,Pod Anti-Affinity,0,85
+2026-01,Taints,0,85
+2026-02,Node Affinity,0,98
+2026-02,Pod Anti-Affinity,0,98
+2026-02,Taints,0,98
+2026-03,Node Affinity,0,108
+2026-03,Pod Anti-Affinity,0,108
+2026-03,Taints,0,108
+2026-04,Node Affinity,1,107
+2026-04,Pod Anti-Affinity,1,107
+2026-04,Taints,0,107
+2026-05,Node Affinity,0,59
+2026-05,Pod Anti-Affinity,0,59
+2026-05,Taints,0,59
+2026-06,Node Affinity,0,5
+2026-06,Pod Anti-Affinity,0,5
+2026-06,Taints,0,5

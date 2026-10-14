@@ -1,0 +1,81 @@
+Application,Object,Value
+Web Application,Autoscaler,0.6
+Web Application,ConfigMap,6.7
+Web Application,CRD,8.9
+Web Application,DaemonSet,2.0
+Web Application,Deployment,10.9
+Web Application,EndpointSlice,0.1
+Web Application,Ingress,2.0
+Web Application,LimitRange,0.0
+Web Application,Namespace,1.8
+Web Application,NetworkPolicy,0.6
+Web Application,PV,0.4
+Web Application,PVC,1.6
+Web Application,Pod,34.3
+Web Application,ReplicaSet,0.2
+Web Application,Secret,3.5
+Web Application,Service,10.3
+Web Application,StatefulSet,1.9
+Web Application,Node Affinity,1.9
+Web Application,Pod Anti-Affinity,1.8
+Web Application,Taints and tolerations,10.6
+Batch Application,Autoscaler,0.5
+Batch Application,ConfigMap,8.3
+Batch Application,CRD,12.2
+Batch Application,DaemonSet,1.3
+Batch Application,Deployment,15.5
+Batch Application,EndpointSlice,0.0
+Batch Application,Ingress,2.9
+Batch Application,LimitRange,0.1
+Batch Application,Namespace,1.5
+Batch Application,NetworkPolicy,0.3
+Batch Application,PV,0.4
+Batch Application,PVC,2.5
+Batch Application,Pod,2.8
+Batch Application,ReplicaSet,0.0
+Batch Application,Secret,6.5
+Batch Application,Service,13.7
+Batch Application,StatefulSet,1.2
+Batch Application,Node Affinity,3.4
+Batch Application,Pod Anti-Affinity,2.6
+Batch Application,Taints and tolerations,24.4
+AI Application,Autoscaler,0.5
+AI Application,ConfigMap,10.6
+AI Application,CRD,17.1
+AI Application,DaemonSet,0.4
+AI Application,Deployment,15.1
+AI Application,EndpointSlice,0.0
+AI Application,Ingress,1.7
+AI Application,LimitRange,0.0
+AI Application,Namespace,3.1
+AI Application,NetworkPolicy,1.1
+AI Application,PV,0.1
+AI Application,PVC,1.4
+AI Application,Pod,0.6
+AI Application,ReplicaSet,0.0
+AI Application,Secret,6.5
+AI Application,Service,13.2
+AI Application,StatefulSet,1.6
+AI Application,Node Affinity,5.3
+AI Application,Pod Anti-Affinity,4.6
+AI Application,Taints and tolerations,17.2
+Database Applications,Autoscaler,0.7
+Database Applications,ConfigMap,5.2
+Database Applications,CRD,7.6
+Database Applications,DaemonSet,0.8
+Database Applications,Deployment,8.1
+Database Applications,EndpointSlice,0.1
+Database Applications,Ingress,1.6
+Database Applications,LimitRange,0.0
+Database Applications,Namespace,1.2
+Database Applications,NetworkPolicy,0.5
+Database Applications,PV,0.6
+Database Applications,PVC,1.7
+Database Applications,Pod,36.2
+Database Applications,ReplicaSet,0.2
+Database Applications,Secret,3.8
+Database Applications,Service,12.2
+Database Applications,StatefulSet,1.7
+Database Applications,Node Affinity,3.0
+Database Applications,Pod Anti-Affinity,2.2
+Database Applications,Taints and tolerations,12.6

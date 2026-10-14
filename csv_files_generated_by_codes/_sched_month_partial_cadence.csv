@@ -1,0 +1,556 @@
+repo,Month,Object,count
+"AnubisLMS/Anubis",2021-06,"Node Affinity",1
+"AnubisLMS/Anubis",2021-06,"Taints and tolerations",8
+"AnubisLMS/Anubis",2021-07,"Taints and tolerations",1
+"Azure/orkestra",2021-02,"Taints and tolerations",3
+"BojanZelic/cloudflare-zero-trust-operator",2022-11,"Node Affinity",2
+"CARV-ICS-FORTH/frisbee",2021-12,"Node Affinity",3
+"CARV-ICS-FORTH/frisbee",2021-12,"Pod Anti-Affinity",3
+"CARV-ICS-FORTH/frisbee",2021-12,"Taints and tolerations",3
+"CARV-ICS-FORTH/frisbee",2022-07,"Node Affinity",3
+"CARV-ICS-FORTH/frisbee",2022-07,"Pod Anti-Affinity",3
+"CARV-ICS-FORTH/frisbee",2022-07,"Taints and tolerations",3
+"CrystalNET-org/helm-romm",2023-12,"Taints and tolerations",3
+"D10S0VSkY-OSS/Stack-Lifecycle-Deployment",2021-03,"Taints and tolerations",1
+"D10S0VSkY-OSS/Stack-Lifecycle-Deployment",2021-04,"Taints and tolerations",1
+"Edgio/vflow",2020-05,"Pod Anti-Affinity",1
+"FederatedAI/KubeFATE",2021-01,"Taints and tolerations",1
+"FederatedAI/KubeFATE",2021-06,"Taints and tolerations",2
+"FederatedAI/KubeFATE",2022-03,"Taints and tolerations",14
+"FederatedAI/KubeFATE",2022-08,"Taints and tolerations",2
+"FederatedAI/KubeFATE",2022-09,"Taints and tolerations",2
+"FederatedAI/KubeFATE",2022-12,"Taints and tolerations",10
+"FireBlinkLTD/fbl-plugins-k8s-helm",2019-04,"Taints and tolerations",3
+"FireBlinkLTD/fbl-plugins-k8s-helm",2020-09,"Taints and tolerations",3
+"Flagro/PhriniFluentBackend",2024-02,"Taints and tolerations",3
+"Getdeck/getdeck",2022-11,"Taints and tolerations",3
+"IBM/core-dump-handler",2021-11,"Taints and tolerations",3
+"IBM/core-dump-handler",2022-02,"Node Affinity",1
+"IBM/core-dump-handler",2022-02,"Taints and tolerations",1
+"IBM/cp4waiops-gitops",2022-07,"Pod Anti-Affinity",1
+"IBM/kar",2022-03,"Node Affinity",9
+"IBM/kar",2022-03,"Taints and tolerations",3
+"Icinga/helm-charts",2023-04,"Taints and tolerations",2
+"InfuseAI/primehub",2020-05,"Taints and tolerations",19
+"InfuseAI/primehub",2020-07,"Taints and tolerations",11
+"InfuseAI/primehub",2020-06,"Taints and tolerations",8
+"InfuseAI/primehub",2020-08,"Taints and tolerations",4
+"InfuseAI/primehub",2020-11,"Taints and tolerations",2
+"InfuseAI/primehub",2022-11,"Node Affinity",2
+"InfuseAI/primehub",2022-11,"Pod Anti-Affinity",3
+"InfuseAI/primehub",2022-11,"Taints and tolerations",5
+"JahstreetOrg/spark-on-kubernetes-helm",2019-04,"Taints and tolerations",9
+"JahstreetOrg/spark-on-kubernetes-helm",2021-01,"Taints and tolerations",3
+"KAMONOHASHI/kamonohashi",2019-05,"Node Affinity",1
+"Keyfactor/ejbca-cert-manager-issuer",2023-03,"Node Affinity",1
+"Keyfactor/ejbca-cert-manager-issuer",2023-09,"Node Affinity",1
+"Keyfactor/ejbca-cert-manager-issuer",2023-09,"Taints and tolerations",3
+"LangStream/langstream",2023-07,"Taints and tolerations",4
+"LangStream/langstream",2023-08,"Taints and tolerations",2
+"ManagedKube/kubernetes-ops",2021-10,"Pod Anti-Affinity",4
+"ManagedKube/kubernetes-ops",2021-10,"Taints and tolerations",19
+"ManagedKube/kubernetes-ops",2022-04,"Taints and tolerations",22
+"ManagedKube/kubernetes-ops",2022-04,"Pod Anti-Affinity",4
+"ManagedKube/kubernetes-ops",2022-08,"Taints and tolerations",27
+"ManagedKube/kubernetes-ops",2022-08,"Pod Anti-Affinity",4
+"ManagedKube/kubernetes-ops",2024-01,"Taints and tolerations",27
+"ManagedKube/kubernetes-ops",2024-01,"Pod Anti-Affinity",4
+"ManagedKube/kubernetes-ops",2024-04,"Taints and tolerations",28
+"ManagedKube/kubernetes-ops",2024-04,"Pod Anti-Affinity",4
+"Metarget/metarget",2021-04,"Taints and tolerations",9
+"Metarget/metarget",2021-04,"Pod Anti-Affinity",2
+"Metarget/metarget",2021-04,"Node Affinity",2
+"Monadical-SAS/Morpheus",2023-06,"Node Affinity",16
+"Monadical-SAS/Morpheus",2023-09,"Node Affinity",1
+"Monadical-SAS/Morpheus",2023-11,"Node Affinity",1
+"NexClipper/exporterhub.io",2021-07,"Taints and tolerations",16
+"NexClipper/exporterhub.io",2021-08,"Taints and tolerations",64
+"NexClipper/exporterhub.io",2021-09,"Taints and tolerations",105
+"NexClipper/exporterhub.io",2021-10,"Taints and tolerations",18
+"OT-CONTAINER-KIT/logging-operator",2020-08,"Pod Anti-Affinity",16
+"OT-CONTAINER-KIT/logging-operator",2020-08,"Node Affinity",8
+"OT-CONTAINER-KIT/logging-operator",2022-05,"Node Affinity",9
+"OT-CONTAINER-KIT/logging-operator",2022-05,"Pod Anti-Affinity",6
+"OT-CONTAINER-KIT/logging-operator",2022-05,"Taints and tolerations",9
+"OT-CONTAINER-KIT/mongodb-operator",2022-02,"Node Affinity",1
+"OT-CONTAINER-KIT/mongodb-operator",2022-02,"Taints and tolerations",1
+"PostHog/charts-clickhouse",2021-06,"Node Affinity",12
+"PostHog/charts-clickhouse",2021-06,"Pod Anti-Affinity",12
+"PostHog/charts-clickhouse",2021-06,"Taints and tolerations",36
+"PostHog/charts-clickhouse",2021-08,"Taints and tolerations",3
+"PostHog/charts-clickhouse",2022-06,"Taints and tolerations",3
+"PostHog/charts-clickhouse",2023-02,"Taints and tolerations",3
+"PostHog/charts-clickhouse",2023-04,"Taints and tolerations",3
+"PostHog/charts-clickhouse",2023-05,"Taints and tolerations",3
+"PostHog/charts-clickhouse",2023-07,"Taints and tolerations",3
+"PrivateBin/helm-chart",2019-05,"Taints and tolerations",3
+"PrivateBin/helm-chart",2020-02,"Taints and tolerations",2
+"QingCloudAppcenter/QKE",2020-03,"Taints and tolerations",1
+"QingCloudAppcenter/QKE",2021-03,"Taints and tolerations",1
+"Quentin-M/etcd-cloud-operator",2018-12,"Taints and tolerations",3
+"ReSearchITEng/kubeadm-playbook",2017-07,"Taints and tolerations",2
+"ReSearchITEng/kubeadm-playbook",2018-10,"Taints and tolerations",1
+"SDA-SE/cluster-image-scanner",2024-03,"Taints and tolerations",1
+"SDA-SE/cluster-image-scanner",2024-03,"Node Affinity",1
+"Skyscanner/applicationset-progressive-sync",2021-03,"Taints and tolerations",3
+"Skyscanner/kms-issuer",2022-05,"Taints and tolerations",3
+"StackStorm/stackstorm-k8s",2018-08,"Taints and tolerations",2
+"StackStorm/stackstorm-k8s",2022-02,"Pod Anti-Affinity",16
+"StackStorm/stackstorm-k8s",2022-02,"Taints and tolerations",15
+"StackStorm/stackstorm-k8s",2022-07,"Taints and tolerations",2
+"StarlingUAS/ProjectStarling",2021-02,"Taints and tolerations",2
+"StarlingUAS/ProjectStarling",2021-06,"Taints and tolerations",1
+"StarlingUAS/ProjectStarling",2021-08,"Taints and tolerations",2
+"StarlingUAS/ProjectStarling",2021-09,"Taints and tolerations",2
+"TIBCOSoftware/js-docker",2021-11,"Taints and tolerations",1
+"TIBCOSoftware/js-docker",2022-06,"Taints and tolerations",4
+"Tauffer-Consulting/domino",2023-05,"Node Affinity",1
+"WoSai/elastic-env-operator",2020-09,"Node Affinity",2
+"accuknox/discovery-engine",2021-05,"Taints and tolerations",4
+"accuknox/discovery-engine",2021-07,"Taints and tolerations",3
+"accuknox/discovery-engine",2021-11,"Taints and tolerations",1
+"accuknox/discovery-engine",2022-10,"Taints and tolerations",3
+"accuknox/discovery-engine",2023-04,"Node Affinity",1
+"agoda-com/samsahai",2019-07,"Taints and tolerations",3
+"airflow-helm/charts",2020-05,"Taints and tolerations",4
+"airflow-helm/charts",2021-07,"Taints and tolerations",24
+"airflow-helm/charts",2021-08,"Taints and tolerations",9
+"airflow-helm/charts",2022-04,"Taints and tolerations",3
+"alauda/kubeflow-chart",2022-08,"Pod Anti-Affinity",6
+"alauda/kubeflow-chart",2022-08,"Taints and tolerations",5
+"alauda/kubeflow-chart",2022-08,"Node Affinity",3
+"alauda/kubeflow-chart",2022-09,"Node Affinity",13
+"alauda/kubeflow-chart",2022-09,"Pod Anti-Affinity",12
+"alauda/kubeflow-chart",2022-09,"Taints and tolerations",12
+"alibaba/SREWorks",2022-03,"Node Affinity",62
+"alibaba/SREWorks",2022-03,"Pod Anti-Affinity",44
+"alibaba/SREWorks",2022-03,"Taints and tolerations",324
+"alibaba/SREWorks",2022-04,"Node Affinity",16
+"alibaba/SREWorks",2022-04,"Pod Anti-Affinity",19
+"alibaba/SREWorks",2022-04,"Taints and tolerations",143
+"alibaba/SREWorks",2022-05,"Taints and tolerations",1
+"alibaba/SREWorks",2022-09,"Taints and tolerations",26
+"alibaba/SREWorks",2022-10,"Node Affinity",6
+"alibaba/SREWorks",2022-10,"Pod Anti-Affinity",4
+"alibaba/SREWorks",2022-10,"Taints and tolerations",6
+"alibaba/SREWorks",2022-11,"Node Affinity",30
+"alibaba/SREWorks",2022-11,"Pod Anti-Affinity",16
+"alibaba/SREWorks",2022-11,"Taints and tolerations",223
+"alibaba/SREWorks",2022-12,"Node Affinity",10
+"alibaba/SREWorks",2022-12,"Pod Anti-Affinity",8
+"alibaba/SREWorks",2022-12,"Taints and tolerations",22
+"alibaba/hybridnet",2022-03,"Taints and tolerations",3
+"alibaba/hybridnet",2022-03,"Pod Anti-Affinity",1
+"alibaba/kubeskoop",2023-01,"Taints and tolerations",5
+"alibaba/kubeskoop",2023-01,"Node Affinity",2
+"alibaba/kubeskoop",2023-08,"Node Affinity",1
+"alibaba/kubeskoop",2023-08,"Taints and tolerations",1
+"alibaba/kubeskoop",2024-03,"Taints and tolerations",4
+"alibaba/open-local",2021-07,"Taints and tolerations",4
+"alibaba/open-local",2021-07,"Node Affinity",2
+"alibaba/open-local",2021-07,"Pod Anti-Affinity",2
+"alibaba/open-local",2021-08,"Taints and tolerations",6
+"alibaba/open-local",2021-09,"Taints and tolerations",2
+"alibaba/open-local",2021-10,"Taints and tolerations",1
+"alibaba/open-local",2021-11,"Taints and tolerations",1
+"alibaba/open-local",2021-12,"Taints and tolerations",1
+"alibaba/open-local",2022-02,"Node Affinity",1
+"alibaba/open-local",2022-02,"Pod Anti-Affinity",1
+"alibaba/open-local",2022-02,"Taints and tolerations",1
+"alibaba/open-local",2022-06,"Taints and tolerations",1
+"alibaba/open-local",2022-09,"Taints and tolerations",1
+"amikos-tech/chromadb-chart",2023-07,"Taints and tolerations",1
+"angelnu/helm-charts",2022-10,"Node Affinity",1
+"angelnu/helm-charts",2022-10,"Taints and tolerations",3
+"apcj-f5/nap-devsecops-demo",2023-07,"Taints and tolerations",2
+"apcj-f5/nap-devsecops-demo",2023-10,"Taints and tolerations",4
+"apcj-f5/nap-devsecops-demo",2023-11,"Taints and tolerations",1
+"apigeeks-com/a6s-k8s-keycloak-manager",2019-03,"Taints and tolerations",1
+"aquasecurity/postee",2021-03,"Taints and tolerations",3
+"aquasecurity/postee",2022-04,"Taints and tolerations",4
+"arlonproj/arlon",2021-11,"Taints and tolerations",2
+"arlonproj/arlon",2022-03,"Taints and tolerations",1
+"arlonproj/arlon",2022-05,"Taints and tolerations",1
+"arlonproj/arlon",2023-02,"Taints and tolerations",2
+"arttor/helmify",2022-05,"Taints and tolerations",1
+"arttor/helmify",2023-04,"Taints and tolerations",4
+"asobti/kube-monkey",2018-05,"Taints and tolerations",3
+"astefanutti/kubebox",2020-03,"Taints and tolerations",1
+"aylei/kubectl-debug",2019-03,"Taints and tolerations",2
+"banzaicloud/banzai-charts",2018-06,"Taints and tolerations",16
+"banzaicloud/banzai-charts",2018-08,"Taints and tolerations",13
+"banzaicloud/banzai-charts",2018-10,"Taints and tolerations",9
+"banzaicloud/banzai-charts",2018-09,"Taints and tolerations",3
+"banzaicloud/banzai-charts",2018-11,"Taints and tolerations",48
+"banzaicloud/banzai-charts",2018-12,"Taints and tolerations",8
+"banzaicloud/banzai-charts",2019-01,"Taints and tolerations",8
+"banzaicloud/banzai-charts",2019-02,"Taints and tolerations",19
+"banzaicloud/banzai-charts",2019-03,"Taints and tolerations",6
+"banzaicloud/banzai-charts",2019-04,"Taints and tolerations",17
+"banzaicloud/banzai-charts",2019-05,"Taints and tolerations",4
+"banzaicloud/banzai-charts",2019-08,"Taints and tolerations",2
+"banzaicloud/banzai-charts",2019-11,"Taints and tolerations",5
+"banzaicloud/banzai-charts",2020-07,"Node Affinity",3
+"banzaicloud/banzai-charts",2020-07,"Pod Anti-Affinity",3
+"banzaicloud/banzai-charts",2020-07,"Taints and tolerations",6
+"banzaicloud/banzai-charts",2020-08,"Taints and tolerations",5
+"banzaicloud/banzai-charts",2020-09,"Taints and tolerations",3
+"banzaicloud/banzai-charts",2020-10,"Taints and tolerations",29
+"banzaicloud/banzai-charts",2020-10,"Node Affinity",3
+"banzaicloud/banzai-charts",2020-10,"Pod Anti-Affinity",15
+"banzaicloud/banzai-charts",2020-11,"Taints and tolerations",2
+"banzaicloud/banzai-charts",2021-02,"Node Affinity",3
+"banzaicloud/banzai-charts",2021-02,"Pod Anti-Affinity",3
+"banzaicloud/banzai-charts",2021-02,"Taints and tolerations",3
+"banzaicloud/istio-operator",2021-06,"Pod Anti-Affinity",4
+"banzaicloud/istio-operator",2021-06,"Taints and tolerations",19
+"banzaicloud/istio-operator",2021-08,"Node Affinity",8
+"banzaicloud/istio-operator",2021-08,"Pod Anti-Affinity",5
+"banzaicloud/istio-operator",2021-08,"Taints and tolerations",17
+"banzaicloud/istio-operator",2021-09,"Node Affinity",6
+"banzaicloud/istio-operator",2021-09,"Taints and tolerations",9
+"banzaicloud/istio-operator",2022-09,"Taints and tolerations",2
+"banzaicloud/pipeline",2019-10,"Taints and tolerations",1
+"bcgov/OCWA",2018-10,"Taints and tolerations",20
+"bcgov/OCWA",2019-02,"Taints and tolerations",2
+"bcgov/OCWA",2019-04,"Taints and tolerations",3
+"bcgov/OCWA",2019-12,"Taints and tolerations",3
+"beluga-cloud/charts",2023-02,"Taints and tolerations",17
+"beluga-cloud/charts",2023-02,"Node Affinity",7
+"beluga-cloud/charts",2023-04,"Taints and tolerations",11
+"beluga-cloud/charts",2023-04,"Node Affinity",3
+"beluga-cloud/charts",2023-04,"Pod Anti-Affinity",1
+"beluga-cloud/charts",2023-05,"Taints and tolerations",14
+"beluga-cloud/charts",2023-05,"Node Affinity",8
+"benc-uk/smilr",2019-05,"Node Affinity",6
+"benc-uk/smilr",2019-08,"Taints and tolerations",2
+"bentoml/Yatai",2021-08,"Taints and tolerations",3
+"bentoml/Yatai",2021-10,"Taints and tolerations",6
+"bentoml/Yatai",2021-12,"Taints and tolerations",3
+"bentoml/Yatai",2022-08,"Taints and tolerations",3
+"bergerx/kubectl-status",2020-03,"Taints and tolerations",12
+"bergerx/kubectl-status",2024-07,"Taints and tolerations",5
+"binary-braids/kubernetes-homelab",2024-03,"Node Affinity",3
+"binary-braids/kubernetes-homelab",2024-03,"Pod Anti-Affinity",3
+"binary-braids/kubernetes-homelab",2024-03,"Taints and tolerations",3
+"bitovi/bitops",2020-11,"Taints and tolerations",6
+"bitpoke/mysql-operator",2018-03,"Pod Anti-Affinity",1
+"bitpoke/mysql-operator",2018-03,"Taints and tolerations",10
+"bitpoke/mysql-operator",2018-05,"Node Affinity",1
+"bitpoke/mysql-operator",2018-05,"Pod Anti-Affinity",1
+"bitpoke/mysql-operator",2018-09,"Taints and tolerations",3
+"bitpoke/mysql-operator",2020-07,"Node Affinity",2
+"bitpoke/mysql-operator",2020-07,"Pod Anti-Affinity",2
+"bitpoke/mysql-operator",2020-07,"Taints and tolerations",1
+"bitpoke/wordpress-operator",2018-07,"Taints and tolerations",3
+"bitpoke/wordpress-operator",2018-08,"Taints and tolerations",3
+"bitpoke/wordpress-operator",2020-05,"Node Affinity",1
+"bitpoke/wordpress-operator",2020-05,"Pod Anti-Affinity",1
+"bitpoke/wordpress-operator",2020-05,"Taints and tolerations",1
+"bitpoke/wordpress-operator",2020-06,"Node Affinity",1
+"bitpoke/wordpress-operator",2020-06,"Pod Anti-Affinity",1
+"bitpoke/wordpress-operator",2020-06,"Taints and tolerations",1
+"bitpoke/wordpress-operator",2021-12,"Node Affinity",1
+"bitpoke/wordpress-operator",2021-12,"Pod Anti-Affinity",1
+"bitpoke/wordpress-operator",2021-12,"Taints and tolerations",1
+"blackducksoftware/opssight-connector",2020-04,"Taints and tolerations",1
+"bloomberg/goldpinger",2023-09,"Taints and tolerations",3
+"bluek8s/kubedirector",2021-01,"Node Affinity",1
+"bman46/CTFd-Helm",2022-07,"Taints and tolerations",3
+"brigadecore/brigade",2020-10,"Taints and tolerations",4
+"brigadecore/brigade",2020-10,"Pod Anti-Affinity",2
+"brigadecore/brigade",2020-11,"Taints and tolerations",4
+"brigadecore/brigade",2020-12,"Taints and tolerations",4
+"brigadecore/brigade",2021-11,"Pod Anti-Affinity",2
+"brigadecore/brigade",2021-11,"Taints and tolerations",6
+"brightbox/brightbox-cloud-controller-manager",2018-08,"Taints and tolerations",1
+"camerahub/camerahub",2023-04,"Taints and tolerations",6
+"camilb/prometheus-kubernetes",2017-09,"Taints and tolerations",1
+"caoyingjunz/csi-driver-localstorage",2023-05,"Taints and tolerations",1
+"caoyingjunz/csi-driver-localstorage",2023-06,"Node Affinity",1
+"caoyingjunz/csi-driver-localstorage",2023-06,"Taints and tolerations",1
+"caoyingjunz/csi-driver-localstorage",2023-07,"Node Affinity",2
+"caoyingjunz/csi-driver-localstorage",2023-07,"Taints and tolerations",3
+"caoyingjunz/csi-driver-localstorage",2023-08,"Node Affinity",1
+"caoyingjunz/csi-driver-localstorage",2023-08,"Taints and tolerations",1
+"capactio/capact",2020-10,"Taints and tolerations",12
+"capactio/capact",2020-11,"Taints and tolerations",7
+"capactio/capact",2021-06,"Taints and tolerations",1
+"capactio/capact",2022-01,"Taints and tolerations",3
+"capactio/capact",2022-03,"Taints and tolerations",6
+"carina-io/carina",2021-02,"Pod Anti-Affinity",3
+"carina-io/carina",2021-02,"Node Affinity",1
+"carina-io/carina",2021-04,"Node Affinity",1
+"carina-io/carina",2021-04,"Pod Anti-Affinity",1
+"carina-io/carina",2021-11,"Taints and tolerations",24
+"carina-io/carina",2021-11,"Node Affinity",6
+"carina-io/carina",2021-12,"Taints and tolerations",12
+"carina-io/carina",2021-12,"Node Affinity",3
+"carina-io/carina",2022-01,"Taints and tolerations",3
+"carina-io/carina",2022-04,"Taints and tolerations",4
+"cby-chen/Kubernetes",2022-02,"Pod Anti-Affinity",1
+"cby-chen/Kubernetes",2022-02,"Taints and tolerations",8
+"cby-chen/Kubernetes",2022-05,"Taints and tolerations",8
+"cby-chen/Kubernetes",2022-06,"Pod Anti-Affinity",2
+"cby-chen/Kubernetes",2022-06,"Taints and tolerations",1
+"cby-chen/Kubernetes",2022-09,"Pod Anti-Affinity",5
+"cby-chen/Kubernetes",2022-10,"Taints and tolerations",3
+"cby-chen/Kubernetes",2023-06,"Taints and tolerations",9
+"cby-chen/Kubernetes",2023-06,"Pod Anti-Affinity",5
+"cc4i/mahjong0",2020-06,"Taints and tolerations",15
+"cc4i/mahjong0",2020-06,"Node Affinity",10
+"cc4i/mahjong0",2020-06,"Pod Anti-Affinity",10
+"cc4i/mahjong0",2020-07,"Node Affinity",8
+"cc4i/mahjong0",2020-07,"Pod Anti-Affinity",9
+"cc4i/mahjong0",2020-07,"Taints and tolerations",8
+"chartmuseum/helm-push",2019-12,"Taints and tolerations",3
+"chriskinsman/tilloo",2019-01,"Taints and tolerations",1
+"chriskinsman/tilloo",2024-08,"Taints and tolerations",1
+"clickvisual/clickvisual",2022-03,"Taints and tolerations",3
+"clickvisual/clickvisual",2022-05,"Taints and tolerations",3
+"cloudflare/helm-charts",2022-02,"Pod Anti-Affinity",1
+"cloudflare/helm-charts",2022-02,"Taints and tolerations",3
+"cloudflare/helm-charts",2023-08,"Taints and tolerations",1
+"cloudposse/charts",2018-07,"Taints and tolerations",3
+"cloudposse/charts",2018-09,"Taints and tolerations",6
+"cloudposse/charts",2019-03,"Taints and tolerations",14
+"cloudposse/charts",2019-05,"Taints and tolerations",1
+"cloudposse/charts",2019-09,"Taints and tolerations",5
+"cloudposse-archives/helmfiles",2020-11,"Taints and tolerations",5
+"cloudposse-archives/helmfiles",2020-11,"Pod Anti-Affinity",1
+"cloudposse-archives/prometheus-to-cloudwatch",2018-03,"Taints and tolerations",3
+"cnieg/helm-charts",2020-04,"Taints and tolerations",11
+"cnieg/helm-charts",2020-05,"Pod Anti-Affinity",5
+"cnieg/helm-charts",2020-05,"Taints and tolerations",46
+"cnieg/helm-charts",2020-08,"Taints and tolerations",3
+"cnieg/helm-charts",2021-01,"Taints and tolerations",3
+"cnieg/helm-charts",2021-08,"Taints and tolerations",3
+"codecentric/habitcentric",2020-06,"Taints and tolerations",5
+"colearendt/helm",2021-02,"Taints and tolerations",6
+"colearendt/helm",2021-03,"Taints and tolerations",3
+"colearendt/helm",2021-05,"Taints and tolerations",1
+"config-syncer/config-syncer",2018-02,"Taints and tolerations",1
+"config-syncer/config-syncer",2020-05,"Taints and tolerations",1
+"contiv/install",2017-12,"Taints and tolerations",1
+"contiv/vpp",2017-10,"Taints and tolerations",13
+"contiv/vpp",2017-10,"Pod Anti-Affinity",4
+"contiv/vpp",2018-02,"Taints and tolerations",3
+"contiv/vpp",2018-04,"Taints and tolerations",3
+"contiv/vpp",2018-08,"Taints and tolerations",3
+"contiv/vpp",2018-09,"Taints and tolerations",1
+"contiv/vpp",2019-01,"Node Affinity",2
+"contiv/vpp",2019-01,"Taints and tolerations",3
+"contiv/vpp",2019-03,"Taints and tolerations",6
+"contiv/vpp",2019-06,"Taints and tolerations",1
+"contiv/vpp",2019-09,"Taints and tolerations",4
+"cosmo-workspace/cosmo",2022-03,"Taints and tolerations",4
+"cosmo-workspace/cosmo",2023-04,"Taints and tolerations",2
+"cosmo-workspace/cosmo",2023-07,"Taints and tolerations",4
+"csweichel/werft",2020-01,"Taints and tolerations",3
+"cubefs/cubefs-helm",2023-08,"Taints and tolerations",10
+"cvmfs-contrib/cvmfs-csi",2022-08,"Taints and tolerations",4
+"cyberark/conjur-oss-helm-chart",2018-07,"Taints and tolerations",3
+"danielfoehrKn/kubeswitch",2023-11,"Taints and tolerations",1
+"danroux/sk8l-api",2023-11,"Taints and tolerations",3
+"danroux/sk8l-api",2024-02,"Taints and tolerations",2
+"debianmaster/openshift-examples",2017-11,"Pod Anti-Affinity",1
+"deliverybot/helm",2019-08,"Taints and tolerations",3
+"deliverybot/helm",2019-09,"Taints and tolerations",2
+"deployKF/deployKF",2023-07,"Taints and tolerations",26
+"deployKF/deployKF",2023-07,"Node Affinity",9
+"deployKF/deployKF",2023-07,"Pod Anti-Affinity",9
+"deployKF/deployKF",2023-09,"Taints and tolerations",3
+"determined-ai/determined",2020-08,"Node Affinity",1
+"determined-ai/determined",2020-08,"Taints and tolerations",1
+"devicehive/devicehive-docker",2018-05,"Taints and tolerations",3
+"devspace-cloud/devspace-cloud",2019-09,"Node Affinity",2
+"devspace-cloud/devspace-cloud",2019-10,"Taints and tolerations",3
+"dhall-lang/dhall-kubernetes",2020-01,"Taints and tolerations",7
+"digitalocean/clusterlint",2023-08,"Taints and tolerations",1
+"digitalocean/do-operator",2023-05,"Taints and tolerations",1
+"dntosas/astrolavos",2023-02,"Taints and tolerations",4
+"ekristen/alertmanager-controller",2022-07,"Pod Anti-Affinity",2
+"ekristen/alertmanager-controller",2022-07,"Taints and tolerations",3
+"ekristen/dockit",2022-05,"Pod Anti-Affinity",2
+"ekristen/dockit",2022-05,"Taints and tolerations",3
+"elemental-lf/benji",2021-02,"Taints and tolerations",2
+"elemental-lf/benji",2022-10,"Taints and tolerations",4
+"estafette/estafette-ci-api",2019-11,"Taints and tolerations",4
+"estafette/estafette-ci-api",2019-11,"Node Affinity",2
+"estafette/estafette-ci-api",2021-09,"Node Affinity",3
+"estafette/estafette-ci-api",2021-09,"Taints and tolerations",3
+"estafette/estafette-gke-node-pool-shifter",2019-11,"Taints and tolerations",3
+"estafette/estafette-gke-node-pool-shifter",2019-11,"Node Affinity",1
+"estafette/estafette-gke-preemptible-killer",2019-11,"Taints and tolerations",3
+"estafette/estafette-gke-preemptible-killer",2019-11,"Node Affinity",1
+"estahn/charts",2020-12,"Taints and tolerations",7
+"estahn/charts",2021-10,"Taints and tolerations",3
+"ettec/open-trading-platform",2020-12,"Taints and tolerations",3
+"everoute/everoute",2021-09,"Taints and tolerations",2
+"everoute/everoute",2022-05,"Taints and tolerations",1
+"everoute/everoute",2024-10,"Taints and tolerations",2
+"evryfs/helm-charts",2019-11,"Pod Anti-Affinity",1
+"evryfs/helm-charts",2019-12,"Taints and tolerations",3
+"evryfs/helm-charts",2020-04,"Node Affinity",2
+"evryfs/helm-charts",2020-04,"Pod Anti-Affinity",2
+"evryfs/helm-charts",2020-04,"Taints and tolerations",8
+"evryfs/helm-charts",2020-06,"Taints and tolerations",3
+"evryfs/helm-charts",2021-08,"Taints and tolerations",3
+"faasm/faasm",2022-03,"Pod Anti-Affinity",1
+"faasm/faasm",2023-03,"Pod Anti-Affinity",1
+"feiyu563/PrometheusAlert",2019-08,"Taints and tolerations",6
+"finleap-connect/monoskope",2021-09,"Pod Anti-Affinity",5
+"finleap-connect/monoskope",2021-09,"Taints and tolerations",15
+"finleap-connect/monoskope",2021-12,"Pod Anti-Affinity",1
+"finleap-connect/monoskope",2021-12,"Taints and tolerations",3
+"finleap-connect/vaultoperator",2022-03,"Taints and tolerations",2
+"flant/loghouse",2017-10,"Taints and tolerations",30
+"fluidos-project/node",2023-09,"Pod Anti-Affinity",3
+"fluidos-project/node",2023-09,"Taints and tolerations",12
+"fluidos-project/node",2024-03,"Taints and tolerations",4
+"fluidos-project/node",2024-10,"Pod Anti-Affinity",1
+"fluidos-project/node",2024-10,"Taints and tolerations",3
+"fluxcd/flagger",2018-10,"Taints and tolerations",3
+"fluxcd/flagger",2019-01,"Taints and tolerations",3
+"fluxcd/flagger",2019-02,"Taints and tolerations",3
+"fluxcd/flagger",2019-11,"Pod Anti-Affinity",1
+"fluxcd/flagger",2019-11,"Taints and tolerations",3
+"fluxninja/aperture",2022-08,"Taints and tolerations",34
+"fluxninja/aperture",2022-08,"Node Affinity",7
+"fluxninja/aperture",2022-08,"Pod Anti-Affinity",7
+"fluxninja/aperture",2022-09,"Taints and tolerations",5
+"fluxninja/aperture",2022-09,"Node Affinity",1
+"fluxninja/aperture",2022-09,"Pod Anti-Affinity",1
+"fluxninja/aperture",2022-11,"Pod Anti-Affinity",1
+"fluxninja/aperture",2022-11,"Taints and tolerations",3
+"fluxninja/aperture",2023-04,"Taints and tolerations",6
+"fluxninja/aperture",2023-05,"Pod Anti-Affinity",1
+"fluxninja/aperture",2023-05,"Taints and tolerations",3
+"fluxninja/aperture",2023-07,"Taints and tolerations",1
+"fmjstudios/helm",2023-12,"Taints and tolerations",21
+"fmjstudios/helm",2024-01,"Taints and tolerations",12
+"fmjstudios/helm",2024-06,"Taints and tolerations",19
+"fmjstudios/helm",2024-07,"Taints and tolerations",4
+"fmjstudios/helm",2024-08,"Node Affinity",1
+"fmjstudios/helm",2024-08,"Pod Anti-Affinity",1
+"fmjstudios/helm",2024-08,"Taints and tolerations",1
+"furiko-io/furiko",2022-02,"Node Affinity",2
+"furiko-io/furiko",2022-02,"Pod Anti-Affinity",2
+"furiko-io/furiko",2022-02,"Taints and tolerations",2
+"fydrah/loginapp",2020-05,"Taints and tolerations",3
+"gmelillo/helm-charts",2020-10,"Taints and tolerations",6
+"gmelillo/helm-charts",2021-01,"Taints and tolerations",10
+"gmelillo/helm-charts",2021-04,"Taints and tolerations",23
+"gmelillo/helm-charts",2021-04,"Node Affinity",1
+"gmelillo/registry",2020-10,"Taints and tolerations",3
+"goatlas-io/atlas",2021-10,"Taints and tolerations",3
+"gobackup/gobackup-operator",2026-01,"Taints and tolerations",3
+"gocardless/theatre",2020-07,"Node Affinity",4
+"gocardless/theatre",2020-07,"Pod Anti-Affinity",4
+"gocardless/theatre",2020-07,"Taints and tolerations",4
+"gocrane/crane",2021-11,"Taints and tolerations",2
+"gocrane/crane",2023-03,"Taints and tolerations",1
+"google/shifter",2022-08,"Taints and tolerations",1
+"google/shifter",2022-08,"Pod Anti-Affinity",4
+"gudaoxuri/dew",2019-03,"Taints and tolerations",3
+"halkyonio/tap",2022-03,"Taints and tolerations",2
+"halkyonio/tap",2022-06,"Pod Anti-Affinity",2
+"hendrikmaus/helm-templexer",2020-07,"Taints and tolerations",3
+"hivelocity/cluster-api-provider-hivelocity",2023-01,"Node Affinity",1
+"hivelocity/cluster-api-provider-hivelocity",2023-06,"Taints and tolerations",3
+"hivelocity/cluster-api-provider-hivelocity",2023-06,"Pod Anti-Affinity",2
+"hivelocity/cluster-api-provider-hivelocity",2024-02,"Taints and tolerations",1
+"holos-run/holos",2024-05,"Node Affinity",10
+"holos-run/holos",2024-05,"Pod Anti-Affinity",10
+"holos-run/holos",2024-05,"Taints and tolerations",10
+"holos-run/holos",2024-07,"Pod Anti-Affinity",11
+"holos-run/holos",2024-07,"Node Affinity",10
+"holos-run/holos",2024-07,"Taints and tolerations",10
+"holos-run/holos",2024-08,"Pod Anti-Affinity",11
+"holos-run/holos",2024-08,"Taints and tolerations",72
+"holos-run/holos",2024-08,"Node Affinity",4
+"holos-run/holos",2025-04,"Taints and tolerations",1
+"holos-run/holos",2025-05,"Taints and tolerations",34
+"hpe-storage/truenas-csp",2021-09,"Taints and tolerations",7
+"hpe-storage/truenas-csp",2022-07,"Taints and tolerations",2
+"hyperledger-bevel/bevel",2019-10,"Pod Anti-Affinity",1
+"hyperledger-bevel/bevel",2020-11,"Taints and tolerations",6
+"hyperledger-bevel/bevel",2021-02,"Taints and tolerations",2
+"hyperledger-bevel/bevel",2021-05,"Taints and tolerations",2
+"hyperledger-bevel/bevel",2021-11,"Taints and tolerations",12
+"hyperledger-bevel/bevel",2023-02,"Taints and tolerations",2
+"hyperledger-bevel/bevel",2023-05,"Taints and tolerations",3
+"hyperspike/gitea-operator",2024-08,"Node Affinity",2
+"hyperspike/gitea-operator",2024-08,"Pod Anti-Affinity",1
+"hyperspike/gitea-operator",2024-08,"Taints and tolerations",2
+"inclavare-containers/inclavare-containers",2021-01,"Node Affinity",1
+"indeedeng/harbor-container-webhook",2020-10,"Taints and tolerations",3
+"instaclustr/cassandra-operator",2018-05,"Taints and tolerations",4
+"instaclustr/cassandra-operator",2018-08,"Taints and tolerations",1
+"instrumenta/kubeval",2017-07,"Taints and tolerations",1
+"intelops/kubviz",2022-03,"Taints and tolerations",6
+"intelops/kubviz",2022-04,"Taints and tolerations",6
+"intelops/kubviz",2023-12,"Node Affinity",1
+"intelops/kubviz",2023-12,"Pod Anti-Affinity",1
+"intelops/kubviz",2023-12,"Taints and tolerations",3
+"isac322/homelab",2021-07,"Taints and tolerations",3
+"isac322/homelab",2021-08,"Taints and tolerations",6
+"isac322/homelab",2021-09,"Taints and tolerations",3
+"isac322/homelab",2021-11,"Taints and tolerations",5
+"isac322/homelab",2021-12,"Taints and tolerations",1
+"isac322/homelab",2022-04,"Taints and tolerations",1
+"isac322/homelab",2022-08,"Node Affinity",1
+"isac322/homelab",2022-08,"Taints and tolerations",2
+"isac322/homelab",2022-10,"Taints and tolerations",3
+"isac322/homelab",2022-11,"Pod Anti-Affinity",3
+"isac322/homelab",2022-11,"Taints and tolerations",5
+"isac322/homelab",2022-12,"Taints and tolerations",1
+"isac322/homelab",2023-01,"Pod Anti-Affinity",3
+"isac322/homelab",2023-01,"Taints and tolerations",23
+"isac322/homelab",2023-04,"Taints and tolerations",3
+"isac322/homelab",2023-10,"Taints and tolerations",3
+"isac322/homelab",2023-10,"Node Affinity",1
+"isac322/homelab",2024-03,"Taints and tolerations",2
+"isac322/homelab",2025-03,"Taints and tolerations",1
+"isac322/homelab",2025-11,"Taints and tolerations",1
+"isac322/homelab",2025-12,"Taints and tolerations",1
+"isac322/homelab",2026-04,"Node Affinity",1
+"isac322/homelab",2026-04,"Pod Anti-Affinity",1
+"isac322/homelab",2026-04,"Taints and tolerations",1
+"jakoberpf/charts",2022-03,"Taints and tolerations",6
+"jakoberpf/charts",2022-04,"Taints and tolerations",1
+"jakoberpf/charts",2022-07,"Taints and tolerations",3
+"jakoberpf/charts",2022-11,"Taints and tolerations",3
+"jakoberpf/charts",2023-02,"Taints and tolerations",6
+"jakoberpf/charts",2023-02,"Node Affinity",1
+"jakoberpf/charts",2023-02,"Pod Anti-Affinity",1
+"jakoberpf/charts",2023-04,"Taints and tolerations",5
+"jakoberpf/charts",2023-10,"Taints and tolerations",3
+"jmickey/telegraf-sidecar-operator",2024-06,"Taints and tolerations",3
+"jtblin/kube2iam",2020-11,"Taints and tolerations",3
+"jtblin/kube2iam",2026-05,"Taints and tolerations",1
+"jumppad-labs/jumppad",2021-05,"Taints and tolerations",35
+"k8s-proxmox/cluster-api-provider-proxmox",2023-04,"Node Affinity",1
+"k8s-proxmox/cluster-api-provider-proxmox",2023-10,"Taints and tolerations",1
+"k8snetworkplumbingwg/multus-dynamic-networks-controller",2022-08,"Taints and tolerations",1
+"k8snetworkplumbingwg/multus-dynamic-networks-controller",2022-10,"Taints and tolerations",1
+"k8snetworkplumbingwg/multus-dynamic-networks-controller",2024-01,"Taints and tolerations",1
+"k8spin/grafana-multi-tenant-operator",2020-11,"Taints and tolerations",3
+"k8tz/k8tz",2021-09,"Taints and tolerations",7
+"kaidotdev/kube-trivy-exporter",2019-10,"Pod Anti-Affinity",1
+"kdash-rs/kdash",2021-05,"Taints and tolerations",20
+"kdash-rs/kdash",2021-06,"Taints and tolerations",4
+"kdash-rs/kdash",2021-07,"Taints and tolerations",1
+"kdash-rs/kdash",2023-07,"Node Affinity",8
+"kdash-rs/kdash",2023-07,"Pod Anti-Affinity",1
+"kdash-rs/kdash",2023-07,"Taints and tolerations",5
+"keikoproj/active-monitor",2024-02,"Node Affinity",1
+"keikoproj/iam-manager",2020-01,"Node Affinity",3
+"keikoproj/iam-manager",2020-01,"Pod Anti-Affinity",3
+"keikoproj/iam-manager",2020-01,"Taints and tolerations",3
+"knix-microfunctions/knix",2020-04,"Pod Anti-Affinity",1
+"knix-microfunctions/knix",2020-04,"Taints and tolerations",1
+"kobsio/kobs",2021-04,"Taints and tolerations",3
+"kobsio/kobs",2022-06,"Taints and tolerations",3
+"kobsio/kobs",2022-07,"Taints and tolerations",2
+"kobsio/kobs",2023-05,"Taints and tolerations",9

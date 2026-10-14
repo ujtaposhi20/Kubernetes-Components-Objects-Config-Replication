@@ -1,0 +1,6 @@
+Method,Tool,ReposUsing,RepoPct,SurveyYesPct,CohenH,Interpretation
+GitOps,Flux,45,8.0,27.0,0.52,Partial Alignment
+GitOps,ArgoCD,55,9.7,29.7,0.52,Partial Alignment
+IaC,Ansible,44,7.8,29.7,0.59,Divergence
+IaC,Terraform,89,15.8,56.8,0.89,Divergence
+Pkg. Manager,Helm,397,70.3,65.6,0.1,Alignment

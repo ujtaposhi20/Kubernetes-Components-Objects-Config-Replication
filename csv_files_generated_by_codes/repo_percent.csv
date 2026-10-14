@@ -1,0 +1,20 @@
+Object,ReposUsing,RepoPct
+Autoscaler,67,11.9
+ConfigMap,300,53.1
+CustomResourceDefinition,215,38.1
+DaemonSet,124,21.9
+Deployment,454,80.4
+Ingress,173,30.6
+LimitRange,5,0.9
+Namespace,203,35.9
+NetworkPolicy,36,6.4
+PersistentVolume,50,8.8
+PersistentVolumeClaim,132,23.4
+Pod,154,27.3
+ReplicaSet,9,1.6
+Secret,244,43.2
+Service,420,74.3
+StatefulSet,119,21.1
+Node Affinity,30,5.3
+Pod Anti-Affinity,26,4.6
+Taints and tolerations,84,14.9

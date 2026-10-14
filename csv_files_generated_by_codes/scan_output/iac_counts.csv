@@ -1,0 +1,6 @@
+tool,repos_with_signal
+Terraform,250
+Helm,771
+Ansible,149
+ArgoCD,108
+Flux,121

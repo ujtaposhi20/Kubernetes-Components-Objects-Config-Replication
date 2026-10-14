@@ -1,0 +1,21 @@
+Category,Rapid+,Rapid,Modern,Slow,p_value,p_bonferroni,significant_bonferroni
+Autoscaler,28,75,58,44,0.1427,1,FALSE
+ConfigMap,235,565,740,428,0.001,0.0199,TRUE
+CustomResourceDefinition,318,976,1165,843,0.7105,1,FALSE
+DaemonSet,23,68,203,121,0.3396,1,FALSE
+Deployment,398,920,1391,795,0.0083,0.1665,FALSE
+EndpointSlice,2,15,11,9,0.7578,1,FALSE
+Ingress,125,179,190,104,0.0001,0.0001,TRUE
+LimitRange,1,0,5,0,0.1595,1,FALSE
+Namespace,55,141,175,146,0.7966,1,FALSE
+NetworkPolicy,23,11,58,48,0.1605,1,FALSE
+PersistentVolume,14,27,101,10,0.0176,0.3521,FALSE
+PersistentVolumeClaim,76,147,231,77,0.0116,0.2316,FALSE
+Pod,36,181,461,89,0.3385,1,FALSE
+ReplicaSet,5,0,32,0,0.0236,0.4717,FALSE
+Secret,165,364,497,307,0.0006,0.0128,TRUE
+Service,368,892,1179,1361,0.0035,0.0691,FALSE
+StatefulSet,42,135,248,118,0.1119,1,FALSE
+Node affinity,3,3,13,11,0.2768,1,FALSE
+Pod anti-affinity,5,1,8,12,0.0036,0.0712,FALSE
+Taints,8,9,40,27,0.028,0.5598,FALSE
